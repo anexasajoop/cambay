@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anusvaradeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0902"/>
+  <outline>
+    <contour>
+      <point x="-117" y="523" type="line"/>
+      <point x="-49" y="523" type="line"/>
+      <point x="-49" y="588" type="line"/>
+      <point x="-117" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="-83" y="447" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

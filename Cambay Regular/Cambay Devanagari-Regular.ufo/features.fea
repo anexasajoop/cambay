@@ -1,0 +1,57 @@
+feature cjct {
+sub dadeva viramadeva dhadeva by dadeva_viramadeva_dhadeva;
+sub ddadeva viramadeva radeva by ddadeva_viramadeva_radeva;
+} cjct;
+feature half {
+sub kadeva viramadeva by kadeva_viramadeva;
+sub khadeva viramadeva by khadeva_viramadeva;
+sub gadeva viramadeva by gadeva_viramadeva;
+sub ghadeva viramadeva by ghadeva_viramadeva;
+sub ngadeva viramadeva by ngadeva_viramadeva;
+sub cadeva viramadeva by cadeva_viramadeva;
+sub chadeva viramadeva by chadeva_viramadeva;
+sub jadeva viramadeva by jadeva_viramadeva;
+sub jhadeva viramadeva by jhadeva_viramadeva;
+sub nyadeva viramadeva by nyadeva_viramadeva;
+sub ttadeva viramadeva by ttadeva_viramadeva;
+sub tthadeva viramadeva by tthadeva_viramadeva;
+sub ddadeva viramadeva by ddadeva_viramadeva;
+sub ddhadeva viramadeva by ddhadeva_viramadeva;
+sub nnadeva viramadeva by nnadeva_viramadeva;
+sub tadeva viramadeva by tadeva_viramadeva;
+sub thadeva viramadeva by thadeva_viramadeva;
+sub dadeva viramadeva by dadeva_viramadeva;
+sub dhadeva viramadeva by dhadeva_viramadeva;
+sub nadeva viramadeva by nadeva_viramadeva;
+sub padeva viramadeva by padeva_viramadeva;
+sub phadeva viramadeva by phadeva_viramadeva;
+sub badeva viramadeva by badeva_viramadeva;
+sub bhadeva viramadeva by bhadeva_viramadeva;
+sub madeva viramadeva by madeva_viramadeva;
+sub yadeva viramadeva by yadeva_viramadeva;
+sub ladeva viramadeva by ladeva_viramadeva;
+sub shadeva viramadeva by shadeva_viramadeva;
+sub ssadeva viramadeva by ssadeva_viramadeva;
+sub sadeva viramadeva by sadeva_viramadeva;
+sub hadeva viramadeva by hadeva_viramadeva;
+} half;
+feature rkrf {
+sub madeva viramadeva radeva by madeva_viramadeva_radeva;
+} rkrf;
+feature psts {
+sub radeva uusigndeva by radeva_uusigndeva;
+sub hadeva usigndeva by hadeva_usigndeva;
+} psts;
+feature nukt {
+sub kadeva nuktadeva by qadeva;
+sub khadeva nuktadeva by khhadeva;
+sub gadeva nuktadeva by ghhadeva;
+sub jadeva nuktadeva by zadeva;
+sub ddadeva nuktadeva by dddhadeva;
+sub ddhadeva nuktadeva by rhadeva;
+sub phadeva nuktadeva by fadeva;
+sub yadeva nuktadeva by yyadeva;
+} nukt;
+feature rphf {
+sub radeva viramadeva by radeva_viramadeva;
+} rphf;

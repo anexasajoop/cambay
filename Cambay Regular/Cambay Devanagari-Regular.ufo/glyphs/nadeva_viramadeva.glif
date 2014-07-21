@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nadeva_viramadeva" format="1">
+  <advance width="244"/>
+  <outline>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="268" y="408" type="line"/>
+      <point x="268" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="256" type="line"/>
+      <point x="42" y="224" type="line"/>
+      <point x="93" y="117" type="line"/>
+      <point x="93" y="117"/>
+      <point x="133" y="117"/>
+      <point x="133" y="117" type="curve"/>
+      <point x="133" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="256" type="line"/>
+      <point x="99" y="208" type="line"/>
+      <point x="304" y="208" type="line"/>
+      <point x="304" y="256" type="line"/>
+    </contour>
+  </outline>
+</glyph>
