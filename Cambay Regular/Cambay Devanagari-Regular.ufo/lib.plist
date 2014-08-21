@@ -494,11 +494,9 @@
 		<string>z-deva</string>
 		<string>f-deva</string>
 		<string>aaMatra-deva</string>
-		<string>iMatra_anusvara-deva</string>
 		<string>iMatra_reph-deva</string>
 		<string>iMatra_reph_anusvara-deva</string>
 		<string>iMatra-deva</string>
-		<string>iiMatra_anusvara-deva</string>
 		<string>iiMatra_reph-deva</string>
 		<string>iiMatra_reph_anusvara-deva</string>
 		<string>iiMatra-deva</string>
@@ -513,35 +511,73 @@
 		<string>auMatra_reph_anusvara-deva</string>
 		<string>auMatra-deva</string>
 		<string>iMatra-deva.alt1</string>
+		<string>iMatra_reph-deva.alt1</string>
+		<string>iMatra_reph_anusvara-deva.alt1</string>
 		<string>iiMatra-deva.alt1</string>
-		<string>iiMatra_anusvara-deva.alt1</string>
 		<string>iiMatra_reph_anusvara-deva.alt1</string>
 		<string>iiMatra_reph-deva.alt1</string>
 		<string>iMatra-deva.alt10</string>
+		<string>iMatra_reph-deva.alt10</string>
+		<string>iMatra_reph_anusvara-deva.alt10</string>
+		<string>iMatra-deva.alt11</string>
+		<string>iMatra-deva.alt12</string>
+		<string>iMatra-deva.alt13</string>
 		<string>iMatra-deva.alt2</string>
+		<string>iMatra_reph-deva.alt2</string>
+		<string>iMatra_reph_anusvara-deva.alt2</string>
 		<string>iiMatra-deva.alt2</string>
-		<string>iiMatra_anusvara-deva.alt2</string>
 		<string>iiMatra_reph-deva.alt2</string>
 		<string>iiMatra_reph_anusvara-deva.alt2</string>
 		<string>iMatra-deva.alt3</string>
+		<string>iMatra_reph-deva.alt3</string>
+		<string>iMatra_reph_anusvara-deva.alt3</string>
 		<string>iiMatra-deva.alt3</string>
-		<string>iiMatra_anusvara-deva.alt3</string>
 		<string>iiMatra_reph-deva.alt3</string>
 		<string>iiMatra_reph_anusvara-deva.alt3</string>
 		<string>iMatra-deva.alt4</string>
+		<string>iMatra_reph-deva.alt4</string>
+		<string>iMatra_reph_anusvara-deva.alt4</string>
 		<string>iiMatra-deva.alt4</string>
-		<string>iiMatra_anusvara-deva.alt4</string>
 		<string>iiMatra_reph-deva.alt4</string>
 		<string>iiMatra_reph_anusvara-deva.alt4</string>
 		<string>iMatra-deva.alt5</string>
+		<string>iMatra_reph-deva.alt5</string>
+		<string>iMatra_reph_anusvara-deva.alt5</string>
 		<string>iiMatra-deva.alt5</string>
-		<string>iiMatra_anusvara-deva.alt5</string>
 		<string>iiMatra_reph-deva.alt5</string>
 		<string>iiMatra_reph_anusvara-deva.alt5</string>
 		<string>iMatra-deva.alt6</string>
+		<string>iMatra_reph-deva.alt6</string>
+		<string>iMatra_reph_anusvara-deva.alt6</string>
 		<string>iMatra-deva.alt7</string>
+		<string>iMatra_reph-deva.alt7</string>
+		<string>iMatra_reph_anusvara-deva.alt7</string>
 		<string>iMatra-deva.alt8</string>
+		<string>iMatra_reph-deva.alt8</string>
+		<string>iMatra_reph_anusvara-deva.alt8</string>
 		<string>iMatra-deva.alt9</string>
+		<string>iMatra_reph-deva.alt9</string>
+		<string>iMatra_reph_anusvara-deva.alt9</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>zero-deva</string>
+		<string>one-deva</string>
+		<string>two-deva</string>
+		<string>three-deva</string>
+		<string>four-deva</string>
+		<string>five-deva</string>
+		<string>six-deva</string>
+		<string>seven-deva</string>
+		<string>eight-deva</string>
+		<string>nine-deva</string>
 		<string>asterisk</string>
 		<string>colon</string>
 		<string>comma</string>
@@ -610,7 +646,9 @@
 		<string>nukta-deva</string>
 		<string>reph-deva</string>
 		<string>reph_anusvara-deva</string>
+		<string>anusvara-deva.alt</string>
 		<string>rashtra-deva</string>
+		<string>iMatra_deva.alt12</string>
 	</array>
 </dict>
 </plist>

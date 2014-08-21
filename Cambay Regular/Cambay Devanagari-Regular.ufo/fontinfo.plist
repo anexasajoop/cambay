@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Cambay Devanagari</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/08/21 11:28:30</string>
+	<string>2014/08/22 00:19:40</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pooja Saxena</string>
 	<key>openTypeNameDesignerURL</key>
@@ -45,7 +45,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>35</integer>
+	<integer>61</integer>
 	<key>xHeight</key>
 	<integer>384</integer>
 </dict>

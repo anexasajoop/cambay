@@ -4,6 +4,60 @@ languagesystem DFLT dflt;
 languagesystem dev2 dflt;
 languagesystem latn dflt;
 
+# Prefix: removeReph
+lookup removeReph{
+sub ka-deva [ reph-deva reph_anusvara-deva ] by ka-deva;
+sub kha-deva [ reph-deva reph_anusvara-deva ] by kha-deva;
+sub ga-deva [ reph-deva reph_anusvara-deva ] by ga-deva;
+sub gha-deva [ reph-deva reph_anusvara-deva ] by gha-deva;
+sub nga-deva [ reph-deva reph_anusvara-deva ] by nga-deva;
+
+sub ca-deva [ reph-deva reph_anusvara-deva ] by ca-deva;
+sub cha-deva [ reph-deva reph_anusvara-deva ] by cha-deva;
+sub ja-deva [ reph-deva reph_anusvara-deva ] by ja-deva;
+sub jha-deva [ reph-deva reph_anusvara-deva ] by jha-deva;
+sub nya-deva [ reph-deva reph_anusvara-deva ] by nya-deva;
+
+sub tta-deva [ reph-deva reph_anusvara-deva ] by tta-deva;
+sub ttha-deva [ reph-deva reph_anusvara-deva ] by ttha-deva;
+sub dda-deva [ reph-deva reph_anusvara-deva ] by dda-deva;
+sub ddha-deva [ reph-deva reph_anusvara-deva ] by ddha-deva;
+sub nna-deva [ reph-deva reph_anusvara-deva ] by nna-deva;
+
+sub ta-deva [ reph-deva reph_anusvara-deva ] by ta-deva;
+sub tha-deva [ reph-deva reph_anusvara-deva ] by tha-deva;
+sub da-deva [ reph-deva reph_anusvara-deva ] by da-deva;
+sub dha-deva [ reph-deva reph_anusvara-deva ] by dha-deva;
+sub na-deva [ reph-deva reph_anusvara-deva ] by na-deva;
+sub nnna-deva [ reph-deva reph_anusvara-deva ] by nnna-deva;
+
+sub pa-deva [ reph-deva reph_anusvara-deva ] by pa-deva;
+sub pha-deva [ reph-deva reph_anusvara-deva ] by pha-deva;
+sub ba-deva [ reph-deva reph_anusvara-deva ] by ba-deva;
+sub bha-deva [ reph-deva reph_anusvara-deva ] by bha-deva;
+sub ma-deva [ reph-deva reph_anusvara-deva ] by ma-deva;
+
+sub ya-deva [ reph-deva reph_anusvara-deva ] by ya-deva;
+sub ra-deva [ reph-deva reph_anusvara-deva ] by ra-deva;
+sub rra-deva [ reph-deva reph_anusvara-deva ] by rra-deva;
+sub la-deva [ reph-deva reph_anusvara-deva ] by la-deva;
+sub va-deva [ reph-deva reph_anusvara-deva ] by va-deva;
+sub sha-deva [ reph-deva reph_anusvara-deva ] by sha-deva;
+sub ssa-deva [ reph-deva reph_anusvara-deva ] by ssa-deva;
+sub sa-deva [ reph-deva reph_anusvara-deva ] by sa-deva;
+sub ha-deva [ reph-deva reph_anusvara-deva ] by ha-deva;
+
+sub qa-deva [ reph-deva reph_anusvara-deva ] by qa-deva;
+sub khha-deva [ reph-deva reph_anusvara-deva ] by khha-deva;
+sub ghha-deva [ reph-deva reph_anusvara-deva ] by ghha-deva;
+sub za-deva [ reph-deva reph_anusvara-deva ] by za-deva;
+sub dddha-deva [ reph-deva reph_anusvara-deva ] by dddha-deva;
+sub rha-deva [ reph-deva reph_anusvara-deva ] by rha-deva;
+sub fa-deva [ reph-deva reph_anusvara-deva ] by fa-deva;
+sub yya-deva [ reph-deva reph_anusvara-deva ] by yya-deva;
+
+} removeReph;
+
 @iiLetters-alt1 = [ ka-deva qa-deva k_ra-deva k_na-deva ];
 
 @iiLetters-alt3 = [ cha-deva ha-deva ra-deva rra-deva da-deva n_ha-deva m_ha-deva ];
@@ -13,32 +67,26 @@ languagesystem latn dflt;
 @iiLetters-alt5 = [ pha-deva fa-deva ph_ra-deva f_ra-deva f_za-deva f_fa-deva ];
 
 @iiMatra = [ iiMatra-deva
-iiMatra_anusvara-deva
 iiMatra_reph_anusvara-deva
 iiMatra_reph-deva ];
 
 @iiMatra-alt1 = [ iiMatra-deva.alt1
-iiMatra_anusvara-deva.alt1
 iiMatra_reph_anusvara-deva.alt1
 iiMatra_reph-deva.alt1 ];
 
 @iiMatra-alt2 = [ iiMatra-deva.alt2
-iiMatra_anusvara-deva.alt2
 iiMatra_reph_anusvara-deva.alt2
 iiMatra_reph-deva.alt2 ];
 
 @iiMatra-alt3 = [ iiMatra-deva.alt3
-iiMatra_anusvara-deva.alt3
 iiMatra_reph_anusvara-deva.alt3
 iiMatra_reph-deva.alt3 ];
 
 @iiMatra-alt4 = [ iiMatra-deva.alt4
-iiMatra_anusvara-deva.alt4
 iiMatra_reph_anusvara-deva.alt4
 iiMatra_reph-deva.alt4 ];
 
 @iiMatra-alt5 = [ iiMatra-deva.alt5
-iiMatra_anusvara-deva.alt5
 iiMatra_reph_anusvara-deva.alt5
 iiMatra_reph-deva.alt5 ];
 
@@ -60,18 +108,334 @@ iiMatra_reph-deva.alt5 ];
 
 @iLetters-alt10 = [ sha-deva nya-deva nna-deva jha-deva ];
 
+@iLetters-alt11 = [ k_ca-deva k_ma-deva k_ya-deva
+b_sha-deva
+l_bha-deva l_ma-deva
+s_kha-deva
+z_ma-deva
+f_fa-deva ];
+
+@iLetters-alt12 = [ aa-deva ga-deva
+k_ss_ma-deva k_ss_ya-deva
+j_ja-deva j_ya-deva
+tt_ya-deva
+dd_ya-deva
+ddh_ya-deva
+t_sha-deva
+t_s_na-deva
+n_ja-deva n_sha-deva n_za-deva
+p_la-deva
+b_ja-deva b_dha-deva b_bha-deva b_za-deva
+bh_bha-deva
+s_ma-deva s_sa-deva
+z_ya-deva z_za-deva ];
+
+@iLetters-alt13 = [ c_ca-deva
+t_ma-deva t_ya-deva t_t_ya-deva
+n_ca-deva n_tha-deva n_dha-deva n_ma-deva n_ya-deva
+m_ca-deva m_ma-deva
+s_dda-deva s_t_ra-deva ];
+
+@FullForms = [ ka-deva kha-deva ga-deva gha-deva nga-deva
+ca-deva cha-deva ja-deva jha-deva nya-deva
+tta-deva ttha-deva dda-deva ddha-deva nna-deva
+ta-deva tha-deva da-deva dha-deva na-deva nnna-deva
+pa-deva pha-deva ba-deva bha-deva ma-deva
+ya-deva ra-deva rra-deva la-deva va-deva sha-deva
+ssa-deva sa-deva ha-deva
+qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva ];
+
+@HalfForms = [ # Half forms of basic letters
+k-deva kh-deva g-deva gh-deva ng-deva
+c-deva ch-deva j-deva jh-deva ny-deva
+tt-deva tth-deva dd-deva ddh-deva nn-deva
+t-deva th-deva d-deva dh-deva n-deva nnn-deva
+p-deva ph-deva b-deva bh-deva m-deva
+y-deva l-deva v-deva sh-deva
+ss-deva s-deva h-deva
+q-deva khh-deva ghh-deva z-deva f-deva
+
+# Half forms of conjuncts
+t_r-deva n_t_r-deva
+
+# Ka
+k_kha-deva k_ca-deva k_cha-deva k_na-deva k_ma-deva k_ya-deva k_ra-deva k_sha-deva k_ssa-deva k_ss_nna-deva k_ss_ma-deva k_ss_ya-deva k_sa-deva
+
+# Kha
+kh_kha-deva kh_ma-deva kh_ra-deva
+
+# Ga
+g_na-deva g_ra-deva
+
+# Gha
+gh_na-deva gh_ra-deva
+
+# Nga
+ng_ka-deva ng_ga-deva ng_ma-deva
+
+# Ca
+c_ca-deva c_ra-deva
+
+# Ja
+j_ja-deva j_nya-deva j_ya-deva j_ra-deva
+
+# Jha
+jh_ra-deva
+
+# Nya
+ny_ca-deva ny_ja-deva ny_jha-deva ny_ra-deva
+
+# Tta
+tt_tta-deva tt_ttha-deva tt_ya-deva tt_ra-deva tt_va-deva
+
+# Ttha
+tth_ttha-deva tth_ya-deva
+
+# Dda
+dd_ga-deva dd_dda-deva dd_ya-deva dd_ra-deva
+
+# Ddha
+ddh_ya-deva
+
+# Nna
+nn_ra-deva
+
+# Ta
+t_kha-deva t_ta-deva t_t_ya-deva t_tha-deva t_ma-deva t_m_ya-deva t_ya-deva t_ra-deva t_la-deva t_sha-deva t_sa-deva t_s_na-deva t_s_ya-deva
+
+# Tha
+th_ra-deva
+
+# Da
+d_ga-deva d_gha-deva d_da-deva d_dha-deva d_na-deva d_ba-deva d_bha-deva d_ma-deva d_ya-deva d_ra-deva d_va-deva
+
+# Dha
+dh_ra-deva
+
+# Na
+n_kha-deva n_ca-deva n_ja-deva n_dda-deva n_tha-deva n_dha-deva n_na-deva n_ma-deva n_ya-deva n_ra-deva n_sha-deva n_sa-deva n_ha-deva n_za-deva
+
+# Pa
+p_na-deva p_ra-deva p_la-deva
+
+# Pha
+ph_ra-deva
+
+# Ba
+b_ja-deva b_dha-deva b_bha-deva b_ra-deva b_sha-deva b_za-deva
+
+# Bha
+bh_bha-deva bh_ra-deva
+
+# Ma
+m_ca-deva m_na-deva m_bha-deva m_ra-deva m_ha-deva
+
+# Ya
+y_ra-deva
+
+# Va
+v_ra-deva
+
+# Sha
+sh_na-deva sh_ra-deva
+
+# Ssa
+ss_tta-deva ss_ttha-deva ss_ra-deva
+
+# Sa
+s_kha-deva s_dda-deva s_t_ra-deva s_tha-deva s_th_ya-deva s_na-deva s_ma-deva s_ra-deva s_sa-deva
+
+# Ha
+h_ra-deva
+
+# Qa
+q_sha-deva q_sa-deva
+
+# Khha
+khh_ma-deva khh_ra-deva khh_sha-deva khh_sa-deva
+
+# Za
+z_ma-deva z_ya-deva z_ra-deva z_za-deva
+
+# Fa
+f_ra-deva f_sha-deva f_sa-deva f_za-deva f_fa-deva ];
+
+@Conjuncts = [ # Ka
+k_kha-deva k_ca-deva k_cha-deva k_na-deva k_ma-deva k_ya-deva k_ra-deva k_sha-deva k_ssa-deva k_ss_nna-deva k_ss_ma-deva k_ss_ya-deva k_sa-deva
+
+# Kha
+kh_kha-deva kh_ma-deva kh_ra-deva
+
+# Ga
+g_na-deva g_ra-deva
+
+# Gha
+gh_na-deva gh_ra-deva
+
+# Nga
+ng_ka-deva ng_ga-deva ng_ma-deva
+
+# Ca
+c_ca-deva c_ra-deva
+
+# Ja
+j_ja-deva j_nya-deva j_ya-deva j_ra-deva
+
+# Jha
+jh_ra-deva
+
+# Nya
+ny_ca-deva ny_ja-deva ny_jha-deva ny_ra-deva
+
+# Tta
+tt_tta-deva tt_ttha-deva tt_ya-deva tt_ra-deva tt_va-deva
+
+# Ttha
+tth_ttha-deva tth_ya-deva
+
+# Dda
+dd_ga-deva dd_dda-deva dd_ya-deva dd_ra-deva
+
+# Ddha
+ddh_ya-deva
+
+# Nna
+nn_ra-deva
+
+# Ta
+t_kha-deva t_ta-deva t_t_ya-deva t_tha-deva t_ma-deva t_m_ya-deva t_ya-deva t_ra-deva t_la-deva t_sha-deva t_sa-deva t_s_na-deva t_s_ya-deva
+
+# Tha
+th_ra-deva
+
+# Da
+d_ga-deva d_gha-deva d_da-deva d_dha-deva d_na-deva d_ba-deva d_bha-deva d_ma-deva d_ya-deva d_ra-deva d_va-deva
+
+# Dha
+dh_ra-deva
+
+# Na
+n_kha-deva n_ca-deva n_ja-deva n_dda-deva n_tha-deva n_dha-deva n_na-deva n_ma-deva n_ya-deva n_ra-deva n_sha-deva n_sa-deva n_ha-deva n_za-deva
+
+# Pa
+p_na-deva p_ra-deva p_la-deva
+
+# Pha
+ph_ra-deva
+
+# Ba
+b_ja-deva b_dha-deva b_bha-deva b_ra-deva b_sha-deva b_za-deva
+
+# Bha
+bh_bha-deva bh_ra-deva
+
+# Ma
+m_ca-deva m_na-deva m_bha-deva m_ra-deva m_ha-deva
+
+# Ya
+y_ra-deva
+
+# Va
+v_ra-deva
+
+# Sha
+sh_na-deva sh_ra-deva
+
+# Ssa
+ss_tta-deva ss_ttha-deva ss_ra-deva
+
+# Sa
+s_kha-deva s_dda-deva s_t_ra-deva s_tha-deva s_th_ya-deva s_na-deva s_ma-deva s_ra-deva s_sa-deva
+
+# Ha
+h_ra-deva
+
+# Qa
+q_sha-deva q_sa-deva
+
+# Khha
+khh_ma-deva khh_ra-deva khh_sha-deva khh_sa-deva
+
+# Za
+z_ma-deva z_ya-deva z_ra-deva z_za-deva
+
+# Fa
+f_ra-deva f_sha-deva f_sa-deva f_za-deva f_fa-deva ];
+
+@iMatra = [ iMatra-deva
+iMatra-deva.alt1
+iMatra-deva.alt2
+iMatra-deva.alt3
+iMatra-deva.alt4
+iMatra-deva.alt5
+iMatra-deva.alt6
+iMatra-deva.alt7
+iMatra-deva.alt8
+iMatra-deva.alt9
+iMatra-deva.alt10 ];
+
+@iMatraReph = [ iMatra_reph-deva
+iMatra_reph-deva.alt1
+iMatra_reph-deva.alt2
+iMatra_reph-deva.alt3
+iMatra_reph-deva.alt4
+iMatra_reph-deva.alt5
+iMatra_reph-deva.alt6
+iMatra_reph-deva.alt7
+iMatra_reph-deva.alt8
+iMatra_reph-deva.alt9
+iMatra_reph-deva.alt10 ];
+
+@iiMatraA = [ iiMatra-deva
+iiMatra-deva.alt1
+iiMatra-deva.alt2
+iiMatra-deva.alt3
+iiMatra-deva.alt4
+iiMatra-deva.alt5 ];
+
+@iMatraRephAnusvara = [ iMatra_reph_anusvara-deva
+iMatra_reph_anusvara-deva.alt1
+iMatra_reph_anusvara-deva.alt2
+iMatra_reph_anusvara-deva.alt3
+iMatra_reph_anusvara-deva.alt4
+iMatra_reph_anusvara-deva.alt5
+iMatra_reph_anusvara-deva.alt6
+iMatra_reph_anusvara-deva.alt7
+iMatra_reph_anusvara-deva.alt8
+iMatra_reph_anusvara-deva.alt9
+iMatra_reph_anusvara-deva.alt10 ];
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent ];
+
 feature aalt {
-feature blwf;
-feature vatu;
+# automatic
+feature nukt;
 feature rphf;
 feature rkrf;
+feature blwf;
 feature half;
+feature vatu;
 feature cjct;
-feature psts;
-feature abvs;
-feature nukt;
 feature pres;
+feature abvs;
+feature psts;
 } aalt;
+
+feature ccmp {
+# automatic
+
+} ccmp;
+
+feature locl {
+# automatic
+
+} locl;
+
+feature cpsp {
+# automatic
+
+} cpsp;
 
 feature nukt {
 sub ka-deva nukta-deva by qa-deva;
@@ -84,13 +448,9 @@ sub pha-deva nukta-deva by fa-deva;
 sub ya-deva nukta-deva by yya-deva;
 } nukt;
 
-feature blwf {
-sub halant-deva ra-deva by rashtra-deva;
-} blwf;
+feature akhn {
 
-feature vatu {
-sub halant-deva ra-deva by rashtra-deva;
-} vatu;
+} akhn;
 
 feature rphf {
 sub ra-deva halant-deva by reph-deva;
@@ -158,6 +518,10 @@ sub khha-deva rashtra-deva by khh_ra-deva;
 sub za-deva rashtra-deva by z_ra-deva;
 } rkrf;
 
+feature blwf {
+sub halant-deva ra-deva by rashtra-deva;
+} blwf;
+
 feature half {
 # automatic
 sub ka-deva halant-deva by k-deva;
@@ -203,8 +567,11 @@ sub za-deva halant-deva by z-deva;
 sub fa-deva halant-deva by f-deva;
 } half;
 
+feature vatu {
+sub halant-deva ra-deva by rashtra-deva;
+} vatu;
+
 feature cjct {
-# automatic
 sub k-deva kha-deva by k_kha-deva;
 sub k-deva ca-deva by k_ca-deva;
 sub k-deva cha-deva by k_cha-deva;
@@ -326,37 +693,83 @@ sub f-deva za-deva by f_za-deva;
 sub f-deva fa-deva by f_fa-deva;
 } cjct;
 
+feature pres {
+sub iMatra-deva' @iLetters-alt1 by iMatra-deva.alt1;
+sub iMatra-deva' @iLetters-alt2 by iMatra-deva.alt2;
+sub iMatra-deva' @iLetters-alt3 by iMatra-deva.alt3;
+sub iMatra-deva' @iLetters-alt4 by iMatra-deva.alt4;
+sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;
+sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;
+sub iMatra-deva' dha-deva by iMatra-deva.alt7;
+sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
+sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;
+sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;
+} pres;
+
 feature abvs {
-sub iMatra-deva anusvara-deva by iMatra_anusvara-deva;
+sub iMatra-deva reph-deva candraBindu-deva by iMatra_reph_anusvara-deva;
 sub iMatra-deva reph-deva by iMatra_reph-deva;
 sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
-sub iiMatra-deva candraBindu-deva by iiMatra_anusvara-deva;
+
 sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_anusvara-deva;
-sub iiMatra-deva anusvara-deva by iiMatra_anusvara-deva;
 sub iiMatra-deva reph-deva by iiMatra_reph-deva;
 sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
+
 sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
 sub oMatra-deva reph-deva by oMatra_reph-deva;
 sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;
 sub oMatra-deva candraBindu-deva by oMatra_anusvara-deva;
 sub oMatra-deva reph-deva candraBindu-deva by oMatra_reph_anusvara-deva;
+
 sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
 sub auMatra-deva reph-deva by auMatra_reph-deva;
 sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;
 sub auMatra-deva candraBindu-deva by auMatra_anusvara-deva;
 sub auMatra-deva reph-deva candraBindu-deva by auMatra_reph_anusvara-deva;
+
 sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
 sub eMatra-deva reph-deva by eMatra_reph-deva;
 sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
 sub eMatra-deva candraBindu-deva by eMatra_anusvara-deva;
 sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_anusvara-deva;
+
 sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
 sub aiMatra-deva reph-deva by aiMatra_reph-deva;
 sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
 sub aiMatra-deva candraBindu-deva by aiMatra_anusvara-deva;
 sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_anusvara-deva;
+
 sub reph-deva anusvara-deva by reph_anusvara-deva;
 sub reph-deva candraBindu-deva by reph_anusvara-deva;
+
+# Substitute with alternate anusvara to avoid clash with ikar
+sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;
+sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
+sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
+
+
+# Substitute with alternate anusvara to avoid clash with iikar
+sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
+sub @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
+sub @HalfForms @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
+
+
+# To make reph-ikar ligature
+sub @iMatra' @FullForms [reph-deva] by @iMatraReph; 
+sub @iMatraReph @FullForms' lookup removeReph [reph-deva]';
+sub @iMatra' @HalfForms @FullForms [reph-deva] by @iMatraReph; 
+sub @iMatraReph @HalfForms @FullForms' lookup removeReph [reph-deva]';
+sub @iMatra' @HalfForms @HalfForms @FullForms [reph-deva] by @iMatraReph; 
+sub @iMatraReph @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva]';
+
+
+# To make reph-ikar-anusvara ligature
+sub @iMatra' @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; 
+sub @iMatraRephAnusvara @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub @iMatra' @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; 
+sub @iMatraRephAnusvara @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub @iMatra' @HalfForms @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; 
+sub @iMatraRephAnusvara @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';
 } abvs;
 
 feature psts {
@@ -377,21 +790,5 @@ sub nga-deva @iiMatra' by @iiMatra-alt2;
 sub @iiLetters-alt3 @iiMatra' by @iiMatra-alt3;
 sub @iiLetters-alt4 @iiMatra' by @iiMatra-alt4;
 sub @iiLetters-alt5 @iiMatra' by @iiMatra-alt5;
-sub iMatra-deva anusvara-deva by iMatra_anusvara-deva;
-sub iMatra-deva reph-deva by iMatra_reph-deva;
-sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
 } psts;
-
-feature pres {
-sub iMatra-deva' @iLetters-alt1 by iMatra-deva.alt1;
-sub iMatra-deva' @iLetters-alt2 by iMatra-deva.alt2;
-sub iMatra-deva' @iLetters-alt3 by iMatra-deva.alt3;
-sub iMatra-deva' @iLetters-alt4 by iMatra-deva.alt4;
-sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;
-sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;
-sub iMatra-deva' dha-deva by iMatra-deva.alt7;
-sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
-sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;
-sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;
-} pres;
 
