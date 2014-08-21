@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnnadeva" format="1">
+  <advance width="407"/>
+  <unicode hex="0929"/>
+  <outline>
+    <component base="nadeva"/>
+    <component base="nuktadeva" xOffset="181" yOffset="98"/>
+    <contour>
+      <point x="305" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="305" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

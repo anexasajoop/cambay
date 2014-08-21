@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0938094D_ddadeva" format="1">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="87" y="427"/>
+      <point x="158" y="403"/>
+      <point x="158" y="306" type="curve" smooth="yes"/>
+      <point x="158" y="209"/>
+      <point x="44" y="206"/>
+      <point x="44" y="206" type="curve" smooth="yes"/>
+      <point x="44" y="206"/>
+      <point x="66" y="157"/>
+      <point x="66" y="157" type="curve"/>
+      <point x="105" y="157"/>
+      <point x="212" y="191"/>
+      <point x="212" y="304" type="curve" smooth="yes"/>
+      <point x="212" y="412"/>
+      <point x="139" y="443"/>
+      <point x="139" y="443" type="curve"/>
+      <point x="87" y="427" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="212"/>
+      <point x="186" y="-18"/>
+      <point x="186" y="-18" type="curve" smooth="yes"/>
+      <point x="186" y="-18"/>
+      <point x="233" y="14"/>
+      <point x="233" y="14" type="curve"/>
+      <point x="55" y="244" type="line"/>
+      <point x="14" y="212" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="243" type="line"/>
+      <point x="364" y="227"/>
+      <point x="323" y="217"/>
+      <point x="269" y="217" type="curve" smooth="yes"/>
+      <point x="233" y="217"/>
+      <point x="187" y="225"/>
+      <point x="141" y="244" type="curve"/>
+      <point x="117" y="197" type="line"/>
+      <point x="175" y="177"/>
+      <point x="226" y="167"/>
+      <point x="268" y="167" type="curve" smooth="yes"/>
+      <point x="328" y="167"/>
+      <point x="375" y="178"/>
+      <point x="420" y="199" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="323" y="408" type="line"/>
+      <point x="323" y="456" type="line"/>
+    </contour>
+    <component base="ddadeva" xOffset="299"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

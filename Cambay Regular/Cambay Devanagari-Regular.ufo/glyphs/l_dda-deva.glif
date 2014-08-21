@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0932094D_ddadeva" format="1">
+  <advance width="747"/>
+  <outline>
+    <contour>
+      <point x="314" y="456" type="line"/>
+      <point x="314" y="408" type="line"/>
+      <point x="771" y="408" type="line"/>
+      <point x="771" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="171"/>
+      <point x="651" y="153"/>
+      <point x="651" y="116" type="curve" smooth="yes"/>
+      <point x="651" y="73"/>
+      <point x="610" y="52"/>
+      <point x="566" y="52" type="curve" smooth="yes"/>
+      <point x="507" y="52"/>
+      <point x="458" y="81"/>
+      <point x="410" y="128" type="curve"/>
+      <point x="376" y="91" type="line"/>
+      <point x="428" y="38"/>
+      <point x="491" y="0"/>
+      <point x="567" y="0" type="curve" smooth="yes"/>
+      <point x="648" y="0"/>
+      <point x="705" y="46"/>
+      <point x="705" y="120" type="curve" smooth="yes"/>
+      <point x="705" y="181"/>
+      <point x="652" y="220"/>
+      <point x="580" y="216" type="curve" smooth="yes"/>
+      <point x="528" y="213"/>
+      <point x="475" y="212"/>
+      <point x="475" y="256" type="curve" smooth="yes"/>
+      <point x="475" y="284"/>
+      <point x="498" y="294"/>
+      <point x="548" y="294" type="curve" smooth="yes"/>
+      <point x="610" y="294"/>
+      <point x="627" y="289"/>
+      <point x="662" y="285" type="curve"/>
+      <point x="672" y="292" type="line"/>
+      <point x="672" y="456" type="line"/>
+      <point x="616" y="456" type="line"/>
+      <point x="616" y="343" type="line"/>
+      <point x="595" y="345"/>
+      <point x="583" y="346"/>
+      <point x="550" y="346" type="curve" smooth="yes"/>
+      <point x="473" y="346"/>
+      <point x="422" y="322"/>
+      <point x="422" y="259" type="curve" smooth="yes"/>
+      <point x="422" y="162"/>
+      <point x="524" y="161"/>
+      <point x="562" y="165" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni0932094D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

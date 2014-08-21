@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>800</integer>
+	<integer>720</integer>
 	<key>capHeight</key>
-	<integer>700</integer>
+	<integer>550</integer>
 	<key>copyright</key>
 	<string>(c) Copyright Pooja Saxena, 2014.</string>
 	<key>descender</key>
-	<integer>-200</integer>
+	<integer>-300</integer>
+	<key>familyName</key>
+	<string>Cambay Devanagari</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/07/21 15:57:37</string>
+	<string>2014/08/21 11:28:30</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pooja Saxena</string>
 	<key>openTypeNameDesignerURL</key>
@@ -43,8 +45,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>35</integer>
 	<key>xHeight</key>
-	<integer>500</integer>
+	<integer>384</integer>
 </dict>
 </plist>

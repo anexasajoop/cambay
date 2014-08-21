@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091E094D_jhadeva" format="1">
+  <advance width="932"/>
+  <outline>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="395" y="408" type="line"/>
+      <point x="395" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="259"/>
+      <point x="268" y="228"/>
+      <point x="268" y="192" type="curve" smooth="yes"/>
+      <point x="268" y="146"/>
+      <point x="238" y="118"/>
+      <point x="195" y="118" type="curve" smooth="yes"/>
+      <point x="133" y="118"/>
+      <point x="93" y="176"/>
+      <point x="53" y="277" type="curve"/>
+      <point x="6" y="258" type="line"/>
+      <point x="50" y="137"/>
+      <point x="108" y="65"/>
+      <point x="197" y="65" type="curve" smooth="yes"/>
+      <point x="256" y="65"/>
+      <point x="310" y="100"/>
+      <point x="320" y="172" type="curve" smooth="yes"/>
+      <point x="321" y="176"/>
+      <point x="323" y="179"/>
+      <point x="323" y="183" type="curve" smooth="yes"/>
+      <point x="323" y="253"/>
+      <point x="281" y="312"/>
+      <point x="205" y="312" type="curve" smooth="yes"/>
+      <point x="168" y="312"/>
+      <point x="141" y="301"/>
+      <point x="118" y="286" type="curve"/>
+      <point x="118" y="286"/>
+      <point x="141" y="238"/>
+      <point x="141" y="238" type="curve" smooth="yes"/>
+      <point x="141" y="238"/>
+      <point x="171" y="259"/>
+      <point x="200" y="259" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="429" y="237" type="line"/>
+      <point x="416" y="226"/>
+      <point x="397" y="210"/>
+      <point x="359" y="210" type="curve" smooth="yes"/>
+      <point x="324" y="210"/>
+      <point x="317" y="216"/>
+      <point x="291" y="229" type="curve"/>
+      <point x="287" y="174" type="line"/>
+      <point x="313" y="166"/>
+      <point x="332" y="160"/>
+      <point x="359" y="160" type="curve" smooth="yes"/>
+      <point x="412" y="160"/>
+      <point x="446" y="186"/>
+      <point x="462" y="199" type="curve"/>
+    </contour>
+    <component base="jhadeva" xOffset="371"/>
+    <contour>
+      <point x="832" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="833" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

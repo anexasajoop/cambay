@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0958094D_shadeva" format="1">
+  <advance width="953"/>
+  <outline>
+    <component base="nuktadeva" xOffset="162" yOffset="72"/>
+    <component base="uni0915094D_shadeva"/>
+    <contour>
+      <point x="851" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="851" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
