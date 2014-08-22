@@ -90,23 +90,57 @@ iiMatra_reph-deva.alt4 ];
 iiMatra_reph_anusvara-deva.alt5
 iiMatra_reph-deva.alt5 ];
 
-@iLetters-alt1 = [ ka-deva tta-deva ttha-deva ddha-deva da-deva qa-deva rha-deva ha-deva ];
+@iLetters-alt1 = [ ka-deva tta-deva ttha-deva ddha-deva da-deva qa-deva rha-deva ha-deva
 
-@iLetters-alt2 = [ ja-deva za-deva la-deva ];
+k_na-deva k_ra-deva
+tt_tta-deva tt_ttha-deva tt_ra-deva tt_va-deva
+tth_ttha-deva
+d_ga-deva d_na-deva d_ba-deva d_ra-deva d_va-deva
+h_ra-deva ];
 
-@iLetters-alt3 = [ gha-deva tha-deva ];
+@iLetters-alt2 = [ ja-deva za-deva la-deva
+ny_ca-deva ny_ja-deva ny_ra-deva
+l_ra-deva ];
+
+@iLetters-alt3 = [ gha-deva tha-deva dha-deva
+gh_na-deva gh_ra-deva
+th_ra-deva
+dh_ra-deva ];
 
 @iLetters-alt4 = [ ra-deva rra-deva ];
 
-@iLetters-alt5 = [ na-deva nnna-deva va-deva ba-deva dda-deva nga-deva dddha-deva ];
+@iLetters-alt5 = [ na-deva nnna-deva va-deva ba-deva dda-deva nga-deva dddha-deva
 
-@iLetters-alt6 = [ bha-deva cha-deva sa-deva ];
+ng_ka-deva ng_ga-deva ng_ma-deva
 
-@iLetters-alt8 = [ kha-deva khha-deva ];
+dd_ga-deva dd_dda-deva dd_ra-deva
+
+n_ra-deva
+
+b_ra-deva
+
+v_ra-deva ];
+
+@iLetters-alt6 = [ bha-deva cha-deva sa-deva
+k_ssa-deva
+j_nya-deva
+bh_ra-deva
+d_dha-deva d_gha-deva
+sh_ra-deva sh_na-deva
+s_ra-deva ];
+
+@iLetters-alt8 = [ kha-deva khha-deva
+kh_ra-deva
+j_ra-deva jh_ra-deva
+khh_ra-deva
+z_ra-deva ];
 
 @iLetters-alt9 = [ pha-deva fa-deva ];
 
-@iLetters-alt10 = [ sha-deva nya-deva nna-deva jha-deva ];
+@iLetters-alt10 = [ sha-deva nya-deva nna-deva jha-deva
+d_bha-deva
+nn_ra-deva
+s_na-deva ];
 
 @iLetters-alt11 = [ k_ca-deva k_ma-deva k_ya-deva
 b_sha-deva
@@ -115,10 +149,10 @@ s_kha-deva
 z_ma-deva
 f_fa-deva ];
 
-@iLetters-alt12 = [ aa-deva ga-deva
-k_ss_ma-deva k_ss_ya-deva
+@iLetters-alt12 = [ k_ss_ma-deva k_ss_ya-deva
 j_ja-deva j_ya-deva
 tt_ya-deva
+tth_ya-deva
 dd_ya-deva
 ddh_ya-deva
 t_sha-deva
@@ -372,7 +406,8 @@ iMatra-deva.alt6
 iMatra-deva.alt7
 iMatra-deva.alt8
 iMatra-deva.alt9
-iMatra-deva.alt10 ];
+iMatra-deva.alt10
+iMatra-deva.alt11 ];
 
 @iMatraReph = [ iMatra_reph-deva
 iMatra_reph-deva.alt1
@@ -384,7 +419,8 @@ iMatra_reph-deva.alt6
 iMatra_reph-deva.alt7
 iMatra_reph-deva.alt8
 iMatra_reph-deva.alt9
-iMatra_reph-deva.alt10 ];
+iMatra_reph-deva.alt10
+iMatra_reph-deva.alt11 ];
 
 @iiMatraA = [ iiMatra-deva
 iiMatra-deva.alt1
@@ -403,7 +439,8 @@ iMatra_reph_anusvara-deva.alt6
 iMatra_reph_anusvara-deva.alt7
 iMatra_reph_anusvara-deva.alt8
 iMatra_reph_anusvara-deva.alt9
-iMatra_reph_anusvara-deva.alt10 ];
+iMatra_reph_anusvara-deva.alt10
+iMatra_reph_anusvara-deva.alt11 ];
 
 # automatic
 @Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent ];
@@ -449,7 +486,9 @@ sub ya-deva nukta-deva by yya-deva;
 } nukt;
 
 feature akhn {
-
+# automatic
+sub k-deva ssa-deva by k_ssa-deva;
+sub j-deva nya-deva by j_nya-deva;
 } akhn;
 
 feature rphf {
@@ -677,6 +716,12 @@ sub s-deva th-deva ya-deva by s_th_ya-deva;
 sub s-deva na-deva by s_na-deva;
 sub s-deva ma-deva by s_ma-deva;
 sub s-deva sa-deva by s_sa-deva;
+sub h-deva nna-deva by h_nna-deva;
+sub h-deva na-deva by h_na-deva;
+sub h-deva ma-deva by h_ma-deva;
+sub h-deva ya-deva by h_ya-deva;
+sub h-deva la-deva by h_la-deva;
+sub h-deva va-deva by h_va-deva;
 sub h-deva uMatra-deva by h_uMatra-deva;
 sub h-deva uuMatra-deva by h_uuMatra-deva;
 sub q-deva sha-deva by q_sha-deva;
@@ -700,10 +745,14 @@ sub iMatra-deva' @iLetters-alt3 by iMatra-deva.alt3;
 sub iMatra-deva' @iLetters-alt4 by iMatra-deva.alt4;
 sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;
 sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;
-sub iMatra-deva' dha-deva by iMatra-deva.alt7;
+#sub iMatra-deva' dha-deva by iMatra-deva.alt7;
 sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
 sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;
 sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;
+
+sub iMatra-deva' @iLetters-alt11 by iMatra-deva.alt11;
+sub iMatra-deva' @iLetters-alt12 by iMatra-deva.alt12;
+sub iMatra-deva' @iLetters-alt13 by iMatra-deva.alt13;
 } pres;
 
 feature abvs {
@@ -746,12 +795,14 @@ sub reph-deva candraBindu-deva by reph_anusvara-deva;
 sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;
 sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
 sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
+sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;
 
 
 # Substitute with alternate anusvara to avoid clash with iikar
 sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
 sub @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
 sub @HalfForms @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
+sub @Conjuncts @iiMatraA anusvara-deva' by anusvara-deva.alt;
 
 
 # To make reph-ikar ligature

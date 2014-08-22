@@ -92,6 +92,10 @@
 		<string>Rcaron</string>
 		<string>Rcommaaccent</string>
 		<string>S</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>Scedilla</string>
+		<string>Scommaaccent</string>
 		<string>T</string>
 		<string>Tcaron</string>
 		<string>Tcedilla</string>
@@ -417,7 +421,13 @@
 		<string>s_ma-deva</string>
 		<string>s_ra-deva</string>
 		<string>s_sa-deva</string>
+		<string>h_nna-deva</string>
+		<string>h_na-deva</string>
+		<string>h_ma-deva</string>
+		<string>h_ya-deva</string>
 		<string>h_ra-deva</string>
+		<string>h_la-deva</string>
+		<string>h_va-deva</string>
 		<string>h_uMatra-deva</string>
 		<string>h_uuMatra-deva</string>
 		<string>q_sha-deva</string>
@@ -519,9 +529,15 @@
 		<string>iMatra-deva.alt10</string>
 		<string>iMatra_reph-deva.alt10</string>
 		<string>iMatra_reph_anusvara-deva.alt10</string>
+		<string>iMatra_reph-deva.alt11</string>
 		<string>iMatra-deva.alt11</string>
+		<string>iMatra_reph_anusvara-deva.alt11</string>
 		<string>iMatra-deva.alt12</string>
+		<string>iMatra_reph_anusvara-deva.alt12</string>
+		<string>iMatra_reph-deva.alt12</string>
 		<string>iMatra-deva.alt13</string>
+		<string>iMatra_reph_anusvara-deva.alt13</string>
+		<string>iMatra_reph-deva.alt13</string>
 		<string>iMatra-deva.alt2</string>
 		<string>iMatra_reph-deva.alt2</string>
 		<string>iMatra_reph_anusvara-deva.alt2</string>
@@ -558,26 +574,6 @@
 		<string>iMatra-deva.alt9</string>
 		<string>iMatra_reph-deva.alt9</string>
 		<string>iMatra_reph_anusvara-deva.alt9</string>
-		<string>zero</string>
-		<string>one</string>
-		<string>two</string>
-		<string>three</string>
-		<string>four</string>
-		<string>five</string>
-		<string>six</string>
-		<string>seven</string>
-		<string>eight</string>
-		<string>nine</string>
-		<string>zero-deva</string>
-		<string>one-deva</string>
-		<string>two-deva</string>
-		<string>three-deva</string>
-		<string>four-deva</string>
-		<string>five-deva</string>
-		<string>six-deva</string>
-		<string>seven-deva</string>
-		<string>eight-deva</string>
-		<string>nine-deva</string>
 		<string>asterisk</string>
 		<string>colon</string>
 		<string>comma</string>

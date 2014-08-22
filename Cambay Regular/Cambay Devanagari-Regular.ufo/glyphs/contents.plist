@@ -168,6 +168,14 @@
 	<string>R_commaaccent.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>Sacute</key>
+	<string>S_acute.glif</string>
+	<key>Scaron</key>
+	<string>S_caron.glif</string>
+	<key>Scedilla</key>
+	<string>S_cedilla.glif</string>
+	<key>Scommaaccent</key>
+	<string>S_commaaccent.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>Tcaron</key>
@@ -470,10 +478,6 @@
 	<string>edotaccent.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
-	<key>eight</key>
-	<string>eight.glif</string>
-	<key>eight-deva</key>
-	<string>eight-deva.glif</string>
 	<key>emacron</key>
 	<string>emacron.glif</string>
 	<key>emdash</key>
@@ -504,14 +508,6 @@
 	<string>f_za-deva.glif</string>
 	<key>fa-deva</key>
 	<string>fa-deva.glif</string>
-	<key>five</key>
-	<string>five.glif</string>
-	<key>five-deva</key>
-	<string>five-deva.glif</string>
-	<key>four</key>
-	<string>four.glif</string>
-	<key>four-deva</key>
-	<string>four-deva.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g-deva</key>
@@ -552,12 +548,24 @@
 	<string>h.glif</string>
 	<key>h-deva</key>
 	<string>h-deva.glif</string>
+	<key>h_la-deva</key>
+	<string>h_la-deva.glif</string>
+	<key>h_ma-deva</key>
+	<string>h_ma-deva.glif</string>
+	<key>h_na-deva</key>
+	<string>h_na-deva.glif</string>
+	<key>h_nna-deva</key>
+	<string>h_nna-deva.glif</string>
 	<key>h_ra-deva</key>
 	<string>h_ra-deva.glif</string>
 	<key>h_uMatra-deva</key>
 	<string>h_uM_atra-deva.glif</string>
 	<key>h_uuMatra-deva</key>
 	<string>h_uuM_atra-deva.glif</string>
+	<key>h_va-deva</key>
+	<string>h_va-deva.glif</string>
+	<key>h_ya-deva</key>
+	<string>h_ya-deva.glif</string>
 	<key>ha-deva</key>
 	<string>ha-deva.glif</string>
 	<key>halant-deva</key>
@@ -608,6 +616,12 @@
 	<string>iM_atra_reph-deva.alt1.glif</string>
 	<key>iMatra_reph-deva.alt10</key>
 	<string>iM_atra_reph-deva.alt10.glif</string>
+	<key>iMatra_reph-deva.alt11</key>
+	<string>iM_atra_reph-deva.alt11.glif</string>
+	<key>iMatra_reph-deva.alt12</key>
+	<string>iM_atra_reph-deva.alt12.glif</string>
+	<key>iMatra_reph-deva.alt13</key>
+	<string>iM_atra_reph-deva.alt13.glif</string>
 	<key>iMatra_reph-deva.alt2</key>
 	<string>iM_atra_reph-deva.alt2.glif</string>
 	<key>iMatra_reph-deva.alt3</key>
@@ -630,6 +644,12 @@
 	<string>iM_atra_reph_anusvara-deva.alt1.glif</string>
 	<key>iMatra_reph_anusvara-deva.alt10</key>
 	<string>iM_atra_reph_anusvara-deva.alt10.glif</string>
+	<key>iMatra_reph_anusvara-deva.alt11</key>
+	<string>iM_atra_reph_anusvara-deva.alt11.glif</string>
+	<key>iMatra_reph_anusvara-deva.alt12</key>
+	<string>iM_atra_reph_anusvara-deva.alt12.glif</string>
+	<key>iMatra_reph_anusvara-deva.alt13</key>
+	<string>iM_atra_reph_anusvara-deva.alt13.glif</string>
 	<key>iMatra_reph_anusvara-deva.alt2</key>
 	<string>iM_atra_reph_anusvara-deva.alt2.glif</string>
 	<key>iMatra_reph_anusvara-deva.alt3</key>
@@ -902,10 +922,6 @@
 	<string>ng_ma-deva.glif</string>
 	<key>nga-deva</key>
 	<string>nga-deva.glif</string>
-	<key>nine</key>
-	<string>nine.glif</string>
-	<key>nine-deva</key>
-	<string>nine-deva.glif</string>
 	<key>nn-deva</key>
 	<string>nn-deva.glif</string>
 	<key>nn_ra-deva</key>
@@ -968,10 +984,6 @@
 	<string>ohungarumlaut.glif</string>
 	<key>omacron</key>
 	<string>omacron.glif</string>
-	<key>one</key>
-	<string>one.glif</string>
-	<key>one-deva</key>
-	<string>one-deva.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -1088,10 +1100,6 @@
 	<string>scommaaccent.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
-	<key>seven</key>
-	<string>seven.glif</string>
-	<key>seven-deva</key>
-	<string>seven-deva.glif</string>
 	<key>sh-deva</key>
 	<string>sh-deva.glif</string>
 	<key>sh_na-deva</key>
@@ -1100,10 +1108,6 @@
 	<string>sh_ra-deva.glif</string>
 	<key>sha-deva</key>
 	<string>sha-deva.glif</string>
-	<key>six</key>
-	<string>six.glif</string>
-	<key>six-deva</key>
-	<string>six-deva.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>ss-deva</key>
@@ -1166,10 +1170,6 @@
 	<string>tha-deva.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
-	<key>three</key>
-	<string>three.glif</string>
-	<key>three-deva</key>
-	<string>three-deva.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.cap</key>
@@ -1196,10 +1196,6 @@
 	<string>tth_ya-deva.glif</string>
 	<key>ttha-deva</key>
 	<string>ttha-deva.glif</string>
-	<key>two</key>
-	<string>two.glif</string>
-	<key>two-deva</key>
-	<string>two-deva.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>u-deva</key>
@@ -1280,9 +1276,5 @@
 	<string>zcaron.glif</string>
 	<key>zdotaccent</key>
 	<string>zdotaccent.glif</string>
-	<key>zero</key>
-	<string>zero.glif</string>
-	<key>zero-deva</key>
-	<string>zero-deva.glif</string>
 </dict>
 </plist>
