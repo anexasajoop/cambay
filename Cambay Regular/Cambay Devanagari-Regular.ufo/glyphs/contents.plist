@@ -478,6 +478,8 @@
 	<string>edotaccent.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
+	<key>eight-deva</key>
+	<string>eight-deva.glif</string>
 	<key>emacron</key>
 	<string>emacron.glif</string>
 	<key>emdash</key>
@@ -508,6 +510,10 @@
 	<string>f_za-deva.glif</string>
 	<key>fa-deva</key>
 	<string>fa-deva.glif</string>
+	<key>five-deva</key>
+	<string>five-deva.glif</string>
+	<key>four-deva</key>
+	<string>four-deva.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g-deva</key>
@@ -922,6 +928,8 @@
 	<string>ng_ma-deva.glif</string>
 	<key>nga-deva</key>
 	<string>nga-deva.glif</string>
+	<key>nine-deva</key>
+	<string>nine-deva.glif</string>
 	<key>nn-deva</key>
 	<string>nn-deva.glif</string>
 	<key>nn_ra-deva</key>
@@ -984,6 +992,8 @@
 	<string>ohungarumlaut.glif</string>
 	<key>omacron</key>
 	<string>omacron.glif</string>
+	<key>one-deva</key>
+	<string>one-deva.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -1100,6 +1110,8 @@
 	<string>scommaaccent.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>seven-deva</key>
+	<string>seven-deva.glif</string>
 	<key>sh-deva</key>
 	<string>sh-deva.glif</string>
 	<key>sh_na-deva</key>
@@ -1108,6 +1120,8 @@
 	<string>sh_ra-deva.glif</string>
 	<key>sha-deva</key>
 	<string>sha-deva.glif</string>
+	<key>six-deva</key>
+	<string>six-deva.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>ss-deva</key>
@@ -1170,6 +1184,8 @@
 	<string>tha-deva.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
+	<key>three-deva</key>
+	<string>three-deva.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.cap</key>
@@ -1196,6 +1212,8 @@
 	<string>tth_ya-deva.glif</string>
 	<key>ttha-deva</key>
 	<string>ttha-deva.glif</string>
+	<key>two-deva</key>
+	<string>two-deva.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>u-deva</key>
@@ -1276,5 +1294,7 @@
 	<string>zcaron.glif</string>
 	<key>zdotaccent</key>
 	<string>zdotaccent.glif</string>
+	<key>zero-deva</key>
+	<string>zero-deva.glif</string>
 </dict>
 </plist>

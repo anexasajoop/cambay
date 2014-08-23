@@ -574,6 +574,16 @@
 		<string>iMatra-deva.alt9</string>
 		<string>iMatra_reph-deva.alt9</string>
 		<string>iMatra_reph_anusvara-deva.alt9</string>
+		<string>zero-deva</string>
+		<string>one-deva</string>
+		<string>two-deva</string>
+		<string>three-deva</string>
+		<string>four-deva</string>
+		<string>five-deva</string>
+		<string>six-deva</string>
+		<string>seven-deva</string>
+		<string>eight-deva</string>
+		<string>nine-deva</string>
 		<string>asterisk</string>
 		<string>colon</string>
 		<string>comma</string>
