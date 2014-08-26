@@ -268,6 +268,8 @@
 		<string>ra-deva</string>
 		<string>rra-deva</string>
 		<string>la-deva</string>
+		<string>lla-deva</string>
+		<string>llla-deva</string>
 		<string>va-deva</string>
 		<string>sha-deva</string>
 		<string>ssa-deva</string>
@@ -281,9 +283,19 @@
 		<string>rha-deva</string>
 		<string>fa-deva</string>
 		<string>yya-deva</string>
+		<string>zha-deva</string>
+		<string>jjya-deva</string>
+		<string>gga-deva</string>
+		<string>jja-deva</string>
+		<string>ddda-deva</string>
+		<string>bba-deva</string>
+		<string>la-deva.MAR</string>
+		<string>sha-deva.MAR</string>
+		<string>jha-deva.NEP</string>
 		<string>k_kha-deva</string>
 		<string>k_ca-deva</string>
 		<string>k_cha-deva</string>
+		<string>k_ta-deva</string>
 		<string>k_tha-deva</string>
 		<string>k_na-deva</string>
 		<string>k_ma-deva</string>
@@ -325,8 +337,10 @@
 		<string>tth_ya-deva</string>
 		<string>dd_ga-deva</string>
 		<string>dd_dda-deva</string>
+		<string>dd_ddha-deva</string>
 		<string>dd_ya-deva</string>
 		<string>dd_ra-deva</string>
+		<string>ddh_ddha-deva</string>
 		<string>ddh_ya-deva</string>
 		<string>nn_ra-deva</string>
 		<string>t_kha-deva</string>
@@ -354,6 +368,7 @@
 		<string>d_ya-deva</string>
 		<string>d_ra-deva</string>
 		<string>d_va-deva</string>
+		<string>d_rVocalicMatra-deva</string>
 		<string>dh_ra-deva</string>
 		<string>n_kha-deva</string>
 		<string>n_ca-deva</string>
@@ -407,8 +422,11 @@
 		<string>l_h_uuMatra-deva</string>
 		<string>l_za-deva</string>
 		<string>v_ra-deva</string>
+		<string>sh_ca-deva</string>
 		<string>sh_na-deva</string>
 		<string>sh_ra-deva</string>
+		<string>sh_la-deva</string>
+		<string>sh_va-deva</string>
 		<string>ss_tta-deva</string>
 		<string>ss_ttha-deva</string>
 		<string>ss_ra-deva</string>
@@ -430,6 +448,7 @@
 		<string>h_va-deva</string>
 		<string>h_uMatra-deva</string>
 		<string>h_uuMatra-deva</string>
+		<string>h_rVocalicMatra-deva</string>
 		<string>q_sha-deva</string>
 		<string>q_sa-deva</string>
 		<string>khh_ma-deva</string>
@@ -447,7 +466,10 @@
 		<string>f_sa-deva</string>
 		<string>f_za-deva</string>
 		<string>f_fa-deva</string>
+		<string>k_ra-deva.NEP</string>
+		<string>jh_ra-deva.NEP</string>
 		<string>aShort-deva</string>
+		<string>aCandra-deva</string>
 		<string>a-deva</string>
 		<string>aa-deva</string>
 		<string>i-deva</string>
@@ -455,6 +477,9 @@
 		<string>u-deva</string>
 		<string>uu-deva</string>
 		<string>rVocalic-deva</string>
+		<string>rrVocalic-deva</string>
+		<string>lVocalic-deva</string>
+		<string>llVocalic-deva</string>
 		<string>eCandra-deva</string>
 		<string>eShort-deva</string>
 		<string>e-deva</string>
@@ -462,7 +487,13 @@
 		<string>oCandra-deva</string>
 		<string>o-deva</string>
 		<string>au-deva</string>
+		<string>oe-deva</string>
+		<string>ooe-deva</string>
+		<string>aw-deva</string>
+		<string>ue-deva</string>
+		<string>uue-deva</string>
 		<string>k-deva</string>
+		<string>k_ss-deva</string>
 		<string>kh-deva</string>
 		<string>g-deva</string>
 		<string>gh-deva</string>
@@ -470,6 +501,7 @@
 		<string>c-deva</string>
 		<string>ch-deva</string>
 		<string>j-deva</string>
+		<string>j_ny-deva</string>
 		<string>jh-deva</string>
 		<string>ny-deva</string>
 		<string>tt-deva</string>
@@ -492,7 +524,10 @@
 		<string>bh-deva</string>
 		<string>m-deva</string>
 		<string>y-deva</string>
+		<string>rr-deva</string>
 		<string>l-deva</string>
+		<string>ll-deva</string>
+		<string>lll-deva</string>
 		<string>v-deva</string>
 		<string>sh-deva</string>
 		<string>ss-deva</string>
@@ -520,6 +555,10 @@
 		<string>auMatra_reph-deva</string>
 		<string>auMatra_reph_anusvara-deva</string>
 		<string>auMatra-deva</string>
+		<string>ooeMatra-deva</string>
+		<string>awMatra-deva</string>
+		<string>sh-deva.MAR</string>
+		<string>jh-deva.NEP</string>
 		<string>iMatra-deva.alt1</string>
 		<string>iMatra_reph-deva.alt1</string>
 		<string>iMatra_reph_anusvara-deva.alt1</string>
@@ -606,6 +645,7 @@
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
 		<string>space</string>
+		<string>rupeeIndian</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -652,6 +692,15 @@
 		<string>nukta-deva</string>
 		<string>reph-deva</string>
 		<string>reph_anusvara-deva</string>
+		<string>invertedCandraBindu-deva</string>
+		<string>eLongCandra-deva</string>
+		<string>oeMatra-deva</string>
+		<string>ueMatra-deva</string>
+		<string>uueMatra-deva</string>
+		<string>udatta-deva</string>
+		<string>anudatta-deva</string>
+		<string>grave-deva</string>
+		<string>acute-deva</string>
 		<string>anusvara-deva.alt</string>
 		<string>rashtra-deva</string>
 		<string>iMatra_deva.alt12</string>

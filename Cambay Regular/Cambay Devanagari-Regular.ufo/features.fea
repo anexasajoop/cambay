@@ -1,8 +1,10 @@
 # Prefix: Languagesystems
-# automatic
 languagesystem DFLT dflt;
 languagesystem dev2 dflt;
 languagesystem latn dflt;
+languagesystem dev2 MAR;
+languagesystem dev2 HIN;
+languagesystem dev2 NEP;
 
 # Prefix: removeReph
 lookup removeReph{
@@ -465,8 +467,12 @@ feature ccmp {
 } ccmp;
 
 feature locl {
-# automatic
-
+script dev2;
+language MAR;
+sub sha-deva by sha-deva.MAR;
+sub la-deva by la-deva.MAR;
+language NEP;
+sub jha-deva by jha-deva.NEP;
 } locl;
 
 feature cpsp {
@@ -564,6 +570,8 @@ sub halant-deva ra-deva by rashtra-deva;
 feature half {
 # automatic
 sub ka-deva halant-deva by k-deva;
+sub k_ssa-deva halant-deva by k_ss-deva;
+sub k-deva ss-deva by k_ss-deva;
 sub kha-deva halant-deva by kh-deva;
 sub ga-deva halant-deva by g-deva;
 sub gha-deva halant-deva by gh-deva;
@@ -571,6 +579,8 @@ sub nga-deva halant-deva by ng-deva;
 sub ca-deva halant-deva by c-deva;
 sub cha-deva halant-deva by ch-deva;
 sub ja-deva halant-deva by j-deva;
+sub j_nya-deva halant-deva by j_ny-deva;
+sub j-deva ny-deva by j_ny-deva;
 sub jha-deva halant-deva by jh-deva;
 sub nya-deva halant-deva by ny-deva;
 sub tta-deva halant-deva by tt-deva;
@@ -593,7 +603,10 @@ sub ba-deva halant-deva by b-deva;
 sub bha-deva halant-deva by bh-deva;
 sub ma-deva halant-deva by m-deva;
 sub ya-deva halant-deva by y-deva;
+sub rra-deva halant-deva by rr-deva;
 sub la-deva halant-deva by l-deva;
+sub lla-deva halant-deva by ll-deva;
+sub llla-deva halant-deva by lll-deva;
 sub va-deva halant-deva by v-deva;
 sub sha-deva halant-deva by sh-deva;
 sub ssa-deva halant-deva by ss-deva;
@@ -604,6 +617,8 @@ sub khha-deva halant-deva by khh-deva;
 sub ghha-deva halant-deva by ghh-deva;
 sub za-deva halant-deva by z-deva;
 sub fa-deva halant-deva by f-deva;
+sub sha-deva.MAR halant-deva by sh-deva.MAR;
+sub jha-deva.NEP halant-deva by jh-deva.NEP;
 } half;
 
 feature vatu {
@@ -614,6 +629,7 @@ feature cjct {
 sub k-deva kha-deva by k_kha-deva;
 sub k-deva ca-deva by k_ca-deva;
 sub k-deva cha-deva by k_cha-deva;
+sub k-deva ta-deva by k_ta-deva;
 sub k-deva tha-deva by k_tha-deva;
 sub k-deva na-deva by k_na-deva;
 sub k-deva ma-deva by k_ma-deva;
@@ -646,8 +662,10 @@ sub tth-deva ttha-deva by tth_ttha-deva;
 sub tth-deva ya-deva by tth_ya-deva;
 sub dd-deva ga-deva by dd_ga-deva;
 sub dd-deva dda-deva by dd_dda-deva;
+sub dd-deva ddha-deva by dd_ddha-deva;
 sub dd-deva ya-deva by dd_ya-deva;
 sub ddh-deva ya-deva by ddh_ya-deva;
+sub ddh-deva ddha-deva by ddh_ddha-deva;
 sub t-deva kha-deva by t_kha-deva;
 sub t-deva ta-deva by t_ta-deva;
 sub t-deva t-deva ya-deva by t_t_ya-deva;
@@ -706,6 +724,9 @@ sub l-deva sha-deva by l_sha-deva;
 sub l-deva ha-deva by l_ha-deva;
 sub l-deva za-deva by l_za-deva;
 sub sh-deva na-deva by sh_na-deva;
+sub sh-deva va-deva by sh_va-deva;
+sub sh-deva ca-deva by sh_ca-deva;
+sub sh-deva la-deva by sh_la-deva;
 sub ss-deva tta-deva by ss_tta-deva;
 sub ss-deva ttha-deva by ss_ttha-deva;
 sub s-deva kha-deva by s_kha-deva;
@@ -836,6 +857,8 @@ sub l_ha-deva uMatra-deva by l_h_uMatra-deva;
 sub l_ha-deva uuMatra-deva by l_h_uuMatra-deva;
 sub f_ra-deva uMatra-deva by f_r_uMatra-deva;
 sub f_ra-deva uuMatra-deva by f_r_uuMatra-deva;
+sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
+sub ha-deva rVocalicMatra-deva by h_rVocalicMatra-deva;
 sub @iiLetters-alt1 @iiMatra' by @iiMatra-alt1;
 sub nga-deva @iiMatra' by @iiMatra-alt2;
 sub @iiLetters-alt3 @iiMatra' by @iiMatra-alt3;
