@@ -670,6 +670,7 @@ sub t-deva kha-deva by t_kha-deva;
 sub t-deva ta-deva by t_ta-deva;
 sub t-deva t-deva ya-deva by t_t_ya-deva;
 sub t-deva tha-deva by t_tha-deva;
+sub t-deva na-deva by t_na-deva;
 sub t-deva ma-deva by t_ma-deva;
 sub t-deva m-deva ya-deva by t_m_ya-deva;
 sub t-deva ya-deva by t_ya-deva;

@@ -3,13 +3,13 @@
   <advance width="396"/>
   <unicode hex="095D"/>
   <outline>
-    <component base="nuktadeva" xOffset="239" yOffset="-4"/>
+    <component base="nuktadeva" xOffset="239" yOffset="-9"/>
     <component base="ddhadeva"/>
     <contour>
       <point x="287" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="225" y="-140" type="move" name="bottom"/>
+      <point x="225" y="-145" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0904" format="1">
-  <advance width="600"/>
+  <advance width="585"/>
   <unicode hex="0904"/>
   <outline>
     <component base="adeva"/>
-    <component base="eshortvowelsigndeva" xOffset="579"/>
+    <component base="eshortvowelsigndeva" xOffset="588"/>
   </outline>
   <lib>
     <dict>

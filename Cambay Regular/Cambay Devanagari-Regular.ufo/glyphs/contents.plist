@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>.notdef</key>
+	<string>_notdef.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -464,6 +466,8 @@
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
+	<key>dottedCircle</key>
+	<string>dottedC_ircle.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e-deva</key>
@@ -1102,6 +1106,8 @@
 	<string>q_sha-deva.glif</string>
 	<key>qa-deva</key>
 	<string>qa-deva.glif</string>
+	<key>question</key>
+	<string>question.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
 	<key>quotedblleft</key>
@@ -1232,6 +1238,8 @@
 	<string>t_m_ya-deva.glif</string>
 	<key>t_ma-deva</key>
 	<string>t_ma-deva.glif</string>
+	<key>t_na-deva</key>
+	<string>t_na-deva.glif</string>
 	<key>t_r-deva</key>
 	<string>t_r-deva.glif</string>
 	<key>t_ra-deva</key>

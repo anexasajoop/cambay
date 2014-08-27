@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radeva" format="1">
-  <advance width="269"/>
+  <advance width="274"/>
   <unicode hex="0930"/>
   <outline>
     <contour>
       <point x="-24" y="456" type="line"/>
       <point x="-24" y="408" type="line"/>
-      <point x="293" y="408" type="line"/>
-      <point x="293" y="456" type="line"/>
+      <point x="298" y="408" type="line"/>
+      <point x="298" y="456" type="line"/>
     </contour>
     <contour>
       <point x="87" y="427"/>
@@ -38,7 +38,7 @@
       <point x="14" y="212" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="447" type="move" name="top"/>
+      <point x="123" y="447" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

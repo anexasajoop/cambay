@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aadeva" format="1">
-  <advance width="799"/>
+  <advance width="794"/>
   <unicode hex="0906"/>
   <outline>
     <contour>
-      <point x="671" y="0" type="line"/>
-      <point x="726" y="0" type="line"/>
-      <point x="726" y="456" type="line"/>
-      <point x="671" y="456" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="721" y="456" type="line"/>
+      <point x="666" y="456" type="line"/>
     </contour>
     <contour>
-      <point x="567" y="456" type="line"/>
-      <point x="567" y="408" type="line"/>
-      <point x="823" y="408" type="line"/>
-      <point x="823" y="456" type="line"/>
+      <point x="562" y="456" type="line"/>
+      <point x="562" y="408" type="line"/>
+      <point x="818" y="408" type="line"/>
+      <point x="818" y="456" type="line"/>
     </contour>
     <component base="adeva"/>
+    <contour>
+      <point x="694" y="447" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>
