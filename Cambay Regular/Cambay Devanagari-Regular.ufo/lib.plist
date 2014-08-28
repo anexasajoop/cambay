@@ -467,6 +467,9 @@
 		<string>f_sa-deva</string>
 		<string>f_za-deva</string>
 		<string>f_fa-deva</string>
+		<string>iiMatra_reph_candraBindu-deva</string>
+		<string>oMatra_candraBindu-deva</string>
+		<string>auMatra_candraBindu-deva</string>
 		<string>k_ra-deva.NEP</string>
 		<string>jh_ra-deva.NEP</string>
 		<string>aShort-deva</string>
@@ -578,6 +581,9 @@
 		<string>iMatra-deva.alt13</string>
 		<string>iMatra_reph_anusvara-deva.alt13</string>
 		<string>iMatra_reph-deva.alt13</string>
+		<string>iMatra-deva.alt14</string>
+		<string>iMatra-deva.alt15</string>
+		<string>iMatra-deva.alt16</string>
 		<string>iMatra-deva.alt2</string>
 		<string>iMatra_reph-deva.alt2</string>
 		<string>iMatra_reph_anusvara-deva.alt2</string>
@@ -684,10 +690,12 @@
 		<string>candraBindu-deva</string>
 		<string>eShortMatra-deva</string>
 		<string>eMatra-deva</string>
+		<string>eMatra_candraBindu-deva</string>
 		<string>eMatra_anusvara-deva</string>
 		<string>eMatra_reph-deva</string>
 		<string>eMatra_reph_anusvara-deva</string>
 		<string>aiMatra-deva</string>
+		<string>aiMatra_candraBindu-deva</string>
 		<string>aiMatra_anusvara-deva</string>
 		<string>aiMatra_reph-deva</string>
 		<string>aiMatra_reph_anusvara-deva</string>
@@ -705,9 +713,9 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
+		<string>candraBindu-deva.alt</string>
 		<string>anusvara-deva.alt</string>
 		<string>rashtra-deva</string>
-		<string>iMatra_deva.alt12</string>
 	</array>
 </dict>
 </plist>

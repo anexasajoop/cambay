@@ -270,6 +270,8 @@
 	<string>aiM_atra-deva.glif</string>
 	<key>aiMatra_anusvara-deva</key>
 	<string>aiM_atra_anusvara-deva.glif</string>
+	<key>aiMatra_candraBindu-deva</key>
+	<string>aiM_atra_candraB_indu-deva.glif</string>
 	<key>aiMatra_reph-deva</key>
 	<string>aiM_atra_reph-deva.glif</string>
 	<key>aiMatra_reph_anusvara-deva</key>
@@ -296,6 +298,8 @@
 	<string>auM_atra-deva.glif</string>
 	<key>auMatra_anusvara-deva</key>
 	<string>auM_atra_anusvara-deva.glif</string>
+	<key>auMatra_candraBindu-deva</key>
+	<string>auM_atra_candraB_indu-deva.glif</string>
 	<key>auMatra_reph-deva</key>
 	<string>auM_atra_reph-deva.glif</string>
 	<key>auMatra_reph_anusvara-deva</key>
@@ -354,6 +358,8 @@
 	<string>cacute.glif</string>
 	<key>candraBindu-deva</key>
 	<string>candraB_indu-deva.glif</string>
+	<key>candraBindu-deva.alt</key>
+	<string>candraB_indu-deva.alt.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>caron.cap</key>
@@ -482,6 +488,8 @@
 	<string>eM_atra-deva.glif</string>
 	<key>eMatra_anusvara-deva</key>
 	<string>eM_atra_anusvara-deva.glif</string>
+	<key>eMatra_candraBindu-deva</key>
+	<string>eM_atra_candraB_indu-deva.glif</string>
 	<key>eMatra_reph-deva</key>
 	<string>eM_atra_reph-deva.glif</string>
 	<key>eMatra_reph_anusvara-deva</key>
@@ -630,6 +638,12 @@
 	<string>iM_atra-deva.alt12.glif</string>
 	<key>iMatra-deva.alt13</key>
 	<string>iM_atra-deva.alt13.glif</string>
+	<key>iMatra-deva.alt14</key>
+	<string>iM_atra-deva.alt14.glif</string>
+	<key>iMatra-deva.alt15</key>
+	<string>iM_atra-deva.alt15.glif</string>
+	<key>iMatra-deva.alt16</key>
+	<string>iM_atra-deva.alt16.glif</string>
 	<key>iMatra-deva.alt2</key>
 	<string>iM_atra-deva.alt2.glif</string>
 	<key>iMatra-deva.alt3</key>
@@ -646,8 +660,6 @@
 	<string>iM_atra-deva.alt8.glif</string>
 	<key>iMatra-deva.alt9</key>
 	<string>iM_atra-deva.alt9.glif</string>
-	<key>iMatra_deva.alt12</key>
-	<string>iM_atra_deva.alt12.glif</string>
 	<key>iMatra_reph-deva</key>
 	<string>iM_atra_reph-deva.glif</string>
 	<key>iMatra_reph-deva.alt1</key>
@@ -752,6 +764,8 @@
 	<string>iiM_atra_reph_anusvara-deva.alt4.glif</string>
 	<key>iiMatra_reph_anusvara-deva.alt5</key>
 	<string>iiM_atra_reph_anusvara-deva.alt5.glif</string>
+	<key>iiMatra_reph_candraBindu-deva</key>
+	<string>iiM_atra_reph_candraB_indu-deva.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>imacron</key>
@@ -1034,6 +1048,8 @@
 	<string>oM_atra-deva.glif</string>
 	<key>oMatra_anusvara-deva</key>
 	<string>oM_atra_anusvara-deva.glif</string>
+	<key>oMatra_candraBindu-deva</key>
+	<string>oM_atra_candraB_indu-deva.glif</string>
 	<key>oMatra_reph-deva</key>
 	<string>oM_atra_reph-deva.glif</string>
 	<key>oMatra_reph_anusvara-deva</key>
