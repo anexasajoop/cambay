@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="esigndeva" format="1">
+<glyph name="eMatra-deva" format="1">
   <advance width="0"/>
   <unicode hex="0947"/>
   <outline>
     <contour>
       <point x="-147" y="588" type="line"/>
       <point x="-190" y="638"/>
-      <point x="-216" y="657"/>
-      <point x="-264" y="657" type="curve" smooth="yes"/>
-      <point x="-296" y="657"/>
+      <point x="-216" y="658"/>
+      <point x="-264" y="658" type="curve" smooth="yes"/>
+      <point x="-296" y="658"/>
       <point x="-334" y="638"/>
       <point x="-334" y="638" type="curve" smooth="yes"/>
       <point x="-334" y="638"/>
@@ -27,12 +27,4 @@
       <point x="-94" y="447" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

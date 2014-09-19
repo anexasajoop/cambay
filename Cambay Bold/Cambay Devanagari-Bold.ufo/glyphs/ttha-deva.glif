@@ -43,10 +43,10 @@
       <point x="419" y="156" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="274" y="447" type="move" name="top"/>
+      <point x="293" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="208" y="-25" type="move" name="bottom"/>
+      <point x="223" y="-35" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

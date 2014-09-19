@@ -1,0 +1,99 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+
+feature aalt {
+# automatic
+feature half;
+feature cjct;
+feature akhn;
+feature rkrf;
+} aalt;
+
+feature nukt {
+# automatic
+sub ka-deva nukta-deva by qa-deva;
+sub kha-deva nukta-deva by khha-deva;
+sub ga-deva nukta-deva by ghha-deva;
+sub ja-deva nukta-deva by za-deva;
+sub dda-deva nukta-deva by dddha-deva;
+sub ddha-deva nukta-deva by rha-deva;
+sub na-deva nukta-deva by nnna-deva;
+sub pha-deva nukta-deva by fa-deva;
+sub ya-deva nukta-deva by yya-deva;
+sub ra-deva nukta-deva by rra-deva;
+} nukt;
+
+feature rkrf {
+# automatic
+sub ka-deva halant-deva ra-deva by k_ra-deva;
+sub kha-deva halant-deva ra-deva by kh_ra-deva;
+sub ga-deva halant-deva ra-deva by g_ra-deva;
+sub gha-deva halant-deva ra-deva by gh_ra-deva;
+sub ca-deva halant-deva ra-deva by c_ra-deva;
+sub ja-deva halant-deva ra-deva by j_ra-deva;
+sub jha-deva halant-deva ra-deva by jh_ra-deva;
+sub nya-deva halant-deva ra-deva by ny_ra-deva;
+sub nna-deva halant-deva ra-deva by nn_ra-deva;
+sub tha-deva halant-deva ra-deva by th_ra-deva;
+sub da-deva halant-deva ra-deva by d_ra-deva;
+sub dha-deva halant-deva ra-deva by dh_ra-deva;
+sub na-deva halant-deva ra-deva by n_ra-deva;
+sub pa-deva halant-deva ra-deva by p_ra-deva;
+sub pha-deva halant-deva ra-deva by ph_ra-deva;
+sub ba-deva halant-deva ra-deva by b_ra-deva;
+sub bha-deva halant-deva ra-deva by bh_ra-deva;
+sub ma-deva halant-deva ra-deva by m_ra-deva;
+sub ya-deva halant-deva ra-deva by y_ra-deva;
+sub la-deva halant-deva ra-deva by l_ra-deva;
+sub va-deva halant-deva ra-deva by v_ra-deva;
+sub ssa-deva halant-deva ra-deva by ss_ra-deva;
+sub sa-deva halant-deva ra-deva by s_ra-deva;
+sub khha-deva halant-deva ra-deva by khh_ra-deva;
+sub za-deva halant-deva ra-deva by z_ra-deva;
+sub fa-deva halant-deva ra-deva by f_ra-deva;
+} rkrf;
+
+feature half {
+# automatic
+sub ga-deva halant-deva by g-deva;
+sub gha-deva halant-deva by gh-deva;
+sub ca-deva halant-deva by c-deva;
+sub cha-deva halant-deva by ch-deva;
+sub ja-deva halant-deva by j-deva;
+sub nya-deva halant-deva by ny-deva;
+sub nna-deva halant-deva by nn-deva;
+sub ta-deva halant-deva by t-deva;
+sub na-deva halant-deva by n-deva;
+sub pa-deva halant-deva by p-deva;
+sub bha-deva halant-deva by bh-deva;
+sub ma-deva halant-deva by m-deva;
+sub la-deva halant-deva by l-deva;
+sub sha-deva halant-deva by sh-deva;
+sub ghha-deva halant-deva by ghh-deva;
+} half;
+
+feature cjct {
+# automatic
+sub t-deva kha-deva by t_kha-deva;
+sub t-deva tha-deva by t_tha-deva;
+sub t-deva ya-deva by t_ya-deva;
+sub t-deva la-deva by t_la-deva;
+sub t-deva sa-deva by t_sa-deva;
+sub n-deva kha-deva by n_kha-deva;
+sub n-deva ca-deva by n_ca-deva;
+sub n-deva ja-deva by n_ja-deva;
+sub n-deva dda-deva by n_dda-deva;
+sub n-deva tha-deva by n_tha-deva;
+sub n-deva dha-deva by n_dha-deva;
+sub n-deva ma-deva by n_ma-deva;
+sub n-deva ya-deva by n_ya-deva;
+sub n-deva sha-deva by n_sha-deva;
+sub n-deva sa-deva by n_sa-deva;
+sub n-deva ha-deva by n_ha-deva;
+sub m-deva ca-deva by m_ca-deva;
+sub m-deva bha-deva by m_bha-deva;
+sub m-deva ma-deva by m_ma-deva;
+} cjct;
+

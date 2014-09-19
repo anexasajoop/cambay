@@ -52,12 +52,12 @@
       <point x="527" y="396" type="line"/>
       <point x="527" y="466" type="line"/>
     </contour>
-    <component base="nuktadeva" xOffset="468" yOffset="307"/>
+    <component base="nukta-deva" xOffset="468" yOffset="307"/>
     <contour>
-      <point x="303" y="447" type="move" name="top"/>
+      <point x="323" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="226" y="-25" type="move" name="bottom"/>
+      <point x="237" y="-35" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

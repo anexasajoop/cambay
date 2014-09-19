@@ -62,14 +62,33 @@
 		<string>jh_ra-deva</string>
 		<string>ny_ra-deva</string>
 		<string>nn_ra-deva</string>
+		<string>t_kha-deva</string>
+		<string>t_tha-deva</string>
+		<string>t_ya-deva</string>
+		<string>t_la-deva</string>
+		<string>t_sa-deva</string>
 		<string>th_ra-deva</string>
 		<string>d_ra-deva</string>
 		<string>dh_ra-deva</string>
+		<string>n_kha-deva</string>
+		<string>n_ca-deva</string>
+		<string>n_ja-deva</string>
+		<string>n_dda-deva</string>
+		<string>n_tha-deva</string>
+		<string>n_dha-deva</string>
+		<string>n_ma-deva</string>
+		<string>n_ya-deva</string>
 		<string>n_ra-deva</string>
+		<string>n_sha-deva</string>
+		<string>n_sa-deva</string>
+		<string>n_ha-deva</string>
 		<string>p_ra-deva</string>
 		<string>ph_ra-deva</string>
 		<string>b_ra-deva</string>
 		<string>bh_ra-deva</string>
+		<string>m_ca-deva</string>
+		<string>m_bha-deva</string>
+		<string>m_ma-deva</string>
 		<string>m_ra-deva</string>
 		<string>y_ra-deva</string>
 		<string>l_ra-deva</string>
@@ -95,11 +114,27 @@
 		<string>l-deva</string>
 		<string>sh-deva</string>
 		<string>ghh-deva</string>
-		<string>aasigndeva</string>
-		<string>osigndeva</string>
+		<string>aaMatra-deva</string>
+		<string>iMatra-deva</string>
+		<string>iiMatra-deva</string>
+		<string>oMatra-deva</string>
+		<string>auMatra-deva</string>
+		<string>comma</string>
+		<string>exclam</string>
+		<string>emdash</string>
+		<string>hyphen</string>
+		<string>danda-deva</string>
+		<string>dbldanda-deva</string>
 		<string>space</string>
-		<string>esigndeva</string>
-		<string>nuktadeva</string>
+		<string>uMatra-deva</string>
+		<string>uuMatra-deva</string>
+		<string>rVocalicMatra-deva</string>
+		<string>candraBindu-deva</string>
+		<string>eMatra-deva</string>
+		<string>aiMatra-deva</string>
+		<string>anusvara-deva</string>
+		<string>halant-deva</string>
+		<string>nukta-deva</string>
 	</array>
 </dict>
 </plist>

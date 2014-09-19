@@ -4,12 +4,12 @@
   <unicode hex="095C"/>
   <outline>
     <component base="dda-deva"/>
-    <component base="nuktadeva" xOffset="245" yOffset="-12"/>
+    <component base="nukta-deva" xOffset="245" yOffset="-12"/>
     <contour>
-      <point x="302" y="447" type="move" name="top"/>
+      <point x="318" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="225" y="-140" type="move" name="bottom"/>
+      <point x="233" y="-165" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
