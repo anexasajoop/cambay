@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sh_sha-deva" format="1">
+  <advance width="863"/>
+  <outline>
+    <contour>
+      <point x="606" y="426"/>
+      <point x="549" y="479"/>
+      <point x="475" y="479" type="curve" smooth="yes"/>
+      <point x="416" y="479"/>
+      <point x="361" y="443"/>
+      <point x="361" y="373" type="curve" smooth="yes"/>
+      <point x="361" y="323"/>
+      <point x="389" y="291"/>
+      <point x="438" y="262" type="curve"/>
+      <point x="478" y="322" type="line"/>
+      <point x="454" y="340"/>
+      <point x="441" y="351"/>
+      <point x="441" y="372" type="curve" smooth="yes"/>
+      <point x="441" y="392"/>
+      <point x="454" y="403"/>
+      <point x="475" y="403" type="curve" smooth="yes"/>
+      <point x="501" y="403"/>
+      <point x="523" y="379"/>
+      <point x="525" y="348" type="curve" smooth="yes"/>
+      <point x="531" y="253"/>
+      <point x="433" y="200"/>
+      <point x="398" y="181" type="curve"/>
+      <point x="453" y="118" type="line"/>
+      <point x="516" y="159"/>
+      <point x="606" y="225"/>
+      <point x="606" y="338" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="331" y="155"/>
+      <point x="355" y="123"/>
+      <point x="413" y="117" type="curve"/>
+      <point x="536" y="-23" type="line"/>
+      <point x="536" y="-23"/>
+      <point x="593" y="32"/>
+      <point x="593" y="32" type="curve"/>
+      <point x="387" y="250" type="line"/>
+      <point x="354" y="245"/>
+      <point x="331" y="221"/>
+      <point x="331" y="191" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="640" y="466" type="line"/>
+      <point x="640" y="396" type="line"/>
+      <point x="887" y="396" type="line"/>
+      <point x="887" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="713" y="0" type="line"/>
+      <point x="798" y="0" type="line"/>
+      <point x="798" y="466" type="line"/>
+      <point x="713" y="466" type="line"/>
+    </contour>
+    <component base="sh-deva"/>
+    <contour>
+      <point x="756" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="756" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khh_ma-deva" format="1">
+  <advance width="1045"/>
+  <outline>
+    <contour>
+      <point x="895" y="0" type="line"/>
+      <point x="980" y="0" type="line"/>
+      <point x="980" y="466" type="line"/>
+      <point x="895" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="466" type="line"/>
+      <point x="422" y="396" type="line"/>
+      <point x="1069" y="396" type="line"/>
+      <point x="1069" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="216" type="line"/>
+      <point x="585" y="174" type="line"/>
+      <point x="684" y="51" type="line"/>
+      <point x="684" y="51"/>
+      <point x="741" y="51"/>
+      <point x="741" y="51" type="curve"/>
+      <point x="741" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="216" type="line"/>
+      <point x="680" y="138" type="line"/>
+      <point x="933" y="138" type="line"/>
+      <point x="933" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="138" type="line"/>
+      <point x="741" y="138" type="line"/>
+      <point x="741" y="466" type="line"/>
+      <point x="656" y="466" type="line"/>
+    </contour>
+    <component base="kh-deva"/>
+    <component base="nukta-deva" xOffset="67" yOffset="101"/>
+    <contour>
+      <point x="937" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="937" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
