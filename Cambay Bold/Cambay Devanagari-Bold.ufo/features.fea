@@ -5,10 +5,11 @@ languagesystem dev2 dflt;
 
 feature aalt {
 # automatic
+feature nukt;
+feature rkrf;
 feature half;
 feature cjct;
-feature akhn;
-feature rkrf;
+feature abvs;
 } aalt;
 
 feature nukt {
@@ -57,26 +58,68 @@ sub fa-deva halant-deva ra-deva by f_ra-deva;
 
 feature half {
 # automatic
+sub ka-deva halant-deva by k-deva;
+sub kha-deva halant-deva by kh-deva;
 sub ga-deva halant-deva by g-deva;
 sub gha-deva halant-deva by gh-deva;
+sub nga-deva halant-deva by ng-deva;
 sub ca-deva halant-deva by c-deva;
 sub cha-deva halant-deva by ch-deva;
 sub ja-deva halant-deva by j-deva;
+sub j_ja-deva halant-deva by j_j-deva;
+sub j-deva j-deva by j_j-deva;
+sub jha-deva halant-deva by jh-deva;
 sub nya-deva halant-deva by ny-deva;
+sub tta-deva halant-deva by tt-deva;
+sub ttha-deva halant-deva by tth-deva;
+sub dda-deva halant-deva by dd-deva;
+sub ddha-deva halant-deva by ddh-deva;
 sub nna-deva halant-deva by nn-deva;
 sub ta-deva halant-deva by t-deva;
+sub tha-deva halant-deva by th-deva;
+sub da-deva halant-deva by d-deva;
+sub dha-deva halant-deva by dh-deva;
 sub na-deva halant-deva by n-deva;
 sub pa-deva halant-deva by p-deva;
+sub pha-deva halant-deva by ph-deva;
+sub ba-deva halant-deva by b-deva;
 sub bha-deva halant-deva by bh-deva;
 sub ma-deva halant-deva by m-deva;
+sub ya-deva halant-deva by y-deva;
 sub la-deva halant-deva by l-deva;
+sub va-deva halant-deva by v-deva;
 sub sha-deva halant-deva by sh-deva;
+sub ssa-deva halant-deva by ss-deva;
+sub sa-deva halant-deva by s-deva;
+sub ha-deva halant-deva by h-deva;
+sub qa-deva halant-deva by q-deva;
+sub khha-deva halant-deva by khh-deva;
 sub ghha-deva halant-deva by ghh-deva;
+sub za-deva halant-deva by z-deva;
+sub fa-deva halant-deva by f-deva;
 } half;
 
 feature cjct {
 # automatic
+sub k-deva kha-deva by k_kha-deva;
+sub k-deva ca-deva by k_ca-deva;
+sub k-deva cha-deva by k_cha-deva;
+sub k-deva tha-deva by k_tha-deva;
+sub k-deva na-deva by k_na-deva;
+sub k-deva ma-deva by k_ma-deva;
+sub k-deva sha-deva by k_sha-deva;
+sub k-deva sa-deva by k_sa-deva;
+sub kh-deva kha-deva by kh_kha-deva;
+sub kh-deva ma-deva by kh_ma-deva;
+sub g-deva na-deva by g_na-deva;
+sub gh-deva na-deva by gh_na-deva;
+sub c-deva ca-deva by c_ca-deva;
+sub j-deva ja-deva by j_ja-deva;
+sub j-deva j-deva ya-deva by j_j_ya-deva;
+sub j-deva ya-deva by j_ya-deva;
+sub ny-deva sa-deva by ny_sa-deva;
 sub t-deva kha-deva by t_kha-deva;
+sub t-deva ta-deva by t_ta-deva;
 sub t-deva tha-deva by t_tha-deva;
 sub t-deva ya-deva by t_ya-deva;
 sub t-deva la-deva by t_la-deva;
@@ -92,8 +135,52 @@ sub n-deva ya-deva by n_ya-deva;
 sub n-deva sha-deva by n_sha-deva;
 sub n-deva sa-deva by n_sa-deva;
 sub n-deva ha-deva by n_ha-deva;
+sub b-deva ja-deva by b_ja-deva;
+sub b-deva dha-deva by b_dha-deva;
+sub b-deva bha-deva by b_bha-deva;
+sub b-deva sha-deva by b_sha-deva;
+sub b-deva za-deva by b_za-deva;
+sub bh-deva bha-deva by bh_bha-deva;
 sub m-deva ca-deva by m_ca-deva;
 sub m-deva bha-deva by m_bha-deva;
 sub m-deva ma-deva by m_ma-deva;
+sub l-deva kha-deva by l_kha-deva;
+sub l-deva bha-deva by l_bha-deva;
+sub l-deva ma-deva by l_ma-deva;
+sub l-deva sha-deva by l_sha-deva;
+sub sh-deva ka-deva by sh_ka-deva;
+sub sh-deva cha-deva by sh_cha-deva;
+sub sh-deva tta-deva by sh_tta-deva;
+sub sh-deva ta-deva by sh_ta-deva;
+sub sh-deva ma-deva by sh_ma-deva;
+sub sh-deva ya-deva by sh_ya-deva;
+sub sh-deva sha-deva by sh_sha-deva;
+sub sh-deva qa-deva by sh_qa-deva;
+sub s-deva kha-deva by s_kha-deva;
+sub s-deva dda-deva by s_dda-deva;
+sub s-deva tha-deva by s_tha-deva;
+sub s-deva ma-deva by s_ma-deva;
+sub s-deva sa-deva by s_sa-deva;
+sub q-deva sha-deva by q_sha-deva;
+sub q-deva sa-deva by q_sa-deva;
+sub khh-deva ma-deva by khh_ma-deva;
+sub khh-deva sha-deva by khh_sha-deva;
+sub khh-deva sa-deva by khh_sa-deva;
+sub z-deva ma-deva by z_ma-deva;
+sub z-deva ya-deva by z_ya-deva;
+sub z-deva za-deva by z_za-deva;
+sub f-deva sha-deva by f_sha-deva;
+sub f-deva sa-deva by f_sa-deva;
+sub f-deva za-deva by f_za-deva;
 } cjct;
+
+feature abvs {
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+
+sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
+
+sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
+
+sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
+} abvs;
 

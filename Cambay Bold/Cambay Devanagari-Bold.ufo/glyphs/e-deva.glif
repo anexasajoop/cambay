@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-deva" format="1">
+  <advance width="439"/>
+  <unicode hex="090F"/>
+  <outline>
+    <contour>
+      <point x="51" y="152" type="line"/>
+      <point x="314" y="-62" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="135" y="191" type="line"/>
+      <point x="135" y="466" type="line"/>
+      <point x="50" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="463" y="396" type="line"/>
+      <point x="463" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="284" type="line"/>
+      <point x="293" y="228"/>
+      <point x="296" y="206"/>
+      <point x="251" y="189" type="curve"/>
+      <point x="290" y="116" type="line"/>
+      <point x="355" y="142"/>
+      <point x="379" y="173"/>
+      <point x="379" y="253" type="curve"/>
+      <point x="379" y="466" type="line"/>
+      <point x="295" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="447" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
