@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ra-deva" format="1">
+  <advance width="453"/>
+  <outline>
+    <contour>
+      <point x="-24" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="477" y="396" type="line"/>
+      <point x="477" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="466" type="line"/>
+      <point x="305" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="71"/>
+      <point x="137" y="10"/>
+      <point x="137" y="10" type="curve" smooth="yes"/>
+      <point x="137" y="10"/>
+      <point x="353" y="175"/>
+      <point x="353" y="175" type="curve"/>
+      <point x="299" y="237" type="line"/>
+      <point x="80" y="71" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="308"/>
+      <point x="260" y="342"/>
+      <point x="203" y="342" type="curve"/>
+      <point x="129" y="342"/>
+      <point x="74" y="291"/>
+      <point x="29" y="244" type="curve"/>
+      <point x="90" y="187" type="line"/>
+      <point x="127" y="221"/>
+      <point x="161" y="260"/>
+      <point x="204" y="258" type="curve"/>
+      <point x="247" y="258"/>
+      <point x="273" y="225"/>
+      <point x="304" y="187" type="curve" smooth="yes"/>
+      <point x="315" y="173"/>
+      <point x="332" y="175"/>
+      <point x="342" y="162" type="curve"/>
+      <point x="360" y="248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
