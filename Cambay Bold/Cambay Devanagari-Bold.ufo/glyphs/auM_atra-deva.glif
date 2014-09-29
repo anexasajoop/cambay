@@ -4,6 +4,6 @@
   <unicode hex="094C"/>
   <outline>
     <component base="aaMatra-deva"/>
-    <component base="aiMatra-deva" xOffset="214"/>
+    <component base="aiMatra-deva" xOffset="210"/>
   </outline>
 </glyph>

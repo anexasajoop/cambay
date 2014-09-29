@@ -84,7 +84,7 @@
       <point x="512" y="244" type="line"/>
       <point x="512" y="293" type="line"/>
     </contour>
-    <component base="nukta-deva" xOffset="125" yOffset="60"/>
+    <component base="nukta-deva" xOffset="189" yOffset="40"/>
     <contour>
       <point x="732" y="447" type="move" name="top"/>
     </contour>

@@ -292,6 +292,8 @@
 	<string>l_ja-deva.glif</string>
 	<key>l_kha-deva</key>
 	<string>l_kha-deva.glif</string>
+	<key>l_khha-deva</key>
+	<string>l_khha-deva.glif</string>
 	<key>l_ma-deva</key>
 	<string>l_ma-deva.glif</string>
 	<key>l_ra-deva</key>
@@ -330,6 +332,10 @@
 	<string>n_ca-deva.glif</string>
 	<key>n_dda-deva</key>
 	<string>n_dda-deva.glif</string>
+	<key>n_dh-deva</key>
+	<string>n_dh-deva.glif</string>
+	<key>n_dh_ra-deva</key>
+	<string>n_dh_ra-deva.glif</string>
 	<key>n_dha-deva</key>
 	<string>n_dha-deva.glif</string>
 	<key>n_h_uMatra-deva</key>
@@ -346,6 +352,8 @@
 	<string>n_ma-deva.glif</string>
 	<key>n_ra-deva</key>
 	<string>n_ra-deva.glif</string>
+	<key>n_s-deva</key>
+	<string>n_s-deva.glif</string>
 	<key>n_sa-deva</key>
 	<string>n_sa-deva.glif</string>
 	<key>n_sha-deva</key>
@@ -392,6 +400,8 @@
 	<string>o-deva.glif</string>
 	<key>oCandra-deva</key>
 	<string>oC_andra-deva.glif</string>
+	<key>oCandraMatra-deva</key>
+	<string>oC_andraM_atra-deva.glif</string>
 	<key>oMatra-deva</key>
 	<string>oM_atra-deva.glif</string>
 	<key>oMatra_anusvara-deva</key>

@@ -78,8 +78,8 @@
       <point x="581" y="95"/>
       <point x="581" y="177" type="curve" smooth="yes"/>
     </contour>
-    <component base="nukta-deva" xOffset="125" yOffset="60"/>
-    <component base="nukta-deva" xOffset="358" yOffset="60"/>
+    <component base="nukta-deva" xOffset="191" yOffset="37"/>
+    <component base="nukta-deva" xOffset="423" yOffset="37"/>
     <contour>
       <point x="691" y="447" type="move" name="top"/>
     </contour>

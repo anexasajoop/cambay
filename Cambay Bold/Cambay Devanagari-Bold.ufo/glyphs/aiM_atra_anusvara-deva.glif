@@ -2,8 +2,21 @@
 <glyph name="aiMatra_anusvara-deva" format="1">
   <advance width="600"/>
   <outline>
+    <contour>
+      <point x="10" y="560"/>
+      <point x="29" y="579"/>
+      <point x="29" y="606" type="curve" smooth="yes"/>
+      <point x="29" y="634"/>
+      <point x="10" y="653"/>
+      <point x="-18" y="653" type="curve" smooth="yes"/>
+      <point x="-45" y="653"/>
+      <point x="-64" y="634"/>
+      <point x="-64" y="606" type="curve" smooth="yes"/>
+      <point x="-64" y="579"/>
+      <point x="-45" y="560"/>
+      <point x="-18" y="560" type="curve" smooth="yes"/>
+    </contour>
     <component base="aiMatra-deva"/>
-    <component base="anusvara-deva" xOffset="65" yOffset="40"/>
     <contour>
       <point x="-103" y="447" type="move" name="_top"/>
     </contour>

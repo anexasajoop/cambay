@@ -4,7 +4,7 @@
   <unicode hex="0914"/>
   <outline>
     <component base="aa-deva"/>
-    <component base="aiMatra-deva" xOffset="831"/>
+    <component base="aiMatra-deva" xOffset="826"/>
   </outline>
   <lib>
     <dict>

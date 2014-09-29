@@ -18,10 +18,13 @@
       <point x="152" y="247" type="line"/>
     </contour>
     <contour>
+      <point x="298" y="233"/>
+      <point x="257" y="247"/>
+      <point x="206" y="247" type="curve"/>
       <point x="91" y="247" type="line"/>
       <point x="91" y="172" type="line"/>
       <point x="334" y="172" type="line"/>
-      <point x="334" y="247" type="line"/>
+      <point x="334" y="221" type="line"/>
     </contour>
     <contour>
       <point x="387" y="405"/>

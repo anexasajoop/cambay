@@ -129,6 +129,7 @@
 		<string>n_dda-deva</string>
 		<string>n_tha-deva</string>
 		<string>n_dha-deva</string>
+		<string>n_dh_ra-deva</string>
 		<string>n_ma-deva</string>
 		<string>n_ya-deva</string>
 		<string>n_ra-deva</string>
@@ -166,6 +167,7 @@
 		<string>l_ma-deva</string>
 		<string>l_ra-deva</string>
 		<string>l_sha-deva</string>
+		<string>l_khha-deva</string>
 		<string>l_za-deva</string>
 		<string>v_ra-deva</string>
 		<string>sh_ka-deva</string>
@@ -245,6 +247,8 @@
 		<string>d-deva</string>
 		<string>dh-deva</string>
 		<string>n-deva</string>
+		<string>n_dh-deva</string>
+		<string>n_s-deva</string>
 		<string>nnn-deva</string>
 		<string>p-deva</string>
 		<string>ph-deva</string>
@@ -270,6 +274,7 @@
 		<string>aaMatra-deva</string>
 		<string>iMatra-deva</string>
 		<string>iiMatra-deva</string>
+		<string>oCandraMatra-deva</string>
 		<string>oMatra-deva</string>
 		<string>oMatra_anusvara-deva</string>
 		<string>oMatra_reph-deva</string>

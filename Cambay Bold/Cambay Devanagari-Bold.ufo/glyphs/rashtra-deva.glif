@@ -4,12 +4,12 @@
   <outline>
     <contour>
       <point x="0" y="-111" type="line"/>
-      <point x="43" y="-161" type="line"/>
-      <point x="137" y="-91" type="line"/>
-      <point x="231" y="-161" type="line"/>
+      <point x="46" y="-164" type="line"/>
+      <point x="137" y="-96" type="line"/>
+      <point x="229" y="-164" type="line"/>
       <point x="274" y="-111" type="line"/>
-      <point x="151" y="-21" type="line"/>
-      <point x="123" y="-21" type="line"/>
+      <point x="154" y="-21" type="line"/>
+      <point x="120" y="-21" type="line"/>
     </contour>
     <contour>
       <point x="137" y="-25" type="move" name="_bottom"/>

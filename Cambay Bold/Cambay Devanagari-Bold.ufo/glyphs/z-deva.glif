@@ -40,7 +40,7 @@
       <point x="349" y="95"/>
       <point x="349" y="177" type="curve" smooth="yes"/>
     </contour>
-    <component base="nukta-deva" xOffset="125" yOffset="60"/>
+    <component base="nukta-deva" xOffset="191" yOffset="40"/>
   </outline>
   <lib>
     <dict>

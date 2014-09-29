@@ -93,7 +93,7 @@
       <point x="299" y="466" type="line"/>
     </contour>
     <component base="nukta-deva" xOffset="183" yOffset="89"/>
-    <component base="nukta-deva" xOffset="595" yOffset="60"/>
+    <component base="nukta-deva" xOffset="661" yOffset="40"/>
     <contour>
       <point x="929" y="447" type="move" name="top"/>
     </contour>
