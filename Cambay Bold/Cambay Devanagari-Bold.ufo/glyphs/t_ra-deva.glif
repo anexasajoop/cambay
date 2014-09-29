@@ -15,22 +15,22 @@
       <point x="305" y="466" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="71"/>
+      <point x="78" y="73"/>
       <point x="137" y="10"/>
       <point x="137" y="10" type="curve" smooth="yes"/>
       <point x="137" y="10"/>
       <point x="353" y="175"/>
       <point x="353" y="175" type="curve"/>
-      <point x="299" y="237" type="line"/>
-      <point x="80" y="71" type="line"/>
+      <point x="297" y="239" type="line"/>
+      <point x="78" y="73" type="line"/>
     </contour>
     <contour>
       <point x="308" y="308"/>
       <point x="260" y="342"/>
       <point x="203" y="342" type="curve"/>
-      <point x="129" y="342"/>
-      <point x="74" y="291"/>
-      <point x="29" y="244" type="curve"/>
+      <point x="125" y="342"/>
+      <point x="72" y="293"/>
+      <point x="27" y="246" type="curve"/>
       <point x="90" y="187" type="line"/>
       <point x="127" y="221"/>
       <point x="161" y="260"/>
