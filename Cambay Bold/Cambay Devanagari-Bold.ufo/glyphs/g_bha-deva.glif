@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_bha-deva" format="1">
+  <advance width="779"/>
+  <outline>
+    <contour>
+      <point x="-24" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="271" y="396" type="line"/>
+      <point x="271" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="240" type="line"/>
+      <point x="28" y="198" type="line"/>
+      <point x="118" y="75" type="line"/>
+      <point x="118" y="75"/>
+      <point x="175" y="75"/>
+      <point x="175" y="75" type="curve"/>
+      <point x="175" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="180" type="line"/>
+      <point x="175" y="180" type="line"/>
+      <point x="175" y="466" type="line"/>
+      <point x="90" y="466" type="line"/>
+    </contour>
+    <component base="bha-deva" xOffset="247"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j-deva" format="1">
-  <advance width="381"/>
+  <advance width="391"/>
   <outline>
     <contour>
       <point x="-24" y="466" type="line"/>
       <point x="-24" y="396" type="line"/>
-      <point x="405" y="396" type="line"/>
-      <point x="405" y="466" type="line"/>
+      <point x="415" y="396" type="line"/>
+      <point x="415" y="466" type="line"/>
     </contour>
     <contour>
       <point x="238" y="292" type="line"/>
       <point x="234" y="223" type="line"/>
-      <point x="452" y="223" type="line"/>
-      <point x="452" y="292" type="line"/>
+      <point x="462" y="223" type="line"/>
+      <point x="462" y="292" type="line"/>
     </contour>
     <contour>
       <point x="349" y="186"/>

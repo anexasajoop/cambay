@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n-deva" format="1">
-  <advance width="245"/>
+  <advance width="239"/>
   <outline>
     <contour>
       <point x="-24" y="466" type="line"/>
