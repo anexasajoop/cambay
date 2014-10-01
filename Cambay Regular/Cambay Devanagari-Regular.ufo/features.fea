@@ -588,10 +588,25 @@ sub halant-deva ra-deva by rashtra-deva;
 } blwf;
 
 feature half {
-# automatic
+# TRICONSONANTAL CONJUNCT HALF FORMS
+sub na-deva halant-deva t_ra-deva halant-deva by n_t_r-deva;
+
+
+
+# BICONSONANTAL CONJUNCT HALF FORMS
+sub ja-deva halant-deva ja-deva halant-deva by j_j-deva;
+sub ja-deva halant-deva nya-deva halant-deva by j_ny-deva;
+sub ka-deva halant-deva ssa-deva halant-deva by k_ss-deva;
+sub ta-deva halant-deva ta-deva halant-deva by t_t-deva;
+sub t_ra-deva halant-deva by t_r-deva;
+sub na-deva halant-deva dha-deva halant-deva by n_dh-deva;
+sub ta-deva halant-deva sa-deva halant-deva by t_s-deva;
+sub na-deva halant-deva sa-deva halant-deva by n_s-deva;
+
+
+
+# CONJUNCT HALF FORMS
 sub ka-deva halant-deva by k-deva;
-sub k_ssa-deva halant-deva by k_ss-deva;
-sub k-deva ss-deva by k_ss-deva;
 sub kha-deva halant-deva by kh-deva;
 sub ga-deva halant-deva by g-deva;
 sub gha-deva halant-deva by gh-deva;
@@ -599,8 +614,6 @@ sub nga-deva halant-deva by ng-deva;
 sub ca-deva halant-deva by c-deva;
 sub cha-deva halant-deva by ch-deva;
 sub ja-deva halant-deva by j-deva;
-sub j_nya-deva halant-deva by j_ny-deva;
-sub j-deva ny-deva by j_ny-deva;
 sub jha-deva halant-deva by jh-deva;
 sub nya-deva halant-deva by ny-deva;
 sub tta-deva halant-deva by tt-deva;
@@ -609,9 +622,6 @@ sub dda-deva halant-deva by dd-deva;
 sub ddha-deva halant-deva by ddh-deva;
 sub nna-deva halant-deva by nn-deva;
 sub ta-deva halant-deva by t-deva;
-sub t_ta-deva halant-deva by t_t-deva;
-sub t-deva t-deva by t_t-deva;
-sub t_ra-deva halant-deva by t_r-deva;
 sub tha-deva halant-deva by th-deva;
 sub da-deva halant-deva by d-deva;
 sub dha-deva halant-deva by dh-deva;
@@ -646,6 +656,8 @@ sub halant-deva ra-deva by rashtra-deva;
 } vatu;
 
 feature cjct {
+# BICONSONANTAL CONJUNCTS
+
 sub k-deva kha-deva by k_kha-deva;
 sub k-deva ca-deva by k_ca-deva;
 sub k-deva cha-deva by k_cha-deva;
@@ -656,9 +668,6 @@ sub k-deva ma-deva by k_ma-deva;
 sub k-deva ya-deva by k_ya-deva;
 sub k-deva sha-deva by k_sha-deva;
 sub k-deva ssa-deva by k_ssa-deva;
-sub k-deva ss-deva nna-deva by k_ss_nna-deva;
-sub k-deva ss-deva ma-deva by k_ss_ma-deva;
-sub k-deva ss-deva ya-deva by k_ss_ya-deva;
 sub k-deva sa-deva by k_sa-deva;
 sub kh-deva kha-deva by kh_kha-deva;
 sub kh-deva ma-deva by kh_ma-deva;
@@ -688,17 +697,13 @@ sub ddh-deva ya-deva by ddh_ya-deva;
 sub ddh-deva ddha-deva by ddh_ddha-deva;
 sub t-deva kha-deva by t_kha-deva;
 sub t-deva ta-deva by t_ta-deva;
-sub t-deva t-deva ya-deva by t_t_ya-deva;
 sub t-deva tha-deva by t_tha-deva;
 sub t-deva na-deva by t_na-deva;
 sub t-deva ma-deva by t_ma-deva;
-sub t-deva m-deva ya-deva by t_m_ya-deva;
 sub t-deva ya-deva by t_ya-deva;
 sub t-deva la-deva by t_la-deva;
 sub t-deva sha-deva by t_sha-deva;
 sub t-deva sa-deva by t_sa-deva;
-sub t-deva s-deva na-deva by t_s_na-deva;
-sub t-deva s-deva ya-deva by t_s_ya-deva;
 sub d-deva ga-deva by d_ga-deva;
 sub d-deva gha-deva by d_gha-deva;
 sub d-deva da-deva by d_da-deva;
@@ -726,6 +731,7 @@ sub p-deva na-deva by p_na-deva;
 sub p-deva la-deva by p_la-deva;
 sub b-deva ja-deva by b_ja-deva;
 sub b-deva dha-deva by b_dha-deva;
+sub b-deva na-deva by b_na-deva;
 sub b-deva bha-deva by b_bha-deva;
 sub b-deva sha-deva by b_sha-deva;
 sub b-deva za-deva by b_za-deva;
@@ -743,6 +749,7 @@ sub l-deva ma-deva by l_ma-deva;
 sub l-deva ya-deva by l_ya-deva;
 sub l-deva sha-deva by l_sha-deva;
 sub l-deva ha-deva by l_ha-deva;
+sub l-deva khha-deva by l_khha-deva;
 sub l-deva za-deva by l_za-deva;
 sub sh-deva na-deva by sh_na-deva;
 sub sh-deva va-deva by sh_va-deva;
@@ -751,10 +758,10 @@ sub sh-deva la-deva by sh_la-deva;
 sub ss-deva tta-deva by ss_tta-deva;
 sub ss-deva ttha-deva by ss_ttha-deva;
 sub s-deva kha-deva by s_kha-deva;
+sub s-deva ja-deva by s_ja-deva;
 sub s-deva dda-deva by s_dda-deva;
 sub s-deva t_ra-deva by s_t_ra-deva;
 sub s-deva tha-deva by s_tha-deva;
-sub s-deva th-deva ya-deva by s_th_ya-deva;
 sub s-deva na-deva by s_na-deva;
 sub s-deva ma-deva by s_ma-deva;
 sub s-deva sa-deva by s_sa-deva;
@@ -774,10 +781,33 @@ sub khh-deva sa-deva by khh_sa-deva;
 sub z-deva ma-deva by z_ma-deva;
 sub z-deva ya-deva by z_ya-deva;
 sub z-deva za-deva by z_za-deva;
+sub f-deva tha-deva by f_tha-deva;
 sub f-deva sha-deva by f_sha-deva;
 sub f-deva sa-deva by f_sa-deva;
 sub f-deva za-deva by f_za-deva;
 sub f-deva fa-deva by f_fa-deva;
+
+
+# TRICONSONANTAL CONJUNCTS
+
+sub k-deva ss-deva nna-deva by k_ss_nna-deva;
+sub k-deva ss-deva ma-deva by k_ss_ma-deva;
+sub k-deva ss-deva ya-deva by k_ss_ya-deva;
+sub j_j-deva ya-deva by j_j_ya-deva;
+sub t-deva t-deva ya-deva by t_t_ya-deva;
+sub t-deva m-deva ya-deva by t_m_ya-deva;
+sub t-deva n-deva ya-deva by t_n_ya-deva;
+sub t-deva s-deva tha-deva by t_s_tha-deva;
+sub t-deva s-deva na-deva by t_s_na-deva;
+sub t-deva s-deva ya-deva by t_s_ya-deva;
+sub d_ra-deva halant-deva ya-deva by d_r_ya-deva;
+sub n-deva t_ra-deva by n_t_ra-deva;
+sub n-deva t_ya-deva by n_t_ya-deva;
+sub n-deva dh_ra-deva by n_dh_ra-deva;
+sub m-deva bh_ra-deva by m_bh_ra-deva;
+sub l_bha-deva halant-deva ya-deva by l_bh_ya-deva;
+sub s-deva th-deva ya-deva by s_th_ya-deva;
+sub ss-deva p_ra-deva by ss_p_ra-deva;
 } cjct;
 
 feature pres {

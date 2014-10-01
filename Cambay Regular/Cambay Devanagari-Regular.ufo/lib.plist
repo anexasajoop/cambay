@@ -320,6 +320,7 @@
 		<string>c_ca-deva</string>
 		<string>c_ra-deva</string>
 		<string>j_ja-deva</string>
+		<string>j_j_ya-deva</string>
 		<string>j_nya-deva</string>
 		<string>j_ya-deva</string>
 		<string>j_ra-deva</string>
@@ -348,6 +349,7 @@
 		<string>t_t_ya-deva</string>
 		<string>t_tha-deva</string>
 		<string>t_na-deva</string>
+		<string>t_n_ya-deva</string>
 		<string>t_ma-deva</string>
 		<string>t_m_ya-deva</string>
 		<string>t_ya-deva</string>
@@ -355,6 +357,7 @@
 		<string>t_la-deva</string>
 		<string>t_sha-deva</string>
 		<string>t_sa-deva</string>
+		<string>t_s_tha-deva</string>
 		<string>t_s_na-deva</string>
 		<string>t_s_ya-deva</string>
 		<string>th_ra-deva</string>
@@ -368,6 +371,7 @@
 		<string>d_ma-deva</string>
 		<string>d_ya-deva</string>
 		<string>d_ra-deva</string>
+		<string>d_r_ya-deva</string>
 		<string>d_va-deva</string>
 		<string>d_rVocalicMatra-deva</string>
 		<string>dh_ra-deva</string>
@@ -375,8 +379,11 @@
 		<string>n_ca-deva</string>
 		<string>n_ja-deva</string>
 		<string>n_dda-deva</string>
+		<string>n_t_ya-deva</string>
+		<string>n_t_ra-deva</string>
 		<string>n_tha-deva</string>
 		<string>n_dha-deva</string>
+		<string>n_dh_ra-deva</string>
 		<string>n_na-deva</string>
 		<string>n_ma-deva</string>
 		<string>n_ya-deva</string>
@@ -393,6 +400,7 @@
 		<string>ph_ra-deva</string>
 		<string>b_ja-deva</string>
 		<string>b_dha-deva</string>
+		<string>b_na-deva</string>
 		<string>b_bha-deva</string>
 		<string>b_ra-deva</string>
 		<string>b_sha-deva</string>
@@ -402,6 +410,7 @@
 		<string>m_ca-deva</string>
 		<string>m_na-deva</string>
 		<string>m_bha-deva</string>
+		<string>m_bh_ra-deva</string>
 		<string>m_ma-deva</string>
 		<string>m_ra-deva</string>
 		<string>m_ha-deva</string>
@@ -414,6 +423,7 @@
 		<string>l_ga-deva</string>
 		<string>l_dda-deva</string>
 		<string>l_bha-deva</string>
+		<string>l_bh_ya-deva</string>
 		<string>l_ma-deva</string>
 		<string>l_ya-deva</string>
 		<string>l_ra-deva</string>
@@ -421,6 +431,7 @@
 		<string>l_ha-deva</string>
 		<string>l_h_uMatra-deva</string>
 		<string>l_h_uuMatra-deva</string>
+		<string>l_khha-deva</string>
 		<string>l_za-deva</string>
 		<string>v_ra-deva</string>
 		<string>sh_ca-deva</string>
@@ -430,8 +441,10 @@
 		<string>sh_va-deva</string>
 		<string>ss_tta-deva</string>
 		<string>ss_ttha-deva</string>
+		<string>ss_p_ra-deva</string>
 		<string>ss_ra-deva</string>
 		<string>s_kha-deva</string>
+		<string>s_ja-deva</string>
 		<string>s_dda-deva</string>
 		<string>s_t_ra-deva</string>
 		<string>s_tha-deva</string>
@@ -460,6 +473,7 @@
 		<string>z_ya-deva</string>
 		<string>z_ra-deva</string>
 		<string>z_za-deva</string>
+		<string>f_tha-deva</string>
 		<string>f_ra-deva</string>
 		<string>f_r_uMatra-deva</string>
 		<string>f_r_uuMatra-deva</string>
@@ -505,6 +519,7 @@
 		<string>c-deva</string>
 		<string>ch-deva</string>
 		<string>j-deva</string>
+		<string>j_j-deva</string>
 		<string>j_ny-deva</string>
 		<string>jh-deva</string>
 		<string>ny-deva</string>
@@ -516,11 +531,14 @@
 		<string>t-deva</string>
 		<string>t_t-deva</string>
 		<string>t_r-deva</string>
+		<string>t_s-deva</string>
 		<string>th-deva</string>
 		<string>d-deva</string>
 		<string>dh-deva</string>
 		<string>n-deva</string>
 		<string>n_t_r-deva</string>
+		<string>n_dh-deva</string>
+		<string>n_s-deva</string>
 		<string>nnn-deva</string>
 		<string>p-deva</string>
 		<string>ph-deva</string>
