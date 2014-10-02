@@ -4,7 +4,6 @@
   <unicode hex="201D"/>
   <outline>
     <component base="quoteright"/>
-    <component base="quoteright"/>
-    <component base="quoteright" xOffset="110"/>
+    <component base="quoteright" xOffset="115"/>
   </outline>
 </glyph>

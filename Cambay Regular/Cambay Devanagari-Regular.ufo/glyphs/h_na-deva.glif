@@ -82,6 +82,12 @@
       <point x="271" y="21" type="line"/>
       <point x="207" y="110" type="line"/>
     </contour>
+    <contour>
+      <point x="309" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="277" y="-45" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

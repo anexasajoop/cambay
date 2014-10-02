@@ -638,6 +638,16 @@
 		<string>iMatra-deva.alt9</string>
 		<string>iMatra_reph-deva.alt9</string>
 		<string>iMatra_reph_anusvara-deva.alt9</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>zero-deva</string>
 		<string>one-deva</string>
 		<string>two-deva</string>
@@ -649,14 +659,22 @@
 		<string>eight-deva</string>
 		<string>nine-deva</string>
 		<string>asterisk</string>
+		<string>backslash</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
+		<string>ellipsis</string>
 		<string>exclam</string>
+		<string>exclamdown</string>
 		<string>period</string>
 		<string>question</string>
+		<string>questiondown</string>
 		<string>quotedbl</string>
 		<string>quotesingle</string>
 		<string>semicolon</string>
+		<string>slash</string>
+		<string>underscore</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>parenleft</string>
@@ -664,16 +682,38 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
+		<string>quotesinglbase</string>
+		<string>glottalstop-deva</string>
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
+		<string>abbreviation-deva</string>
+		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>.notdef</string>
 		<string>rupeeIndian</string>
+		<string>greater</string>
+		<string>less</string>
 		<string>dottedCircle</string>
+		<string>bar</string>
+		<string>brokenbar</string>
+		<string>at</string>
+		<string>paragraph</string>
+		<string>copyright</string>
+		<string>registered</string>
+		<string>trademark</string>
+		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>om-deva</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -704,6 +744,9 @@
 		<string>uMatra-deva</string>
 		<string>uuMatra-deva</string>
 		<string>rVocalicMatra-deva</string>
+		<string>rrVocalicMatra-deva</string>
+		<string>lVocalicMatra-deva</string>
+		<string>llVocalicMatra-deva</string>
 		<string>eCandraMatra-deva</string>
 		<string>candraBindu-deva</string>
 		<string>eShortMatra-deva</string>
@@ -733,6 +776,7 @@
 		<string>acute-deva</string>
 		<string>candraBindu-deva.alt</string>
 		<string>anusvara-deva.alt</string>
+		<string>uni0978</string>
 		<string>rashtra-deva</string>
 	</array>
 </dict>
