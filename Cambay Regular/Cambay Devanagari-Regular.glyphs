@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"\U00D7"
+);
 classes = (
 {
 code = "ka-deva qa-deva k_ra-deva k_na-deva";
@@ -66156,7 +66159,7 @@ unicode = 2212;
 },
 {
 glyphname = multiply;
-lastChange = "2014-10-03 06:34:38 +0530";
+lastChange = "2014-10-03 08:06:18 +0530";
 layers = (
 {
 background = {
@@ -66164,36 +66167,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"353 89 LINE",
-"215 227 LINE",
-"80 90 LINE",
-"40 130 LINE",
-"175 267 LINE",
-"39 405 LINE",
-"81 446 LINE",
-"220 310 LINE",
-"355 446 LINE",
-"395 407 LINE",
-"259 270 LINE",
-"396 132 LINE"
+"352 89 LINE",
+"214 227 LINE",
+"79 90 LINE",
+"39 130 LINE",
+"174 267 LINE",
+"38 405 LINE",
+"80 446 LINE",
+"219 310 LINE",
+"354 446 LINE",
+"394 407 LINE",
+"258 270 LINE",
+"395 132 LINE"
 );
 }
 );
 };
 guideLines = (
 {
-position = "{231, 355}";
+position = "{230, 355}";
 },
 {
-position = "{231, 80}";
-},
-{
-angle = 90;
-position = "{81, 243}";
+position = "{230, 80}";
 },
 {
 angle = 90;
-position = "{355, 243}";
+position = "{80, 243}";
+},
+{
+angle = 90;
+position = "{354, 243}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
@@ -66202,22 +66205,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"312 80 LINE",
-"215 177 LINE",
-"119 80 LINE",
-"80 120 LINE",
-"175 217 LINE",
-"81 312 LINE",
-"123 355 LINE",
-"220 260 LINE",
-"315 356 LINE",
-"356 317 LINE",
-"259 220 LINE",
-"355 123 LINE"
+"311 80 LINE",
+"214 177 LINE",
+"118 80 LINE",
+"79 120 LINE",
+"174 217 LINE",
+"80 312 LINE",
+"122 355 LINE",
+"219 260 LINE",
+"314 356 LINE",
+"355 317 LINE",
+"258 220 LINE",
+"354 123 LINE"
 );
 }
 );
-width = 436;
+width = 434;
 }
 );
 unicode = 00D7;
