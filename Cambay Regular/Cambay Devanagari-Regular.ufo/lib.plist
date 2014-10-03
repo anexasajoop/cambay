@@ -154,6 +154,7 @@
 		<string>edotaccent</string>
 		<string>egrave</string>
 		<string>emacron</string>
+		<string>eogonek</string>
 		<string>f</string>
 		<string>g</string>
 		<string>gbreve</string>
@@ -238,6 +239,9 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+		<string>pi</string>
 		<string>ka-deva</string>
 		<string>kha-deva</string>
 		<string>ga-deva</string>
@@ -638,6 +642,22 @@
 		<string>iMatra-deva.alt9</string>
 		<string>iMatra_reph-deva.alt9</string>
 		<string>iMatra_reph_anusvara-deva.alt9</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>zero-deva</string>
 		<string>one-deva</string>
 		<string>two-deva</string>
@@ -657,6 +677,7 @@
 		<string>ellipsis</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
+		<string>numbersign</string>
 		<string>period</string>
 		<string>question</string>
 		<string>questiondown</string>
@@ -689,17 +710,36 @@
 		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>.notdef</string>
+		<string>cent</string>
+		<string>currency</string>
+		<string>dollar</string>
+		<string>florin</string>
 		<string>rupeeIndian</string>
+		<string>sterling</string>
+		<string>yen</string>
+		<string>asciitilde</string>
+		<string>divide</string>
+		<string>equal</string>
 		<string>greater</string>
 		<string>less</string>
+		<string>micro</string>
+		<string>minus</string>
+		<string>multiply</string>
+		<string>percent</string>
+		<string>perthousand</string>
+		<string>plus</string>
+		<string>plusminus</string>
 		<string>dottedCircle</string>
 		<string>bar</string>
 		<string>brokenbar</string>
 		<string>at</string>
+		<string>ampersand</string>
 		<string>paragraph</string>
 		<string>copyright</string>
 		<string>registered</string>
+		<string>section</string>
 		<string>trademark</string>
+		<string>degree</string>
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
