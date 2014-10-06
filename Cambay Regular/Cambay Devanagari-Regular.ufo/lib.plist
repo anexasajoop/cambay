@@ -239,6 +239,8 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>pi</string>
@@ -652,6 +654,7 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
@@ -686,6 +689,8 @@
 		<string>semicolon</string>
 		<string>slash</string>
 		<string>underscore</string>
+		<string>braceleft</string>
+		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>parenleft</string>
@@ -693,6 +698,7 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>softhyphen</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>guilsinglleft</string>
@@ -709,27 +715,45 @@
 		<string>abbreviation-deva</string>
 		<string>highspacingdot-deva</string>
 		<string>space</string>
+		<string>nbspace</string>
 		<string>.notdef</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
+		<string>euro</string>
 		<string>florin</string>
 		<string>rupeeIndian</string>
 		<string>sterling</string>
 		<string>yen</string>
+		<string>Ohm</string>
+		<string>approxequal</string>
 		<string>asciitilde</string>
+		<string>bulletoperator</string>
 		<string>divide</string>
+		<string>divisionslash</string>
 		<string>equal</string>
 		<string>greater</string>
+		<string>greaterequal</string>
+		<string>increment</string>
+		<string>infinity</string>
+		<string>integral</string>
 		<string>less</string>
+		<string>lessequal</string>
+		<string>logicalnot</string>
 		<string>micro</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>notequal</string>
+		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
 		<string>plus</string>
 		<string>plusminus</string>
+		<string>product</string>
+		<string>radical</string>
+		<string>summation</string>
 		<string>dottedCircle</string>
+		<string>lozenge</string>
 		<string>bar</string>
 		<string>brokenbar</string>
 		<string>at</string>
@@ -740,6 +764,8 @@
 		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
+		<string>estimated</string>
+		<string>literSign</string>
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
@@ -770,6 +796,7 @@
 		<string>ring.cap</string>
 		<string>tilde.cap</string>
 		<string>commaaccent</string>
+		<string>firsttonechinese</string>
 		<string>visarga-deva</string>
 		<string>uMatra-deva</string>
 		<string>uuMatra-deva</string>
