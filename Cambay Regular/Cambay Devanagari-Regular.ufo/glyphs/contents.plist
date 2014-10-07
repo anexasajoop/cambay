@@ -280,6 +280,8 @@
 	<string>aiM_atra_reph-deva.glif</string>
 	<key>aiMatra_reph_anusvara-deva</key>
 	<string>aiM_atra_reph_anusvara-deva.glif</string>
+	<key>aiMatra_reph_candraBindu-deva</key>
+	<string>aiM_atra_reph_candraB_indu-deva.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
 	<key>ampersand</key>
@@ -318,6 +320,8 @@
 	<string>auM_atra_reph-deva.glif</string>
 	<key>auMatra_reph_anusvara-deva</key>
 	<string>auM_atra_reph_anusvara-deva.glif</string>
+	<key>auMatra_reph_candraBindu-deva</key>
+	<string>auM_atra_reph_candraB_indu-deva.glif</string>
 	<key>aw-deva</key>
 	<string>aw-deva.glif</string>
 	<key>awMatra-deva</key>
@@ -544,6 +548,8 @@
 	<string>eM_atra_reph-deva.glif</string>
 	<key>eMatra_reph_anusvara-deva</key>
 	<string>eM_atra_reph_anusvara-deva.glif</string>
+	<key>eMatra_reph_candraBindu-deva</key>
+	<string>eM_atra_reph_candraB_indu-deva.glif</string>
 	<key>eShort-deva</key>
 	<string>eS_hort-deva.glif</string>
 	<key>eShortMatra-deva</key>
@@ -1008,6 +1014,8 @@
 	<string>l_h_uuM_atra-deva.glif</string>
 	<key>l_ha-deva</key>
 	<string>l_ha-deva.glif</string>
+	<key>l_ja-deva</key>
+	<string>l_ja-deva.glif</string>
 	<key>l_kha-deva</key>
 	<string>l_kha-deva.glif</string>
 	<key>l_khha-deva</key>
@@ -1016,6 +1024,8 @@
 	<string>l_ma-deva.glif</string>
 	<key>l_ra-deva</key>
 	<string>l_ra-deva.glif</string>
+	<key>l_sa-deva</key>
+	<string>l_sa-deva.glif</string>
 	<key>l_sha-deva</key>
 	<string>l_sha-deva.glif</string>
 	<key>l_ya-deva</key>
@@ -1210,6 +1220,8 @@
 	<string>oM_atra_reph-deva.glif</string>
 	<key>oMatra_reph_anusvara-deva</key>
 	<string>oM_atra_reph_anusvara-deva.glif</string>
+	<key>oMatra_reph_candraBindu-deva</key>
+	<string>oM_atra_reph_candraB_indu-deva.glif</string>
 	<key>oShortMatra-deva</key>
 	<string>oS_hortM_atra-deva.glif</string>
 	<key>oacute</key>
@@ -1360,6 +1372,8 @@
 	<string>reph-deva.glif</string>
 	<key>reph_anusvara-deva</key>
 	<string>reph_anusvara-deva.glif</string>
+	<key>reph_candraBindu-deva</key>
+	<string>reph_candraB_indu-deva.glif</string>
 	<key>rha-deva</key>
 	<string>rha-deva.glif</string>
 	<key>ring</key>

@@ -428,6 +428,7 @@
 		<string>r_uuMatra-deva</string>
 		<string>l_kha-deva</string>
 		<string>l_ga-deva</string>
+		<string>l_ja-deva</string>
 		<string>l_dda-deva</string>
 		<string>l_bha-deva</string>
 		<string>l_bh_ya-deva</string>
@@ -435,6 +436,7 @@
 		<string>l_ya-deva</string>
 		<string>l_ra-deva</string>
 		<string>l_sha-deva</string>
+		<string>l_sa-deva</string>
 		<string>l_ha-deva</string>
 		<string>l_h_uMatra-deva</string>
 		<string>l_h_uuMatra-deva</string>
@@ -490,7 +492,9 @@
 		<string>f_fa-deva</string>
 		<string>iiMatra_reph_candraBindu-deva</string>
 		<string>oMatra_candraBindu-deva</string>
+		<string>oMatra_reph_candraBindu-deva</string>
 		<string>auMatra_candraBindu-deva</string>
+		<string>auMatra_reph_candraBindu-deva</string>
 		<string>k_ra-deva.NEP</string>
 		<string>jh_ra-deva.NEP</string>
 		<string>k_ssa-deva.alt</string>
@@ -814,16 +818,19 @@
 		<string>eMatra_candraBindu-deva</string>
 		<string>eMatra_anusvara-deva</string>
 		<string>eMatra_reph-deva</string>
+		<string>eMatra_reph_candraBindu-deva</string>
 		<string>eMatra_reph_anusvara-deva</string>
 		<string>aiMatra-deva</string>
 		<string>aiMatra_candraBindu-deva</string>
 		<string>aiMatra_anusvara-deva</string>
 		<string>aiMatra_reph-deva</string>
+		<string>aiMatra_reph_candraBindu-deva</string>
 		<string>aiMatra_reph_anusvara-deva</string>
 		<string>anusvara-deva</string>
 		<string>halant-deva</string>
 		<string>nukta-deva</string>
 		<string>reph-deva</string>
+		<string>reph_candraBindu-deva</string>
 		<string>reph_anusvara-deva</string>
 		<string>invertedCandraBindu-deva</string>
 		<string>eLongCandra-deva</string>
