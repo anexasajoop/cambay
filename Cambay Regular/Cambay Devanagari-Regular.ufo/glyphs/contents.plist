@@ -868,6 +868,16 @@
 	<string>iiM_atra_reph_anusvara-deva.alt5.glif</string>
 	<key>iiMatra_reph_candraBindu-deva</key>
 	<string>iiM_atra_reph_candraB_indu-deva.glif</string>
+	<key>iiMatra_reph_candraBindu-deva.alt1</key>
+	<string>iiM_atra_reph_candraB_indu-deva.alt1.glif</string>
+	<key>iiMatra_reph_candraBindu-deva.alt2</key>
+	<string>iiM_atra_reph_candraB_indu-deva.alt2.glif</string>
+	<key>iiMatra_reph_candraBindu-deva.alt3</key>
+	<string>iiM_atra_reph_candraB_indu-deva.alt3.glif</string>
+	<key>iiMatra_reph_candraBindu-deva.alt4</key>
+	<string>iiM_atra_reph_candraB_indu-deva.alt4.glif</string>
+	<key>iiMatra_reph_candraBindu-deva.alt5</key>
+	<string>iiM_atra_reph_candraB_indu-deva.alt5.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>imacron</key>

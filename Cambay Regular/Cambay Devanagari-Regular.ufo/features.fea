@@ -70,26 +70,32 @@ sub yya-deva [ reph-deva reph_anusvara-deva ] by yya-deva;
 
 @iiMatra = [ iiMatra-deva
 iiMatra_reph_anusvara-deva
+iiMatra_reph_candraBindu-deva
 iiMatra_reph-deva ];
 
 @iiMatra-alt1 = [ iiMatra-deva.alt1
 iiMatra_reph_anusvara-deva.alt1
+iiMatra_reph_candraBindu-deva.alt1
 iiMatra_reph-deva.alt1 ];
 
 @iiMatra-alt2 = [ iiMatra-deva.alt2
 iiMatra_reph_anusvara-deva.alt2
+iiMatra_reph_candraBindu-deva.alt2
 iiMatra_reph-deva.alt2 ];
 
 @iiMatra-alt3 = [ iiMatra-deva.alt3
 iiMatra_reph_anusvara-deva.alt3
+iiMatra_reph_candraBindu-deva.alt3
 iiMatra_reph-deva.alt3 ];
 
 @iiMatra-alt4 = [ iiMatra-deva.alt4
 iiMatra_reph_anusvara-deva.alt4
+iiMatra_reph_candraBindu-deva.alt4
 iiMatra_reph-deva.alt4 ];
 
 @iiMatra-alt5 = [ iiMatra-deva.alt5
 iiMatra_reph_anusvara-deva.alt5
+iiMatra_reph_candraBindu-deva.alt5
 iiMatra_reph-deva.alt5 ];
 
 @iLetters-alt1 = [ ka-deva tta-deva ttha-deva ddha-deva da-deva qa-deva rha-deva ha-deva
@@ -586,7 +592,6 @@ sub za-deva rashtra-deva by z_ra-deva;
 feature blwf {
 sub halant-deva ra-deva by rashtra-deva;
 sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
-#sub k_ssa-deva' [uMatra-deva uuMatra-deva rVocalicMatra-deva] by k_ssa-deva.alt;
 } blwf;
 
 feature half {
@@ -843,12 +848,12 @@ sub jha-deva' uMatra-deva by jha-deva.alt;
 
 feature abvs {
 sub iMatra-deva reph-deva candraBindu-deva by iMatra_reph_anusvara-deva;
-sub iMatra-deva reph-deva by iMatra_reph-deva;
 sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
+sub iMatra-deva reph-deva by iMatra_reph-deva;
 
-sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_anusvara-deva;
-sub iiMatra-deva reph-deva by iiMatra_reph-deva;
+sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_candraBindu-deva;
 sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
+sub iiMatra-deva reph-deva by iiMatra_reph-deva;
 
 sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
 sub oMatra-deva reph-deva by oMatra_reph-deva;

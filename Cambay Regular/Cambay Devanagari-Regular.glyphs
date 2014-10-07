@@ -17,27 +17,27 @@ code = "pha-deva fa-deva ph_ra-deva f_ra-deva f_za-deva f_fa-deva";
 name = "iiLetters-alt5";
 },
 {
-code = "iiMatra-deva\012iiMatra_reph_anusvara-deva\012iiMatra_reph-deva";
+code = "iiMatra-deva\012iiMatra_reph_anusvara-deva\012iiMatra_reph_candraBindu-deva\012iiMatra_reph-deva";
 name = iiMatra;
 },
 {
-code = "iiMatra-deva.alt1\012iiMatra_reph_anusvara-deva.alt1\012iiMatra_reph-deva.alt1";
+code = "iiMatra-deva.alt1\012iiMatra_reph_anusvara-deva.alt1\012iiMatra_reph_candraBindu-deva.alt1\012iiMatra_reph-deva.alt1";
 name = "iiMatra-alt1";
 },
 {
-code = "iiMatra-deva.alt2\012iiMatra_reph_anusvara-deva.alt2\012iiMatra_reph-deva.alt2";
+code = "iiMatra-deva.alt2\012iiMatra_reph_anusvara-deva.alt2\012iiMatra_reph_candraBindu-deva.alt2\012iiMatra_reph-deva.alt2";
 name = "iiMatra-alt2";
 },
 {
-code = "iiMatra-deva.alt3\012iiMatra_reph_anusvara-deva.alt3\012iiMatra_reph-deva.alt3";
+code = "iiMatra-deva.alt3\012iiMatra_reph_anusvara-deva.alt3\012iiMatra_reph_candraBindu-deva.alt3\012iiMatra_reph-deva.alt3";
 name = "iiMatra-alt3";
 },
 {
-code = "iiMatra-deva.alt4\012iiMatra_reph_anusvara-deva.alt4\012iiMatra_reph-deva.alt4";
+code = "iiMatra-deva.alt4\012iiMatra_reph_anusvara-deva.alt4\012iiMatra_reph_candraBindu-deva.alt4\012iiMatra_reph-deva.alt4";
 name = "iiMatra-alt4";
 },
 {
-code = "iiMatra-deva.alt5\012iiMatra_reph_anusvara-deva.alt5\012iiMatra_reph-deva.alt5";
+code = "iiMatra-deva.alt5\012iiMatra_reph_anusvara-deva.alt5\012iiMatra_reph_candraBindu-deva.alt5\012iiMatra_reph-deva.alt5";
 name = "iiMatra-alt5";
 },
 {
@@ -187,7 +187,7 @@ code = "sub ka-deva halant-deva ra-deva by k_ra-deva;\012sub kha-deva halant-dev
 name = rkrf;
 },
 {
-code = "sub halant-deva ra-deva by rashtra-deva;\012sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012#sub k_ssa-deva' [uMatra-deva uuMatra-deva rVocalicMatra-deva] by k_ssa-deva.alt;";
+code = "sub halant-deva ra-deva by rashtra-deva;\012sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];";
 name = blwf;
 },
 {
@@ -207,7 +207,7 @@ code = "sub iMatra-deva' @iLetters-alt1 by iMatra-deva.alt1;\012sub iMatra-deva'
 name = pres;
 },
 {
-code = "sub iMatra-deva reph-deva candraBindu-deva by iMatra_reph_anusvara-deva;\012sub iMatra-deva reph-deva by iMatra_reph-deva;\012sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;\012\012sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_anusvara-deva;\012sub iiMatra-deva reph-deva by iiMatra_reph-deva;\012sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;\012\012sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;\012sub oMatra-deva reph-deva by oMatra_reph-deva;\012sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;\012sub oMatra-deva candraBindu-deva by oMatra_candraBindu-deva;\012sub oMatra-deva reph-deva candraBindu-deva by oMatra_reph_candraBindu-deva;\012\012sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;\012sub auMatra-deva reph-deva by auMatra_reph-deva;\012sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;\012sub auMatra-deva candraBindu-deva by auMatra_candraBindu-deva;\012sub auMatra-deva reph-deva candraBindu-deva by auMatra_reph_candraBindu-deva;\012\012sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;\012sub eMatra-deva reph-deva by eMatra_reph-deva;\012sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;\012sub eMatra-deva candraBindu-deva by eMatra_candraBindu-deva;\012sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_candraBindu-deva;\012\012sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;\012sub aiMatra-deva reph-deva by aiMatra_reph-deva;\012sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;\012sub aiMatra-deva candraBindu-deva by aiMatra_candraBindu-deva;\012sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_candraBindu-deva;\012\012sub reph-deva anusvara-deva by reph_anusvara-deva;\012sub reph-deva candraBindu-deva by reph_candraBindu-deva;\012\012# Substitute with alternate anusvara to avoid clash with ikar\012sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with ikar\012sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt;\012\012\012# Substitute with alternate anusvara to avoid clash with iikar\012sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012sub @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012sub @HalfForms @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012sub @Conjuncts @iiMatraA anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with iikar\012sub @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012sub @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012sub @HalfForms @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012sub @Conjuncts @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012\012# To make reph-ikar ligature\012sub @iMatra' @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @FullForms' lookup removeReph [reph-deva]';\012sub @iMatra' @HalfForms @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @HalfForms @FullForms' lookup removeReph [reph-deva]';\012sub @iMatra' @HalfForms @HalfForms @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva]';\012\012\012# To make reph-ikar-anusvara ligature\012sub @iMatra' @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';\012sub @iMatra' @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';\012sub @iMatra' @HalfForms @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';";
+code = "sub iMatra-deva reph-deva candraBindu-deva by iMatra_reph_anusvara-deva;\012sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;\012sub iMatra-deva reph-deva by iMatra_reph-deva;\012\012sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_candraBindu-deva;\012sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;\012sub iiMatra-deva reph-deva by iiMatra_reph-deva;\012\012sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;\012sub oMatra-deva reph-deva by oMatra_reph-deva;\012sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;\012sub oMatra-deva candraBindu-deva by oMatra_candraBindu-deva;\012sub oMatra-deva reph-deva candraBindu-deva by oMatra_reph_candraBindu-deva;\012\012sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;\012sub auMatra-deva reph-deva by auMatra_reph-deva;\012sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;\012sub auMatra-deva candraBindu-deva by auMatra_candraBindu-deva;\012sub auMatra-deva reph-deva candraBindu-deva by auMatra_reph_candraBindu-deva;\012\012sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;\012sub eMatra-deva reph-deva by eMatra_reph-deva;\012sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;\012sub eMatra-deva candraBindu-deva by eMatra_candraBindu-deva;\012sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_candraBindu-deva;\012\012sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;\012sub aiMatra-deva reph-deva by aiMatra_reph-deva;\012sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;\012sub aiMatra-deva candraBindu-deva by aiMatra_candraBindu-deva;\012sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_candraBindu-deva;\012\012sub reph-deva anusvara-deva by reph_anusvara-deva;\012sub reph-deva candraBindu-deva by reph_candraBindu-deva;\012\012# Substitute with alternate anusvara to avoid clash with ikar\012sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with ikar\012sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt;\012\012\012# Substitute with alternate anusvara to avoid clash with iikar\012sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012sub @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012sub @HalfForms @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012sub @Conjuncts @iiMatraA anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with iikar\012sub @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012sub @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012sub @HalfForms @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012sub @Conjuncts @iiMatraA candraBindu-deva' by candraBindu-deva.alt;\012\012# To make reph-ikar ligature\012sub @iMatra' @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @FullForms' lookup removeReph [reph-deva]';\012sub @iMatra' @HalfForms @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @HalfForms @FullForms' lookup removeReph [reph-deva]';\012sub @iMatra' @HalfForms @HalfForms @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva]';\012\012\012# To make reph-ikar-anusvara ligature\012sub @iMatra' @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';\012sub @iMatra' @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';\012sub @iMatra' @HalfForms @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';";
 name = abvs;
 },
 {
@@ -45995,48 +45995,72 @@ leftMetricsKey = "f-deva";
 rightMetricsKey = "fa-deva";
 },
 {
-color = 11;
+color = 5;
 glyphname = "iiMatra_reph_candraBindu-deva";
-lastChange = "2014-08-27 09:54:35 +0530";
+lastChange = "2014-10-07 11:18:39 +0530";
 layers = (
 {
-layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
-name = Regular;
+background = {
 paths = (
 {
 closed = 1;
 nodes = (
-"256 481 OFFCURVE",
-"284 504 OFFCURVE",
-"292 539 CURVE",
-"265 552 LINE",
-"255 525 OFFCURVE",
-"236 511 OFFCURVE",
-"214 511 CURVE SMOOTH",
-"193 511 OFFCURVE",
-"173 525 OFFCURVE",
-"164 552 CURVE",
-"135 539 LINE",
-"145 505 OFFCURVE",
-"173 481 OFFCURVE",
-"214 481 CURVE SMOOTH"
+"169 461 OFFCURVE",
+"103 496 OFFCURVE",
+"103 550 CURVE SMOOTH",
+"103 594 OFFCURVE",
+"133 602 OFFCURVE",
+"168 602 CURVE SMOOTH",
+"181 602 OFFCURVE",
+"190 600 OFFCURVE",
+"202 596 CURVE",
+"219 644 LINE",
+"201 650 OFFCURVE",
+"182 653 OFFCURVE",
+"168 653 CURVE SMOOTH",
+"103 653 OFFCURVE",
+"49 622 OFFCURVE",
+"49 557 CURVE SMOOTH",
+"49 505 OFFCURVE",
+"85 461 OFFCURVE",
+"134 437 CURVE",
+"206 437 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"228 542 OFFCURVE",
-"236 552 OFFCURVE",
-"236 562 CURVE SMOOTH",
-"236 572 OFFCURVE",
-"228 582 OFFCURVE",
-"214 582 CURVE SMOOTH",
-"202 582 OFFCURVE",
-"194 572 OFFCURVE",
-"194 562 CURVE SMOOTH",
-"194 552 OFFCURVE",
-"202 542 OFFCURVE",
-"214 542 CURVE SMOOTH"
+"298 479 OFFCURVE",
+"331 507 OFFCURVE",
+"343 549 CURVE",
+"309 565 LINE",
+"296 532 OFFCURVE",
+"273 516 OFFCURVE",
+"246 516 CURVE SMOOTH",
+"220 516 OFFCURVE",
+"196 532 OFFCURVE",
+"184 565 CURVE",
+"149 550 LINE",
+"162 508 OFFCURVE",
+"195 479 OFFCURVE",
+"246 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 552 OFFCURVE",
+"272 565 OFFCURVE",
+"272 577 CURVE SMOOTH",
+"272 590 OFFCURVE",
+"263 602 OFFCURVE",
+"247 602 CURVE SMOOTH",
+"231 602 OFFCURVE",
+"222 590 OFFCURVE",
+"222 577 CURVE SMOOTH",
+"222 565 OFFCURVE",
+"231 552 OFFCURVE",
+"247 552 CURVE SMOOTH"
 );
 },
 {
@@ -46086,6 +46110,96 @@ nodes = (
 "134.77 408.2 LINE",
 "232.42 408.2 LINE",
 "232.42 456.05 LINE"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"133 456 LINE",
+"122 478 OFFCURVE",
+"104 504 OFFCURVE",
+"104 535 CURVE SMOOTH",
+"104 589 OFFCURVE",
+"129 602 OFFCURVE",
+"169 602 CURVE SMOOTH",
+"179 602 OFFCURVE",
+"190 600 OFFCURVE",
+"202 596 CURVE",
+"219 644 LINE",
+"201 650 OFFCURVE",
+"181 654 OFFCURVE",
+"160 654 CURVE SMOOTH",
+"114 654 OFFCURVE",
+"78 636 OFFCURVE",
+"62 586 CURVE",
+"33 619 OFFCURVE",
+"-3 648 OFFCURVE",
+"-53 648 CURVE SMOOTH",
+"-135 648 OFFCURVE",
+"-171 597 OFFCURVE",
+"-171 538 CURVE SMOOTH",
+"-171 475 OFFCURVE",
+"-125 439 OFFCURVE",
+"-125 439 CURVE",
+"-54 439 LINE",
+"-72 452 OFFCURVE",
+"-118 488 OFFCURVE",
+"-118 538 CURVE SMOOTH",
+"-118 573 OFFCURVE",
+"-97.66 596.68 OFFCURVE",
+"-55.66 596.68 CURVE SMOOTH",
+"-11.72 596.68 OFFCURVE",
+"47 563 OFFCURVE",
+"78 456 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"298 479 OFFCURVE",
+"331 507 OFFCURVE",
+"343 549 CURVE",
+"309 565 LINE",
+"296 532 OFFCURVE",
+"273 516 OFFCURVE",
+"246 516 CURVE SMOOTH",
+"220 516 OFFCURVE",
+"196 532 OFFCURVE",
+"184 565 CURVE",
+"149 550 LINE",
+"162 508 OFFCURVE",
+"195 479 OFFCURVE",
+"246 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 552 OFFCURVE",
+"272 565 OFFCURVE",
+"272 577 CURVE SMOOTH",
+"272 590 OFFCURVE",
+"263 602 OFFCURVE",
+"247 602 CURVE SMOOTH",
+"231 602 OFFCURVE",
+"222 590 OFFCURVE",
+"222 577 CURVE SMOOTH",
+"222 565 OFFCURVE",
+"231 552 OFFCURVE",
+"247 552 CURVE SMOOTH"
 );
 }
 );
@@ -46154,8 +46268,9 @@ leftMetricsKey = "oMatra-deva";
 rightMetricsKey = "oMatra-deva";
 },
 {
+color = 11;
 glyphname = "oMatra_reph_candraBindu-deva";
-lastChange = "2014-10-07 10:12:02 +0530";
+lastChange = "2014-10-07 11:10:58 +0530";
 layers = (
 {
 components = (
@@ -46306,8 +46421,9 @@ leftMetricsKey = "auMatra-deva";
 rightMetricsKey = "auMatra-deva";
 },
 {
+color = 5;
 glyphname = "auMatra_reph_candraBindu-deva";
-lastChange = "2014-10-07 10:12:34 +0530";
+lastChange = "2014-10-07 11:18:39 +0530";
 layers = (
 {
 background = {
@@ -47175,6 +47291,933 @@ nodes = (
 width = 503;
 }
 );
+},
+{
+color = 5;
+glyphname = "iiMatra_reph_candraBindu-deva.alt1";
+lastChange = "2014-10-07 11:18:39 +0530";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"162 461 OFFCURVE",
+"96 496 OFFCURVE",
+"96 550 CURVE SMOOTH",
+"96 594 OFFCURVE",
+"126 602 OFFCURVE",
+"161 602 CURVE SMOOTH",
+"174 602 OFFCURVE",
+"183 600 OFFCURVE",
+"195 596 CURVE",
+"212 644 LINE",
+"194 650 OFFCURVE",
+"175 653 OFFCURVE",
+"161 653 CURVE SMOOTH",
+"96 653 OFFCURVE",
+"42 622 OFFCURVE",
+"42 557 CURVE SMOOTH",
+"42 505 OFFCURVE",
+"78 461 OFFCURVE",
+"127 437 CURVE",
+"199 437 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 479 OFFCURVE",
+"324 507 OFFCURVE",
+"336 549 CURVE",
+"302 565 LINE",
+"289 532 OFFCURVE",
+"266 516 OFFCURVE",
+"239 516 CURVE SMOOTH",
+"213 516 OFFCURVE",
+"189 532 OFFCURVE",
+"177 565 CURVE",
+"142 550 LINE",
+"155 508 OFFCURVE",
+"188 479 OFFCURVE",
+"239 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"256 552 OFFCURVE",
+"265 565 OFFCURVE",
+"265 577 CURVE SMOOTH",
+"265 590 OFFCURVE",
+"256 602 OFFCURVE",
+"240 602 CURVE SMOOTH",
+"224 602 OFFCURVE",
+"215 590 OFFCURVE",
+"215 577 CURVE SMOOTH",
+"215 565 OFFCURVE",
+"224 552 OFFCURVE",
+"240 552 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"130.86 456.05 LINE",
+"113 486 OFFCURVE",
+"96 516 OFFCURVE",
+"96 545 CURVE SMOOTH",
+"96 589 OFFCURVE",
+"120 603 OFFCURVE",
+"156 603 CURVE SMOOTH",
+"169 603 OFFCURVE",
+"182 600 OFFCURVE",
+"195 596 CURVE",
+"212 642 LINE",
+"194 649 OFFCURVE",
+"174 652 OFFCURVE",
+"157 652 CURVE SMOOTH",
+"101 652 OFFCURVE",
+"62 626 OFFCURVE",
+"49 580 CURVE",
+"-2 623 OFFCURVE",
+"-70.31 649.41 OFFCURVE",
+"-151.37 649.41 CURVE SMOOTH",
+"-264.65 649.41 OFFCURVE",
+"-329.1 597.66 OFFCURVE",
+"-328.12 535.16 CURVE SMOOTH",
+"-327.15 464.84 OFFCURVE",
+"-280.27 439.45 OFFCURVE",
+"-280.27 439.45 CURVE",
+"-213.87 439.45 LINE",
+"-233.4 454.1 OFFCURVE",
+"-275.39 480.47 OFFCURVE",
+"-275.39 533.2 CURVE SMOOTH",
+"-275.39 573.24 OFFCURVE",
+"-227.54 599.61 OFFCURVE",
+"-149.41 599.61 CURVE SMOOTH",
+"-48.83 599.61 OFFCURVE",
+"41.99 553.71 OFFCURVE",
+"75.2 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 479 OFFCURVE",
+"324 507 OFFCURVE",
+"336 549 CURVE",
+"302 565 LINE",
+"289 532 OFFCURVE",
+"266 516 OFFCURVE",
+"239 516 CURVE SMOOTH",
+"213 516 OFFCURVE",
+"189 532 OFFCURVE",
+"177 565 CURVE",
+"142 550 LINE",
+"155 508 OFFCURVE",
+"188 479 OFFCURVE",
+"239 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"256 552 OFFCURVE",
+"265 565 OFFCURVE",
+"265 577 CURVE SMOOTH",
+"265 590 OFFCURVE",
+"256 602 OFFCURVE",
+"240 602 CURVE SMOOTH",
+"224 602 OFFCURVE",
+"215 590 OFFCURVE",
+"215 577 CURVE SMOOTH",
+"215 565 OFFCURVE",
+"224 552 OFFCURVE",
+"240 552 CURVE SMOOTH"
+);
+}
+);
+width = 208;
+}
+);
+leftMetricsKey = "iiMatra-deva";
+},
+{
+color = 5;
+glyphname = "iiMatra_reph_candraBindu-deva.alt2";
+lastChange = "2014-10-07 11:18:39 +0530";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"131.84 456.05 LINE",
+"123 476 OFFCURVE",
+"105 509 OFFCURVE",
+"105 545 CURVE SMOOTH",
+"105 582 OFFCURVE",
+"131 598 OFFCURVE",
+"161 598 CURVE SMOOTH",
+"188 598 OFFCURVE",
+"219.73 584.96 OFFCURVE",
+"237.3 573.24 CURVE",
+"263.67 615.23 LINE",
+"240.23 633.79 OFFCURVE",
+"196.29 649.41 OFFCURVE",
+"164.06 649.41 CURVE SMOOTH",
+"113.28 649.41 OFFCURVE",
+"70.31 626.95 OFFCURVE",
+"56.64 582.03 CURVE",
+"11.72 625 OFFCURVE",
+"-42.97 649.41 OFFCURVE",
+"-87.89 649.41 CURVE SMOOTH",
+"-173.83 649.41 OFFCURVE",
+"-237.3 597.66 OFFCURVE",
+"-237.3 530.27 CURVE SMOOTH",
+"-237.3 471.68 OFFCURVE",
+"-193.36 439.45 OFFCURVE",
+"-188.48 439.45 CURVE SMOOTH",
+"-124.02 439.45 LINE",
+"-144.53 452.15 OFFCURVE",
+"-183.59 485.35 OFFCURVE",
+"-183.59 527.34 CURVE SMOOTH",
+"-183.59 576.17 OFFCURVE",
+"-139.65 596.68 OFFCURVE",
+"-87.89 596.68 CURVE SMOOTH",
+"-43.95 596.68 OFFCURVE",
+"41.99 563.48 OFFCURVE",
+"76.17 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 461 OFFCURVE",
+"105 496 OFFCURVE",
+"105 550 CURVE SMOOTH",
+"105 594 OFFCURVE",
+"135 602 OFFCURVE",
+"170 602 CURVE SMOOTH",
+"183 602 OFFCURVE",
+"192 600 OFFCURVE",
+"204 596 CURVE",
+"221 644 LINE",
+"203 650 OFFCURVE",
+"184 653 OFFCURVE",
+"170 653 CURVE SMOOTH",
+"105 653 OFFCURVE",
+"51 622 OFFCURVE",
+"51 557 CURVE SMOOTH",
+"51 505 OFFCURVE",
+"87 461 OFFCURVE",
+"136 437 CURVE",
+"208 437 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 479 OFFCURVE",
+"333 507 OFFCURVE",
+"345 549 CURVE",
+"311 565 LINE",
+"298 532 OFFCURVE",
+"275 516 OFFCURVE",
+"248 516 CURVE SMOOTH",
+"222 516 OFFCURVE",
+"198 532 OFFCURVE",
+"186 565 CURVE",
+"151 550 LINE",
+"164 508 OFFCURVE",
+"197 479 OFFCURVE",
+"248 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 552 OFFCURVE",
+"274 565 OFFCURVE",
+"274 577 CURVE SMOOTH",
+"274 590 OFFCURVE",
+"265 602 OFFCURVE",
+"249 602 CURVE SMOOTH",
+"233 602 OFFCURVE",
+"224 590 OFFCURVE",
+"224 577 CURVE SMOOTH",
+"224 565 OFFCURVE",
+"233 552 OFFCURVE",
+"249 552 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"131.84 456.05 LINE",
+"123 476 OFFCURVE",
+"105 509 OFFCURVE",
+"105 545 CURVE SMOOTH",
+"105 582 OFFCURVE",
+"126 602 OFFCURVE",
+"161 602 CURVE SMOOTH",
+"175 602 OFFCURVE",
+"190 599 OFFCURVE",
+"203 594 CURVE",
+"221 642 LINE",
+"202 649 OFFCURVE",
+"181 653 OFFCURVE",
+"164 653 CURVE SMOOTH",
+"113 653 OFFCURVE",
+"70.31 626.95 OFFCURVE",
+"56.64 582.03 CURVE",
+"11.72 625 OFFCURVE",
+"-42.97 649.41 OFFCURVE",
+"-87.89 649.41 CURVE SMOOTH",
+"-173.83 649.41 OFFCURVE",
+"-237.3 597.66 OFFCURVE",
+"-237.3 530.27 CURVE SMOOTH",
+"-237.3 471.68 OFFCURVE",
+"-193.36 439.45 OFFCURVE",
+"-188.48 439.45 CURVE SMOOTH",
+"-124.02 439.45 LINE",
+"-144.53 452.15 OFFCURVE",
+"-183.59 485.35 OFFCURVE",
+"-183.59 527.34 CURVE SMOOTH",
+"-183.59 576.17 OFFCURVE",
+"-139.65 596.68 OFFCURVE",
+"-87.89 596.68 CURVE SMOOTH",
+"-43.95 596.68 OFFCURVE",
+"41.99 563.48 OFFCURVE",
+"76.17 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 479 OFFCURVE",
+"333 507 OFFCURVE",
+"345 549 CURVE",
+"311 565 LINE",
+"298 532 OFFCURVE",
+"275 516 OFFCURVE",
+"248 516 CURVE SMOOTH",
+"222 516 OFFCURVE",
+"198 532 OFFCURVE",
+"186 565 CURVE",
+"151 550 LINE",
+"164 508 OFFCURVE",
+"197 479 OFFCURVE",
+"248 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 552 OFFCURVE",
+"274 565 OFFCURVE",
+"274 577 CURVE SMOOTH",
+"274 590 OFFCURVE",
+"265 602 OFFCURVE",
+"249 602 CURVE SMOOTH",
+"233 602 OFFCURVE",
+"224 590 OFFCURVE",
+"224 577 CURVE SMOOTH",
+"224 565 OFFCURVE",
+"233 552 OFFCURVE",
+"249 552 CURVE SMOOTH"
+);
+}
+);
+width = 208;
+}
+);
+leftMetricsKey = "iiMatra-deva";
+rightMetricsKey = "iiMatra-deva";
+},
+{
+color = 5;
+glyphname = "iiMatra_reph_candraBindu-deva.alt3";
+lastChange = "2014-10-07 11:18:39 +0530";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"131 456 LINE",
+"120 480 OFFCURVE",
+"106 511 OFFCURVE",
+"106.45 544.92 CURVE SMOOTH",
+"107 586 OFFCURVE",
+"136 598 OFFCURVE",
+"167 598 CURVE SMOOTH",
+"193 598 OFFCURVE",
+"224 582 OFFCURVE",
+"241.21 573.24 CURVE",
+"267.58 615.23 LINE",
+"244 631 OFFCURVE",
+"206 649 OFFCURVE",
+"167.97 649.41 CURVE SMOOTH",
+"120 650 OFFCURVE",
+"78.12 628.91 OFFCURVE",
+"62.5 587.89 CURVE",
+"25.39 626.95 OFFCURVE",
+"-19.53 649.41 OFFCURVE",
+"-63.48 649.41 CURVE SMOOTH",
+"-149.41 649.41 OFFCURVE",
+"-192.38 597.66 OFFCURVE",
+"-192.38 538.09 CURVE SMOOTH",
+"-192.38 471.68 OFFCURVE",
+"-142.58 439.45 OFFCURVE",
+"-137.7 439.45 CURVE SMOOTH",
+"-74.22 439.45 LINE",
+"-94.73 452.15 OFFCURVE",
+"-137.7 491.21 OFFCURVE",
+"-137.7 534.18 CURVE SMOOTH",
+"-137.7 573.24 OFFCURVE",
+"-108.4 595.7 OFFCURVE",
+"-66.41 595.7 CURVE SMOOTH",
+"-21.48 595.7 OFFCURVE",
+"43.95 563.48 OFFCURVE",
+"76.17 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 461 OFFCURVE",
+"106 496 OFFCURVE",
+"106 550 CURVE SMOOTH",
+"106 594 OFFCURVE",
+"136 602 OFFCURVE",
+"171 602 CURVE SMOOTH",
+"184 602 OFFCURVE",
+"193 600 OFFCURVE",
+"205 596 CURVE",
+"222 644 LINE",
+"204 650 OFFCURVE",
+"185 653 OFFCURVE",
+"171 653 CURVE SMOOTH",
+"106 653 OFFCURVE",
+"52 622 OFFCURVE",
+"52 557 CURVE SMOOTH",
+"52 505 OFFCURVE",
+"88 461 OFFCURVE",
+"137 437 CURVE",
+"209 437 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 479 OFFCURVE",
+"334 507 OFFCURVE",
+"346 549 CURVE",
+"312 565 LINE",
+"299 532 OFFCURVE",
+"276 516 OFFCURVE",
+"249 516 CURVE SMOOTH",
+"223 516 OFFCURVE",
+"199 532 OFFCURVE",
+"187 565 CURVE",
+"152 550 LINE",
+"165 508 OFFCURVE",
+"198 479 OFFCURVE",
+"249 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 552 OFFCURVE",
+"275 565 OFFCURVE",
+"275 577 CURVE SMOOTH",
+"275 590 OFFCURVE",
+"266 602 OFFCURVE",
+"250 602 CURVE SMOOTH",
+"234 602 OFFCURVE",
+"225 590 OFFCURVE",
+"225 577 CURVE SMOOTH",
+"225 565 OFFCURVE",
+"234 552 OFFCURVE",
+"250 552 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"131 456 LINE",
+"120 480 OFFCURVE",
+"106 511 OFFCURVE",
+"106.45 544.92 CURVE SMOOTH",
+"107 586 OFFCURVE",
+"132 602 OFFCURVE",
+"167 602 CURVE SMOOTH",
+"179 602 OFFCURVE",
+"192 599 OFFCURVE",
+"204 594 CURVE",
+"221 643 LINE",
+"205 649 OFFCURVE",
+"186 653 OFFCURVE",
+"168 653 CURVE SMOOTH",
+"120 654 OFFCURVE",
+"78.12 628.91 OFFCURVE",
+"62.5 587.89 CURVE",
+"25.39 626.95 OFFCURVE",
+"-19.53 649.41 OFFCURVE",
+"-63.48 649.41 CURVE SMOOTH",
+"-149.41 649.41 OFFCURVE",
+"-192.38 597.66 OFFCURVE",
+"-192.38 538.09 CURVE SMOOTH",
+"-192.38 471.68 OFFCURVE",
+"-142.58 439.45 OFFCURVE",
+"-137.7 439.45 CURVE SMOOTH",
+"-74.22 439.45 LINE",
+"-94.73 452.15 OFFCURVE",
+"-137.7 491.21 OFFCURVE",
+"-137.7 534.18 CURVE SMOOTH",
+"-137.7 573.24 OFFCURVE",
+"-108.4 595.7 OFFCURVE",
+"-66.41 595.7 CURVE SMOOTH",
+"-21.48 595.7 OFFCURVE",
+"43.95 563.48 OFFCURVE",
+"76.17 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 479 OFFCURVE",
+"334 507 OFFCURVE",
+"346 549 CURVE",
+"312 565 LINE",
+"299 532 OFFCURVE",
+"276 516 OFFCURVE",
+"249 516 CURVE SMOOTH",
+"223 516 OFFCURVE",
+"199 532 OFFCURVE",
+"187 565 CURVE",
+"152 550 LINE",
+"165 508 OFFCURVE",
+"198 479 OFFCURVE",
+"249 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 552 OFFCURVE",
+"275 565 OFFCURVE",
+"275 577 CURVE SMOOTH",
+"275 590 OFFCURVE",
+"266 602 OFFCURVE",
+"250 602 CURVE SMOOTH",
+"234 602 OFFCURVE",
+"225 590 OFFCURVE",
+"225 577 CURVE SMOOTH",
+"225 565 OFFCURVE",
+"234 552 OFFCURVE",
+"250 552 CURVE SMOOTH"
+);
+}
+);
+width = 208;
+}
+);
+leftMetricsKey = "iiMatra-deva";
+rightMetricsKey = "iiMatra-deva";
+},
+{
+color = 5;
+glyphname = "iiMatra_reph_candraBindu-deva.alt4";
+lastChange = "2014-10-07 11:18:39 +0530";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"171 461 OFFCURVE",
+"105 496 OFFCURVE",
+"105 550 CURVE SMOOTH",
+"105 594 OFFCURVE",
+"135 602 OFFCURVE",
+"170 602 CURVE SMOOTH",
+"183 602 OFFCURVE",
+"192 600 OFFCURVE",
+"204 596 CURVE",
+"221 644 LINE",
+"203 650 OFFCURVE",
+"184 653 OFFCURVE",
+"170 653 CURVE SMOOTH",
+"105 653 OFFCURVE",
+"51 622 OFFCURVE",
+"51 557 CURVE SMOOTH",
+"51 505 OFFCURVE",
+"87 461 OFFCURVE",
+"136 437 CURVE",
+"208 437 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 479 OFFCURVE",
+"333 507 OFFCURVE",
+"345 549 CURVE",
+"311 565 LINE",
+"298 532 OFFCURVE",
+"275 516 OFFCURVE",
+"248 516 CURVE SMOOTH",
+"222 516 OFFCURVE",
+"198 532 OFFCURVE",
+"186 565 CURVE",
+"151 550 LINE",
+"164 508 OFFCURVE",
+"197 479 OFFCURVE",
+"248 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 552 OFFCURVE",
+"274 565 OFFCURVE",
+"274 577 CURVE SMOOTH",
+"274 590 OFFCURVE",
+"265 602 OFFCURVE",
+"249 602 CURVE SMOOTH",
+"233 602 OFFCURVE",
+"224 590 OFFCURVE",
+"224 577 CURVE SMOOTH",
+"224 565 OFFCURVE",
+"233 552 OFFCURVE",
+"249 552 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"132.81 456.05 LINE",
+"121 479 OFFCURVE",
+"105 509 OFFCURVE",
+"105 545 CURVE SMOOTH",
+"106 589 OFFCURVE",
+"131 602 OFFCURVE",
+"166 602 CURVE SMOOTH",
+"179 602 OFFCURVE",
+"192 599 OFFCURVE",
+"204 595 CURVE",
+"220 644 LINE",
+"202 650 OFFCURVE",
+"183 653 OFFCURVE",
+"167 653 CURVE SMOOTH",
+"119 653 OFFCURVE",
+"77.15 628.91 OFFCURVE",
+"61.52 587.89 CURVE",
+"23.44 626.95 OFFCURVE",
+"-24.41 649.41 OFFCURVE",
+"-73.24 649.41 CURVE SMOOTH",
+"-168.95 649.41 OFFCURVE",
+"-217.77 597.66 OFFCURVE",
+"-217.77 538.09 CURVE SMOOTH",
+"-217.77 471.68 OFFCURVE",
+"-168.95 439.45 OFFCURVE",
+"-164.06 439.45 CURVE SMOOTH",
+"-99.61 439.45 LINE",
+"-121.09 452.15 OFFCURVE",
+"-163.09 491.21 OFFCURVE",
+"-163.09 534.18 CURVE SMOOTH",
+"-163.09 573.24 OFFCURVE",
+"-127.93 595.7 OFFCURVE",
+"-76.17 595.7 CURVE SMOOTH",
+"-22.46 595.7 OFFCURVE",
+"43.95 563.48 OFFCURVE",
+"76.17 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 479 OFFCURVE",
+"333 507 OFFCURVE",
+"345 549 CURVE",
+"311 565 LINE",
+"298 532 OFFCURVE",
+"275 516 OFFCURVE",
+"248 516 CURVE SMOOTH",
+"222 516 OFFCURVE",
+"198 532 OFFCURVE",
+"186 565 CURVE",
+"151 550 LINE",
+"164 508 OFFCURVE",
+"197 479 OFFCURVE",
+"248 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 552 OFFCURVE",
+"274 565 OFFCURVE",
+"274 577 CURVE SMOOTH",
+"274 590 OFFCURVE",
+"265 602 OFFCURVE",
+"249 602 CURVE SMOOTH",
+"233 602 OFFCURVE",
+"224 590 OFFCURVE",
+"224 577 CURVE SMOOTH",
+"224 565 OFFCURVE",
+"233 552 OFFCURVE",
+"249 552 CURVE SMOOTH"
+);
+}
+);
+width = 208;
+}
+);
+leftMetricsKey = "iiMatra-deva";
+rightMetricsKey = "iiMatra-deva";
+},
+{
+color = 5;
+glyphname = "iiMatra_reph_candraBindu-deva.alt5";
+lastChange = "2014-10-07 11:18:39 +0530";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"163 461 OFFCURVE",
+"97 496 OFFCURVE",
+"97 550 CURVE SMOOTH",
+"97 594 OFFCURVE",
+"127 602 OFFCURVE",
+"162 602 CURVE SMOOTH",
+"175 602 OFFCURVE",
+"184 600 OFFCURVE",
+"196 596 CURVE",
+"213 644 LINE",
+"195 650 OFFCURVE",
+"176 653 OFFCURVE",
+"162 653 CURVE SMOOTH",
+"97 653 OFFCURVE",
+"43 622 OFFCURVE",
+"43 557 CURVE SMOOTH",
+"43 505 OFFCURVE",
+"79 461 OFFCURVE",
+"128 437 CURVE",
+"200 437 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 479 OFFCURVE",
+"325 507 OFFCURVE",
+"337 549 CURVE",
+"303 565 LINE",
+"290 532 OFFCURVE",
+"267 516 OFFCURVE",
+"240 516 CURVE SMOOTH",
+"214 516 OFFCURVE",
+"190 532 OFFCURVE",
+"178 565 CURVE",
+"143 550 LINE",
+"156 508 OFFCURVE",
+"189 479 OFFCURVE",
+"240 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 552 OFFCURVE",
+"266 565 OFFCURVE",
+"266 577 CURVE SMOOTH",
+"266 590 OFFCURVE",
+"257 602 OFFCURVE",
+"241 602 CURVE SMOOTH",
+"225 602 OFFCURVE",
+"216 590 OFFCURVE",
+"216 577 CURVE SMOOTH",
+"216 565 OFFCURVE",
+"225 552 OFFCURVE",
+"241 552 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"130.86 456.05 LINE",
+"116 486 OFFCURVE",
+"98 521 OFFCURVE",
+"97.66 544.92 CURVE SMOOTH",
+"97 589 OFFCURVE",
+"128 602 OFFCURVE",
+"163 602 CURVE SMOOTH",
+"173 602 OFFCURVE",
+"185 600 OFFCURVE",
+"196 596 CURVE",
+"213 644 LINE",
+"195 650 OFFCURVE",
+"176 653 OFFCURVE",
+"160 653 CURVE SMOOTH",
+"107 653 OFFCURVE",
+"63.48 625.98 OFFCURVE",
+"51.76 578.12 CURVE",
+"0.98 623.05 OFFCURVE",
+"-68.36 649.41 OFFCURVE",
+"-151.37 649.41 CURVE SMOOTH",
+"-275.39 649.41 OFFCURVE",
+"-338.87 597.66 OFFCURVE",
+"-337.89 521.48 CURVE SMOOTH",
+"-336.91 464.84 OFFCURVE",
+"-296.88 439.45 OFFCURVE",
+"-296.88 439.45 CURVE",
+"-236.33 439.45 LINE",
+"-252.93 454.1 OFFCURVE",
+"-285.16 482.42 OFFCURVE",
+"-285.16 521.48 CURVE SMOOTH",
+"-285.16 573.24 OFFCURVE",
+"-238.28 599.61 OFFCURVE",
+"-149.41 599.61 CURVE SMOOTH",
+"-48.83 599.61 OFFCURVE",
+"41.99 553.71 OFFCURVE",
+"75.2 456.05 CURVE",
+"-24.41 456.05 LINE",
+"-24.41 408.2 LINE",
+"80.08 408.2 LINE",
+"80.08 0 LINE",
+"134.77 0 LINE",
+"134.77 408.2 LINE",
+"232.42 408.2 LINE",
+"232.42 456.05 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 479 OFFCURVE",
+"325 507 OFFCURVE",
+"337 549 CURVE",
+"303 565 LINE",
+"290 532 OFFCURVE",
+"267 516 OFFCURVE",
+"240 516 CURVE SMOOTH",
+"214 516 OFFCURVE",
+"190 532 OFFCURVE",
+"178 565 CURVE",
+"143 550 LINE",
+"156 508 OFFCURVE",
+"189 479 OFFCURVE",
+"240 479 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 552 OFFCURVE",
+"266 565 OFFCURVE",
+"266 577 CURVE SMOOTH",
+"266 590 OFFCURVE",
+"257 602 OFFCURVE",
+"241 602 CURVE SMOOTH",
+"225 602 OFFCURVE",
+"216 590 OFFCURVE",
+"216 577 CURVE SMOOTH",
+"216 565 OFFCURVE",
+"225 552 OFFCURVE",
+"241 552 CURVE SMOOTH"
+);
+}
+);
+width = 208;
+}
+);
+leftMetricsKey = "iiMatra-deva";
+rightMetricsKey = "iiMatra-deva";
 },
 {
 color = 7;
@@ -74495,8 +75538,9 @@ width = 0;
 );
 },
 {
+color = 5;
 glyphname = "eMatra_reph_candraBindu-deva";
-lastChange = "2014-10-07 10:05:22 +0530";
+lastChange = "2014-10-07 11:18:49 +0530";
 layers = (
 {
 anchors = (
@@ -75092,8 +76136,9 @@ width = 0;
 );
 },
 {
+color = 5;
 glyphname = "aiMatra_reph_candraBindu-deva";
-lastChange = "2014-10-07 10:07:00 +0530";
+lastChange = "2014-10-07 11:18:49 +0530";
 layers = (
 {
 anchors = (
@@ -75528,8 +76573,9 @@ width = 246;
 );
 },
 {
+color = 5;
 glyphname = "reph_candraBindu-deva";
-lastChange = "2014-10-07 10:00:08 +0530";
+lastChange = "2014-10-07 11:18:49 +0530";
 layers = (
 {
 anchors = (
@@ -76491,5 +77537,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 109;
+versionMinor = 110;
 }
