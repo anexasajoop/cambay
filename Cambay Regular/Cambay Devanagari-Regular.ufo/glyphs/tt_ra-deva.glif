@@ -3,7 +3,7 @@
   <advance width="390"/>
   <outline>
     <component base="ttadeva"/>
-    <component base="rashtra-deva" xOffset="73"/>
+    <component base="rashtra-deva" xOffset="68"/>
     <contour>
       <point x="287" y="447" type="move" name="top"/>
     </contour>

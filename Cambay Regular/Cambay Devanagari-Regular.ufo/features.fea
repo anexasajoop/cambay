@@ -585,9 +585,15 @@ sub za-deva rashtra-deva by z_ra-deva;
 
 feature blwf {
 sub halant-deva ra-deva by rashtra-deva;
+sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+#sub k_ssa-deva' [uMatra-deva uuMatra-deva rVocalicMatra-deva] by k_ssa-deva.alt;
 } blwf;
 
 feature half {
+# AKHAND CONJUNCT HALF FORMS
+sub k_ssa-deva halant-deva by k_ss-deva;
+
+
 # TRICONSONANTAL CONJUNCT HALF FORMS
 sub na-deva halant-deva t_ra-deva halant-deva by n_t_r-deva;
 
@@ -605,7 +611,7 @@ sub na-deva halant-deva sa-deva halant-deva by n_s-deva;
 
 
 
-# CONJUNCT HALF FORMS
+# CONSONANT HALF FORMS
 sub ka-deva halant-deva by k-deva;
 sub kha-deva halant-deva by kh-deva;
 sub ga-deva halant-deva by g-deva;
@@ -790,22 +796,22 @@ sub f-deva fa-deva by f_fa-deva;
 
 # TRICONSONANTAL CONJUNCTS
 
-sub k-deva ss-deva nna-deva by k_ss_nna-deva;
-sub k-deva ss-deva ma-deva by k_ss_ma-deva;
-sub k-deva ss-deva ya-deva by k_ss_ya-deva;
-sub j_j-deva ya-deva by j_j_ya-deva;
-sub t-deva t-deva ya-deva by t_t_ya-deva;
+sub k_ss-deva nna-deva by k_ss_nna-deva; # Conjuncts using Akhand half-forms
+sub k_ss-deva ma-deva by k_ss_ma-deva; # Conjuncts using Akhand half-forms
+sub k_ss-deva ya-deva by k_ss_ya-deva; # Conjuncts using Akhand half-forms
+sub j_j-deva ya-deva by j_j_ya-deva; # Conjuncts using biconsonantal half-forms
+sub t_t-deva ya-deva by t_t_ya-deva; # Conjuncts using biconsonantal half-forms
 sub t-deva m-deva ya-deva by t_m_ya-deva;
 sub t-deva n-deva ya-deva by t_n_ya-deva;
-sub t-deva s-deva tha-deva by t_s_tha-deva;
-sub t-deva s-deva na-deva by t_s_na-deva;
+sub t_s-deva tha-deva by t_s_tha-deva; # Conjuncts using biconsonantal half-forms
+sub t_s-deva na-deva by t_s_na-deva; # Conjuncts using biconsonantal half-forms
 sub t-deva s-deva ya-deva by t_s_ya-deva;
 sub d_ra-deva halant-deva ya-deva by d_r_ya-deva;
 sub n-deva t_ra-deva by n_t_ra-deva;
-sub n-deva t_ya-deva by n_t_ya-deva;
+sub n-deva t-deva ya-deva by n_t_ya-deva; #Conjunct involving three consonants with last two forming a ligature 
 sub n-deva dh_ra-deva by n_dh_ra-deva;
 sub m-deva bh_ra-deva by m_bh_ra-deva;
-sub l_bha-deva halant-deva ya-deva by l_bh_ya-deva;
+sub l-deva bh-deva ya-deva by l_bh_ya-deva; #Conjunct involving three consonants with both pairs forming a ligature each
 sub s-deva th-deva ya-deva by s_th_ya-deva;
 sub ss-deva p_ra-deva by ss_p_ra-deva;
 } cjct;
@@ -821,13 +827,16 @@ sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;
 sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
 sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;
 sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;
-
 sub iMatra-deva' @iLetters-alt11 by iMatra-deva.alt11;
 sub iMatra-deva' @iLetters-alt12 by iMatra-deva.alt12;
 sub iMatra-deva' @iLetters-alt13 by iMatra-deva.alt13;
 sub iMatra-deva' @iLetters-alt14 by iMatra-deva.alt14;
 sub iMatra-deva' @iLetters-alt15 by iMatra-deva.alt15;
 sub iMatra-deva' @iLetters-alt16 by iMatra-deva.alt16;
+
+# Substituting consonants with alternates to prevent clashes with below-base matras
+sub [k_ssa-deva j_nya-deva]' [uMatra-deva uuMatra-deva rVocalicMatra-deva rrVocalicMatra-deva lVocalicMatra-deva llVocalicMatra-deva] by [k_ssa-deva.alt j_nya-deva.alt];
+sub jha-deva' uMatra-deva by jha-deva.alt;
 } pres;
 
 feature abvs {
