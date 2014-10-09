@@ -490,6 +490,7 @@
 		<string>f_sa-deva</string>
 		<string>f_za-deva</string>
 		<string>f_fa-deva</string>
+		<string>iMatra_reph_candraBindu-deva</string>
 		<string>iiMatra_reph_candraBindu-deva</string>
 		<string>oMatra_candraBindu-deva</string>
 		<string>oMatra_reph_candraBindu-deva</string>
@@ -499,11 +500,27 @@
 		<string>jh_ra-deva.NEP</string>
 		<string>k_ssa-deva.alt</string>
 		<string>j_nya-deva.alt</string>
+		<string>iMatra_reph_candraBindu-deva.alt1</string>
 		<string>iiMatra_reph_candraBindu-deva.alt1</string>
+		<string>iMatra_reph_candraBindu-deva.alt10</string>
+		<string>iMatra_reph_candraBindu-deva.alt11</string>
+		<string>iMatra_reph_candraBindu-deva.alt12</string>
+		<string>iMatra_reph_candraBindu-deva.alt13</string>
+		<string>iMatra_reph_candraBindu-deva.alt14</string>
+		<string>iMatra_reph_candraBindu-deva.alt15</string>
+		<string>iMatra_reph_candraBindu-deva.alt16</string>
+		<string>iMatra_reph_candraBindu-deva.alt2</string>
 		<string>iiMatra_reph_candraBindu-deva.alt2</string>
+		<string>iMatra_reph_candraBindu-deva.alt3</string>
 		<string>iiMatra_reph_candraBindu-deva.alt3</string>
+		<string>iMatra_reph_candraBindu-deva.alt4</string>
 		<string>iiMatra_reph_candraBindu-deva.alt4</string>
+		<string>iMatra_reph_candraBindu-deva.alt5</string>
 		<string>iiMatra_reph_candraBindu-deva.alt5</string>
+		<string>iMatra_reph_candraBindu-deva.alt6</string>
+		<string>iMatra_reph_candraBindu-deva.alt7</string>
+		<string>iMatra_reph_candraBindu-deva.alt8</string>
+		<string>iMatra_reph_candraBindu-deva.alt9</string>
 		<string>aShort-deva</string>
 		<string>aCandra-deva</string>
 		<string>a-deva</string>
@@ -618,8 +635,14 @@
 		<string>iMatra_reph_anusvara-deva.alt13</string>
 		<string>iMatra_reph-deva.alt13</string>
 		<string>iMatra-deva.alt14</string>
+		<string>iMatra_reph-deva.alt14</string>
+		<string>iMatra_reph_anusvara-deva.alt14</string>
 		<string>iMatra-deva.alt15</string>
+		<string>iMatra_reph-deva.alt15</string>
+		<string>iMatra_reph_anusvara-deva.alt15</string>
 		<string>iMatra-deva.alt16</string>
+		<string>iMatra_reph-deva.alt16</string>
+		<string>iMatra_reph_anusvara-deva.alt16</string>
 		<string>iMatra-deva.alt2</string>
 		<string>iMatra_reph-deva.alt2</string>
 		<string>iMatra_reph_anusvara-deva.alt2</string>

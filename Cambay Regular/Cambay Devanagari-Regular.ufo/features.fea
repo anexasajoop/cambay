@@ -8,55 +8,246 @@ languagesystem dev2 NEP;
 
 # Prefix: removeReph
 lookup removeReph{
-sub ka-deva [ reph-deva reph_anusvara-deva ] by ka-deva;
-sub kha-deva [ reph-deva reph_anusvara-deva ] by kha-deva;
-sub ga-deva [ reph-deva reph_anusvara-deva ] by ga-deva;
-sub gha-deva [ reph-deva reph_anusvara-deva ] by gha-deva;
-sub nga-deva [ reph-deva reph_anusvara-deva ] by nga-deva;
+sub ka-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ka-deva;
+sub kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by kha-deva;
+sub ga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ga-deva;
+sub gha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by gha-deva;
+sub nga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nga-deva;
 
-sub ca-deva [ reph-deva reph_anusvara-deva ] by ca-deva;
-sub cha-deva [ reph-deva reph_anusvara-deva ] by cha-deva;
-sub ja-deva [ reph-deva reph_anusvara-deva ] by ja-deva;
-sub jha-deva [ reph-deva reph_anusvara-deva ] by jha-deva;
-sub nya-deva [ reph-deva reph_anusvara-deva ] by nya-deva;
+sub ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ca-deva;
+sub cha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by cha-deva;
+sub ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ja-deva;
+sub jha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jha-deva;
+sub nya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nya-deva;
 
-sub tta-deva [ reph-deva reph_anusvara-deva ] by tta-deva;
-sub ttha-deva [ reph-deva reph_anusvara-deva ] by ttha-deva;
-sub dda-deva [ reph-deva reph_anusvara-deva ] by dda-deva;
-sub ddha-deva [ reph-deva reph_anusvara-deva ] by ddha-deva;
-sub nna-deva [ reph-deva reph_anusvara-deva ] by nna-deva;
+sub tta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tta-deva;
+sub ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ttha-deva;
+sub dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dda-deva;
+sub ddha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ddha-deva;
+sub nna-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nna-deva;
 
-sub ta-deva [ reph-deva reph_anusvara-deva ] by ta-deva;
-sub tha-deva [ reph-deva reph_anusvara-deva ] by tha-deva;
-sub da-deva [ reph-deva reph_anusvara-deva ] by da-deva;
-sub dha-deva [ reph-deva reph_anusvara-deva ] by dha-deva;
-sub na-deva [ reph-deva reph_anusvara-deva ] by na-deva;
-sub nnna-deva [ reph-deva reph_anusvara-deva ] by nnna-deva;
+sub ta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ta-deva;
+sub tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tha-deva;
+sub da-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by da-deva;
+sub dha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dha-deva;
+sub na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by na-deva;
+sub nnna-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nnna-deva;
 
-sub pa-deva [ reph-deva reph_anusvara-deva ] by pa-deva;
-sub pha-deva [ reph-deva reph_anusvara-deva ] by pha-deva;
-sub ba-deva [ reph-deva reph_anusvara-deva ] by ba-deva;
-sub bha-deva [ reph-deva reph_anusvara-deva ] by bha-deva;
-sub ma-deva [ reph-deva reph_anusvara-deva ] by ma-deva;
+sub pa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by pa-deva;
+sub pha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by pha-deva;
+sub ba-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ba-deva;
+sub bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by bha-deva;
+sub ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ma-deva;
 
-sub ya-deva [ reph-deva reph_anusvara-deva ] by ya-deva;
-sub ra-deva [ reph-deva reph_anusvara-deva ] by ra-deva;
-sub rra-deva [ reph-deva reph_anusvara-deva ] by rra-deva;
-sub la-deva [ reph-deva reph_anusvara-deva ] by la-deva;
-sub va-deva [ reph-deva reph_anusvara-deva ] by va-deva;
-sub sha-deva [ reph-deva reph_anusvara-deva ] by sha-deva;
-sub ssa-deva [ reph-deva reph_anusvara-deva ] by ssa-deva;
-sub sa-deva [ reph-deva reph_anusvara-deva ] by sa-deva;
-sub ha-deva [ reph-deva reph_anusvara-deva ] by ha-deva;
+sub ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ya-deva;
+sub ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ra-deva;
+sub rra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by rra-deva;
+sub la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by la-deva;
+sub va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by va-deva;
+sub sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sha-deva;
+sub ssa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ssa-deva;
+sub sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sa-deva;
+sub ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ha-deva;
 
-sub qa-deva [ reph-deva reph_anusvara-deva ] by qa-deva;
-sub khha-deva [ reph-deva reph_anusvara-deva ] by khha-deva;
-sub ghha-deva [ reph-deva reph_anusvara-deva ] by ghha-deva;
-sub za-deva [ reph-deva reph_anusvara-deva ] by za-deva;
-sub dddha-deva [ reph-deva reph_anusvara-deva ] by dddha-deva;
-sub rha-deva [ reph-deva reph_anusvara-deva ] by rha-deva;
-sub fa-deva [ reph-deva reph_anusvara-deva ] by fa-deva;
-sub yya-deva [ reph-deva reph_anusvara-deva ] by yya-deva;
+sub qa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by qa-deva;
+sub khha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by khha-deva;
+sub ghha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ghha-deva;
+sub za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by za-deva;
+sub dddha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dddha-deva;
+sub rha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by rha-deva;
+sub fa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by fa-deva;
+sub yya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by yya-deva;
+
+sub k_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_kha-deva; 
+sub k_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ca-deva; 
+sub k_cha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_cha-deva;
+sub k_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_na-deva;
+sub k_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ma-deva;
+sub k_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ya-deva;
+sub k_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ra-deva;
+sub k_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_sha-deva;
+sub k_ssa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ssa-deva;
+sub k_ss_nna-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ss_nna-deva;
+sub k_ss_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ss_ma-deva;
+sub k_ss_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ss_ya-deva;
+sub k_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_sa-deva;
+
+sub kh_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by kh_kha-deva;
+sub kh_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by kh_ma-deva;
+sub kh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by kh_ra-deva;
+
+sub g_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by g_na-deva;
+sub g_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by g_ra-deva;
+
+sub gh_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by gh_na-deva; 
+sub gh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by gh_ra-deva;
+
+sub ng_ka-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ng_ka-deva;
+sub ng_ga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ng_ga-deva;
+sub ng_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ng_ma-deva;
+
+sub c_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by c_ca-deva;
+sub c_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by c_ra-deva;
+
+sub j_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by j_ja-deva; 
+sub j_nya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by j_nya-deva; 
+sub j_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by j_ya-deva; 
+sub j_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by j_ra-deva;
+
+sub jh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jh_ra-deva;
+
+sub ny_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_ca-deva; 
+sub ny_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_ja-deva; 
+sub ny_jha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_jha-deva; 
+sub ny_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_ra-deva;
+
+sub tt_tta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_tta-deva;
+sub tt_ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_ttha-deva; 
+sub tt_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_ya-deva; 
+sub tt_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_ra-deva; 
+sub tt_va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_va-deva;
+
+sub tth_ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tth_ttha-deva; 
+sub tth_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tth_ya-deva;
+
+sub dd_ga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dd_ga-deva; 
+sub dd_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dd_dda-deva; 
+sub dd_ddha-deva[ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dd_ddha-deva; 
+sub dd_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dd_ya-deva; 
+sub dd_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dd_ra-deva;
+
+sub ddh_ddha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ddh_ddha-deva;
+sub ddh_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ddh_ya-deva;
+
+sub nn_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by nn_ra-deva;
+
+sub t_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_kha-deva; 
+sub t_ta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_ta-deva; 
+sub t_t_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_t_ya-deva; 
+sub t_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_tha-deva; 
+sub t_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_ma-deva; 
+sub t_m_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_m_ya-deva; 
+sub t_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_ya-deva; 
+sub t_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_ra-deva; 
+sub t_la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_la-deva; 
+sub t_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_sha-deva; 
+sub t_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_sa-deva; 
+sub t_s_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_s_na-deva; 
+sub t_s_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by t_s_ya-deva;
+
+sub th_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by th_ra-deva;
+
+sub d_ga-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_ga-deva; 
+sub d_gha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_gha-deva; 
+sub d_da-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_da-deva; 
+sub d_dha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_dha-deva; 
+sub d_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_na-deva; 
+sub d_ba-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_ba-deva;
+sub d_bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_bha-deva; 
+sub d_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_ma-deva;
+sub d_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_ya-deva; 
+sub d_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_ra-deva;
+sub d_va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by d_va-deva;
+
+sub dh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by dh_ra-deva;
+
+sub n_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_kha-deva; 
+sub n_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ca-deva; 
+sub n_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ja-deva;
+sub n_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_dda-deva; 
+sub n_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_tha-deva;
+sub n_dha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_dha-deva;
+sub n_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_na-deva;
+sub n_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ma-deva;
+sub n_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ya-deva;
+sub n_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ra-deva;
+sub n_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_sha-deva;
+sub n_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_sa-deva; 
+sub n_ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ha-deva;
+sub n_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_za-deva;
+
+sub p_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by p_na-deva; 
+sub p_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by p_ra-deva;
+sub p_la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by p_la-deva;
+
+sub ph_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ph_ra-deva;
+
+sub b_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_ja-deva; 
+sub b_dha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_dha-deva; 
+sub b_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_na-deva; 
+sub b_bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_bha-deva; 
+sub b_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_ra-deva; 
+sub b_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_sha-deva; 
+sub b_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by b_za-deva;
+
+sub bh_bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by bh_bha-deva; 
+sub bh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by bh_ra-deva;
+
+sub m_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_ca-deva; 
+sub m_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_na-deva; 
+sub m_bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_bha-deva; 
+sub m_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_ma-deva;
+sub m_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_ra-deva; 
+sub m_ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_ha-deva;
+sub m_bh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_bh_ra-deva;
+
+sub y_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by y_ra-deva;
+
+sub l_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_dda-deva;
+sub l_bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_bha-deva;
+sub l_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ma-deva;
+sub l_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ra-deva;
+sub l_ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ha-deva;
+
+sub v_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by v_ra-deva;
+
+sub sh_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sh_ca-deva;
+sub sh_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sh_na-deva; 
+sub sh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sh_ra-deva;
+sub sh_la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sh_la-deva;
+sub sh_va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sh_va-deva;
+
+sub ss_tta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_tta-deva; 
+sub ss_ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_ttha-deva;
+sub ss_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_ra-deva;
+
+sub s_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_kha-deva; 
+sub s_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_dda-deva; 
+sub s_t_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_t_ra-deva; 
+sub s_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_tha-deva; 
+sub s_th_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_th_ya-deva; 
+sub s_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_na-deva; 
+sub s_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_ma-deva; 
+sub s_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_ra-deva; 
+sub s_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_sa-deva;
+
+sub h_nna-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by h_nna-deva;
+sub h_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by h_na-deva;
+sub h_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by h_ma-deva;
+sub h_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ]  by h_ya-deva;
+sub h_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by h_ra-deva;
+sub h_la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by h_la-deva;
+sub h_va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by h_va-deva;
+
+sub q_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by q_sha-deva; 
+sub q_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by q_sa-deva;
+
+sub khh_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by khh_ma-deva; 
+sub khh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by khh_ra-deva; 
+sub khh_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by khh_sha-deva; 
+sub khh_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by khh_sa-deva;
+
+sub z_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_ma-deva; 
+sub z_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_ya-deva; 
+sub z_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_ra-deva; 
+sub z_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_za-deva;
+
+sub f_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_ra-deva;
+sub f_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_sha-deva;
+sub f_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_sa-deva;
+sub f_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_za-deva;
+sub f_fa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_fa-deva;
+
 
 } removeReph;
 
@@ -127,7 +318,7 @@ dd_ga-deva dd_dda-deva dd_ra-deva dd_ddha-deva
 
 n_ra-deva
 
-b_ra-deva
+b_ra-deva b_na-deva
 
 v_ra-deva
 
@@ -138,7 +329,7 @@ k_ssa-deva
 j_nya-deva
 bh_ra-deva
 d_dha-deva d_gha-deva
-sh_ra-deva sh_na-deva
+sh_ra-deva sh_na-deva sh_ca-deva sh_la-deva sh_va-deva
 s_ra-deva ];
 
 @iLetters-alt8 = [ kha-deva khha-deva
@@ -194,7 +385,7 @@ q_sa-deva q_sha-deva
 khh_ma-deva khh_sa-deva ];
 
 @iLetters-alt16 = [ t_sa-deva t_la-deva
-m_bha-deva
+m_bha-deva m_bh_ra-deva
 n_sa-deva
 l_ha-deva l_dda-deva ];
 
@@ -356,10 +547,10 @@ tt_tta-deva tt_ttha-deva tt_ya-deva tt_ra-deva tt_va-deva
 tth_ttha-deva tth_ya-deva
 
 # Dda
-dd_ga-deva dd_dda-deva dd_ya-deva dd_ra-deva
+dd_ga-deva dd_dda-deva dd_ya-deva dd_ra-deva dd_ddha-deva
 
 # Ddha
-ddh_ya-deva
+ddh_ddha-deva ddh_ya-deva
 
 # Nna
 nn_ra-deva
@@ -386,22 +577,25 @@ p_na-deva p_ra-deva p_la-deva
 ph_ra-deva
 
 # Ba
-b_ja-deva b_dha-deva b_bha-deva b_ra-deva b_sha-deva b_za-deva
+b_ja-deva b_dha-deva b_bha-deva b_ra-deva b_sha-deva b_za-deva b_na-deva
 
 # Bha
 bh_bha-deva bh_ra-deva
 
 # Ma
-m_ca-deva m_na-deva m_bha-deva m_ra-deva m_ha-deva
+m_ca-deva m_na-deva m_bha-deva m_ra-deva m_ha-deva m_bh_ra-deva m_ma-deva
 
 # Ya
 y_ra-deva
+
+# La
+l_bha-deva l_ma-deva l_ra-deva l_dda-deva l_ha-deva
 
 # Va
 v_ra-deva
 
 # Sha
-sh_na-deva sh_ra-deva
+sh_na-deva sh_ra-deva sh_ca-deva sh_la-deva sh_va-deva
 
 # Ssa
 ss_tta-deva ss_ttha-deva ss_ra-deva
@@ -410,7 +604,7 @@ ss_tta-deva ss_ttha-deva ss_ra-deva
 s_kha-deva s_dda-deva s_t_ra-deva s_tha-deva s_th_ya-deva s_na-deva s_ma-deva s_ra-deva s_sa-deva
 
 # Ha
-h_ra-deva
+h_nna-deva h_na-deva h_ra-deva h_ma-deva h_ya-deva h_la-deva h_va-deva
 
 # Qa
 q_sha-deva q_sa-deva
@@ -435,7 +629,12 @@ iMatra-deva.alt7
 iMatra-deva.alt8
 iMatra-deva.alt9
 iMatra-deva.alt10
-iMatra-deva.alt11 ];
+iMatra-deva.alt11
+iMatra-deva.alt12
+iMatra-deva.alt13
+iMatra-deva.alt14
+iMatra-deva.alt15
+iMatra-deva.alt16 ];
 
 @iMatraReph = [ iMatra_reph-deva
 iMatra_reph-deva.alt1
@@ -448,7 +647,12 @@ iMatra_reph-deva.alt7
 iMatra_reph-deva.alt8
 iMatra_reph-deva.alt9
 iMatra_reph-deva.alt10
-iMatra_reph-deva.alt11 ];
+iMatra_reph-deva.alt11
+iMatra_reph-deva.alt12
+iMatra_reph-deva.alt13
+iMatra_reph-deva.alt14
+iMatra_reph-deva.alt15
+iMatra_reph-deva.alt16 ];
 
 @iiMatraA = [ iiMatra-deva
 iiMatra-deva.alt1
@@ -468,7 +672,30 @@ iMatra_reph_anusvara-deva.alt7
 iMatra_reph_anusvara-deva.alt8
 iMatra_reph_anusvara-deva.alt9
 iMatra_reph_anusvara-deva.alt10
-iMatra_reph_anusvara-deva.alt11 ];
+iMatra_reph_anusvara-deva.alt11
+iMatra_reph_anusvara-deva.alt12
+iMatra_reph_anusvara-deva.alt13
+iMatra_reph_anusvara-deva.alt14
+iMatra_reph_anusvara-deva.alt15
+iMatra_reph_anusvara-deva.alt16 ];
+
+@iMatraRephCandraBindu = [ iMatra_reph_candraBindu-deva
+iMatra_reph_candraBindu-deva.alt1
+iMatra_reph_candraBindu-deva.alt2
+iMatra_reph_candraBindu-deva.alt3
+iMatra_reph_candraBindu-deva.alt4
+iMatra_reph_candraBindu-deva.alt5
+iMatra_reph_candraBindu-deva.alt6
+iMatra_reph_candraBindu-deva.alt7
+iMatra_reph_candraBindu-deva.alt8
+iMatra_reph_candraBindu-deva.alt9
+iMatra_reph_candraBindu-deva.alt10
+iMatra_reph_candraBindu-deva.alt11
+iMatra_reph_candraBindu-deva.alt12
+iMatra_reph_candraBindu-deva.alt13
+iMatra_reph_candraBindu-deva.alt14
+iMatra_reph_candraBindu-deva.alt15
+iMatra_reph_candraBindu-deva.alt16 ];
 
 # automatic
 @Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent ];
@@ -907,22 +1134,25 @@ sub @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
 sub @HalfForms @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
 sub @Conjuncts @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
 
+
 # To make reph-ikar ligature
 sub @iMatra' @FullForms [reph-deva] by @iMatraReph; 
 sub @iMatraReph @FullForms' lookup removeReph [reph-deva]';
-sub @iMatra' @HalfForms @FullForms [reph-deva] by @iMatraReph; 
-sub @iMatraReph @HalfForms @FullForms' lookup removeReph [reph-deva]';
-sub @iMatra' @HalfForms @HalfForms @FullForms [reph-deva] by @iMatraReph; 
-sub @iMatraReph @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva]';
-
+sub @iMatra' @Conjuncts [reph-deva] by @iMatraReph; 
+sub @iMatraReph @Conjuncts' lookup removeReph [reph-deva]';
 
 # To make reph-ikar-anusvara ligature
 sub @iMatra' @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; 
 sub @iMatraRephAnusvara @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub @iMatra' @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; 
-sub @iMatraRephAnusvara @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub @iMatra' @HalfForms @HalfForms @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; 
-sub @iMatraRephAnusvara @HalfForms @HalfForms @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub @iMatra' @Conjuncts [reph_anusvara-deva] by @iMatraRephAnusvara; 
+sub @iMatraRephAnusvara @Conjuncts' lookup removeReph [reph-deva reph_anusvara-deva]';
+
+
+# To make reph-ikar-candraBindu ligature
+sub @iMatra' @FullForms [reph_candraBindu-deva] by @iMatraRephCandraBindu; 
+sub @iMatraRephCandraBindu @FullForms' lookup removeReph [reph-deva reph_candraBindu-deva]';
+sub @iMatra' @Conjuncts [reph_candraBindu-deva] by @iMatraRephCandraBindu; 
+sub @iMatraRephCandraBindu @Conjuncts' lookup removeReph [reph-deva reph_candraBindu-deva]';
 } abvs;
 
 feature psts {
