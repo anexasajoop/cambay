@@ -61,6 +61,7 @@ sub yya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by yya-deva;
 sub k_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_kha-deva; 
 sub k_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ca-deva; 
 sub k_cha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_cha-deva;
+sub k_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_tha-deva;
 sub k_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_na-deva;
 sub k_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ma-deva;
 sub k_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ya-deva;
@@ -165,6 +166,7 @@ sub n_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_sha-d
 sub n_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_sa-deva; 
 sub n_ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ha-deva;
 sub n_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_za-deva;
+sub n_t_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_t_ra-deva;
 
 sub p_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by p_na-deva; 
 sub p_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by p_ra-deva;
@@ -193,11 +195,17 @@ sub m_bh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by m_bh_
 
 sub y_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by y_ra-deva;
 
+sub l_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_kha-deva;
+sub l_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ja-deva;
 sub l_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_dda-deva;
 sub l_bha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_bha-deva;
 sub l_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ma-deva;
 sub l_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ra-deva;
+sub l_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_sha-deva;
+sub l_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_sa-deva;
 sub l_ha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_ha-deva;
+sub l_khha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_khha-deva;
+sub l_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by l_za-deva;
 
 sub v_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by v_ra-deva;
 
@@ -210,8 +218,10 @@ sub sh_va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sh_va-d
 sub ss_tta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_tta-deva; 
 sub ss_ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_ttha-deva;
 sub ss_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_ra-deva;
+sub ss_p_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ss_p_ra-deva;
 
 sub s_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_kha-deva; 
+sub s_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_ja-deva;
 sub s_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_dda-deva; 
 sub s_t_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_t_ra-deva; 
 sub s_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by s_tha-deva; 
@@ -242,6 +252,7 @@ sub z_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_ya-dev
 sub z_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_ra-deva; 
 sub z_za-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by z_za-deva;
 
+sub f_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_tha-deva;
 sub f_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_ra-deva;
 sub f_sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_sha-deva;
 sub f_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_sa-deva;
@@ -348,9 +359,9 @@ d_bha-deva
 nn_ra-deva
 s_na-deva ];
 
-@iLetters-alt11 = [ k_ca-deva k_ma-deva k_ya-deva
+@iLetters-alt11 = [ k_ca-deva k_ma-deva k_ya-deva k_tha-deva k_ss_nna-deva
 b_sha-deva
-l_bha-deva l_ma-deva
+l_bha-deva l_ma-deva l_sha-deva l_sa-deva
 s_kha-deva
 z_ma-deva
 f_fa-deva ];
@@ -361,28 +372,32 @@ tt_ya-deva
 tth_ya-deva
 dd_ya-deva
 ddh_ya-deva
-t_sha-deva
+t_kha-deva t_sha-deva
 t_s_na-deva
-n_ja-deva n_sha-deva n_za-deva
+n_kha-deva n_ja-deva n_sha-deva n_za-deva
 p_la-deva
 b_ja-deva b_dha-deva b_bha-deva b_za-deva
 bh_bha-deva
-s_ma-deva s_sa-deva s_tha-deva
+s_ma-deva s_sa-deva s_tha-deva s_ja-deva
 z_ya-deva z_za-deva
 l_ga-deva l_ya-deva ];
 
 @iLetters-alt13 = [ c_ca-deva
 t_ma-deva t_ya-deva t_t_ya-deva t_tha-deva
-n_ca-deva n_tha-deva n_dha-deva n_ma-deva n_ya-deva
+n_ca-deva n_tha-deva n_dha-deva n_ma-deva n_ya-deva n_t_ra-deva
 m_ca-deva m_ma-deva
+ss_p_ra-deva
 s_dda-deva s_t_ra-deva ];
 
 @iLetters-alt14 = [ ss_tta-deva ss_ttha-deva m_ha-deva ];
 
-@iLetters-alt15 = [ k_sa-deva k_sha-deva
-kh_ma-deva
+@iLetters-alt15 = [ k_sa-deva k_sha-deva k_kha-deva
+kh_ma-deva kh_kha-deva
+ny_jha-deva
+l_kha-deva l_khha-deva l_ja-deva l_za-deva
 q_sa-deva q_sha-deva
-khh_ma-deva khh_sa-deva ];
+khh_ma-deva khh_sa-deva
+f_tha-deva f_sa-deva ];
 
 @iLetters-alt16 = [ t_sa-deva t_la-deva
 m_bha-deva m_bh_ra-deva
@@ -514,7 +529,7 @@ z_ma-deva z_ya-deva z_ra-deva z_za-deva
 f_ra-deva f_sha-deva f_sa-deva f_za-deva f_fa-deva ];
 
 @Conjuncts = [ # Ka
-k_kha-deva k_ca-deva k_cha-deva k_na-deva k_ma-deva k_ya-deva k_ra-deva k_sha-deva k_ssa-deva k_ss_nna-deva k_ss_ma-deva k_ss_ya-deva k_sa-deva
+k_kha-deva k_ca-deva k_cha-deva k_na-deva k_ma-deva k_ya-deva k_ra-deva k_sha-deva k_ssa-deva k_ss_nna-deva k_ss_ma-deva k_ss_ya-deva k_sa-deva k_tha-deva
 
 # Kha
 kh_kha-deva kh_ma-deva kh_ra-deva
@@ -568,7 +583,7 @@ d_ga-deva d_gha-deva d_da-deva d_dha-deva d_na-deva d_ba-deva d_bha-deva d_ma-de
 dh_ra-deva
 
 # Na
-n_kha-deva n_ca-deva n_ja-deva n_dda-deva n_tha-deva n_dha-deva n_na-deva n_ma-deva n_ya-deva n_ra-deva n_sha-deva n_sa-deva n_ha-deva n_za-deva
+n_kha-deva n_ca-deva n_ja-deva n_dda-deva n_tha-deva n_dha-deva n_na-deva n_ma-deva n_ya-deva n_ra-deva n_sha-deva n_sa-deva n_ha-deva n_za-deva n_t_ra-deva
 
 # Pa
 p_na-deva p_ra-deva p_la-deva
@@ -589,7 +604,7 @@ m_ca-deva m_na-deva m_bha-deva m_ra-deva m_ha-deva m_bh_ra-deva m_ma-deva
 y_ra-deva
 
 # La
-l_bha-deva l_ma-deva l_ra-deva l_dda-deva l_ha-deva
+l_bha-deva l_ma-deva l_ra-deva l_dda-deva l_ha-deva l_kha-deva l_khha-deva l_ja-deva l_za-deva l_sha-deva l_sa-deva
 
 # Va
 v_ra-deva
@@ -598,10 +613,10 @@ v_ra-deva
 sh_na-deva sh_ra-deva sh_ca-deva sh_la-deva sh_va-deva
 
 # Ssa
-ss_tta-deva ss_ttha-deva ss_ra-deva
+ss_tta-deva ss_ttha-deva ss_ra-deva ss_p_ra-deva
 
 # Sa
-s_kha-deva s_dda-deva s_t_ra-deva s_tha-deva s_th_ya-deva s_na-deva s_ma-deva s_ra-deva s_sa-deva
+s_kha-deva s_dda-deva s_t_ra-deva s_tha-deva s_th_ya-deva s_na-deva s_ma-deva s_ra-deva s_sa-deva s_ja-deva
 
 # Ha
 h_nna-deva h_na-deva h_ra-deva h_ma-deva h_ya-deva h_la-deva h_va-deva
@@ -616,7 +631,7 @@ khh_ma-deva khh_ra-deva khh_sha-deva khh_sa-deva
 z_ma-deva z_ya-deva z_ra-deva z_za-deva
 
 # Fa
-f_ra-deva f_sha-deva f_sa-deva f_za-deva f_fa-deva ];
+f_ra-deva f_sha-deva f_sa-deva f_za-deva f_fa-deva f_tha-deva ];
 
 @iMatra = [ iMatra-deva
 iMatra-deva.alt1
