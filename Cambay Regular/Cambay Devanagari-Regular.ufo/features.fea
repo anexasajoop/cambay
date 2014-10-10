@@ -61,6 +61,7 @@ sub yya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by yya-deva;
 sub k_kha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_kha-deva; 
 sub k_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ca-deva; 
 sub k_cha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_cha-deva;
+sub k_ta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ta-deva;
 sub k_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_tha-deva;
 sub k_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_na-deva;
 sub k_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by k_ma-deva;
@@ -529,7 +530,7 @@ z_ma-deva z_ya-deva z_ra-deva z_za-deva
 f_ra-deva f_sha-deva f_sa-deva f_za-deva f_fa-deva ];
 
 @Conjuncts = [ # Ka
-k_kha-deva k_ca-deva k_cha-deva k_na-deva k_ma-deva k_ya-deva k_ra-deva k_sha-deva k_ssa-deva k_ss_nna-deva k_ss_ma-deva k_ss_ya-deva k_sa-deva k_tha-deva
+k_kha-deva k_ca-deva k_cha-deva k_na-deva k_ma-deva k_ya-deva k_ra-deva k_sha-deva k_ssa-deva k_ss_nna-deva k_ss_ma-deva k_ss_ya-deva k_sa-deva k_tha-deva k_ta-deva
 
 # Kha
 kh_kha-deva kh_ma-deva kh_ra-deva
@@ -1126,14 +1127,14 @@ sub reph-deva candraBindu-deva by reph_candraBindu-deva;
 
 # Substitute with alternate anusvara to avoid clash with ikar
 sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;
-sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
-sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
+#sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
+#sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
 sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;
 
 # Substitute with alternate candraBindu to avoid clash with ikar
 sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt;
-sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;
-sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;
+#sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;
+#sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;
 sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt;
 
 
