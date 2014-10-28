@@ -5,7 +5,7 @@
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>capHeight</key>
-	<integer>700</integer>
+	<integer>550</integer>
 	<key>copyright</key>
 	<string>(c) Copyright Pooja Saxena, 2014.</string>
 	<key>descender</key>
@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Cambay Devanagari</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/09/30 14:21:18</string>
+	<string>2014/10/28 12:58:27</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pooja Saxena</string>
 	<key>openTypeNameDesignerURL</key>
@@ -45,8 +45,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>17</integer>
+	<integer>26</integer>
 	<key>xHeight</key>
-	<integer>500</integer>
+	<integer>384</integer>
 </dict>
 </plist>

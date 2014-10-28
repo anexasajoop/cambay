@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="583"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="161" y="89" type="line"/>
+      <point x="225" y="89" type="line" smooth="yes"/>
+      <point x="282" y="89"/>
+      <point x="376" y="92"/>
+      <point x="419" y="176" type="curve"/>
+      <point x="430" y="193"/>
+      <point x="443" y="227"/>
+      <point x="443" y="279" type="curve" smooth="yes"/>
+      <point x="443" y="400"/>
+      <point x="375" y="462"/>
+      <point x="251" y="462" type="curve" smooth="yes"/>
+      <point x="161" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="550"/>
+      <point x="543" y="407"/>
+      <point x="543" y="292" type="curve" smooth="yes"/>
+      <point x="543" y="174"/>
+      <point x="496" y="54"/>
+      <point x="344" y="11" type="curve"/>
+      <point x="296" y="0"/>
+      <point x="249" y="0"/>
+      <point x="200" y="0" type="curve" smooth="yes"/>
+      <point x="63" y="0" type="line"/>
+      <point x="63" y="550" type="line"/>
+      <point x="249" y="550" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="240" y="550" type="move" name="top.cap"/>
+    </contour>
+  </outline>
+</glyph>
