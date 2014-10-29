@@ -464,6 +464,8 @@
 		<string>f_sha-deva</string>
 		<string>f_sa-deva</string>
 		<string>f_za-deva</string>
+		<string>oMatra_reph_candraBindu-deva</string>
+		<string>auMatra_reph_candraBindu-deva</string>
 		<string>aCandra-deva</string>
 		<string>a-deva</string>
 		<string>aa-deva</string>
@@ -584,6 +586,9 @@
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
 		<string>space</string>
+		<string>.notdef</string>
+		<string>dottedCircle</string>
+		<string>estimated</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -610,27 +615,44 @@
 		<string>ring.cap</string>
 		<string>tilde.cap</string>
 		<string>commaaccent</string>
+		<string>firsttonechinese</string>
+		<string>visarga-deva</string>
 		<string>uMatra-deva</string>
 		<string>uuMatra-deva</string>
 		<string>rVocalicMatra-deva</string>
+		<string>rrVocalicMatra-deva</string>
+		<string>lVocalicMatra-deva</string>
+		<string>llVocalicMatra-deva</string>
 		<string>eCandraMatra-deva</string>
 		<string>candraBindu-deva</string>
+		<string>eShortMatra-deva</string>
 		<string>eMatra-deva</string>
 		<string>eMatra_candraBindu-deva</string>
 		<string>eMatra_anusvara-deva</string>
 		<string>eMatra_reph-deva</string>
+		<string>eMatra_reph_candraBindu-deva</string>
 		<string>eMatra_reph_anusvara-deva</string>
 		<string>aiMatra-deva</string>
 		<string>aiMatra_candraBindu-deva</string>
 		<string>aiMatra_anusvara-deva</string>
 		<string>aiMatra_reph-deva</string>
+		<string>aiMatra_reph_candraBindu-deva</string>
 		<string>aiMatra_reph_anusvara-deva</string>
 		<string>anusvara-deva</string>
 		<string>halant-deva</string>
 		<string>nukta-deva</string>
 		<string>reph-deva</string>
+		<string>reph_candraBindu-deva</string>
 		<string>reph_anusvara-deva</string>
 		<string>invertedCandraBindu-deva</string>
+		<string>eLongCandra-deva</string>
+		<string>oeMatra-deva</string>
+		<string>ueMatra-deva</string>
+		<string>uueMatra-deva</string>
+		<string>udatta-deva</string>
+		<string>anudatta-deva</string>
+		<string>grave-deva</string>
+		<string>acute-deva</string>
 		<string>rashtra-deva</string>
 	</array>
 </dict>

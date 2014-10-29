@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>.notdef</key>
+	<string>_notdef.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -250,6 +252,8 @@
 	<string>acircumflex.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
+	<key>acute-deva</key>
+	<string>acute-deva.glif</string>
 	<key>acute.cap</key>
 	<string>acute.cap.glif</string>
 	<key>adieresis</key>
@@ -270,8 +274,12 @@
 	<string>aiM_atra_reph-deva.glif</string>
 	<key>aiMatra_reph_anusvara-deva</key>
 	<string>aiM_atra_reph_anusvara-deva.glif</string>
+	<key>aiMatra_reph_candraBindu-deva</key>
+	<string>aiM_atra_reph_candraB_indu-deva.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
+	<key>anudatta-deva</key>
+	<string>anudatta-deva.glif</string>
 	<key>anusvara-deva</key>
 	<string>anusvara-deva.glif</string>
 	<key>aogonek</key>
@@ -292,6 +300,8 @@
 	<string>auM_atra_reph-deva.glif</string>
 	<key>auMatra_reph_anusvara-deva</key>
 	<string>auM_atra_reph_anusvara-deva.glif</string>
+	<key>auMatra_reph_candraBindu-deva</key>
+	<string>auM_atra_reph_candraB_indu-deva.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>b-deva</key>
@@ -460,6 +470,8 @@
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
+	<key>dottedCircle</key>
+	<string>dottedC_ircle.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e-deva</key>
@@ -468,6 +480,8 @@
 	<string>eC_andra-deva.glif</string>
 	<key>eCandraMatra-deva</key>
 	<string>eC_andraM_atra-deva.glif</string>
+	<key>eLongCandra-deva</key>
+	<string>eL_ongC_andra-deva.glif</string>
 	<key>eMatra-deva</key>
 	<string>eM_atra-deva.glif</string>
 	<key>eMatra_anusvara-deva</key>
@@ -478,6 +492,10 @@
 	<string>eM_atra_reph-deva.glif</string>
 	<key>eMatra_reph_anusvara-deva</key>
 	<string>eM_atra_reph_anusvara-deva.glif</string>
+	<key>eMatra_reph_candraBindu-deva</key>
+	<string>eM_atra_reph_candraB_indu-deva.glif</string>
+	<key>eShortMatra-deva</key>
+	<string>eS_hortM_atra-deva.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
 	<key>ebreve</key>
@@ -502,6 +520,8 @@
 	<string>endash.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
+	<key>estimated</key>
+	<string>estimated.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
 	<key>exclam</key>
@@ -524,6 +544,8 @@
 	<string>f_za-deva.glif</string>
 	<key>fa-deva</key>
 	<string>fa-deva.glif</string>
+	<key>firsttonechinese</key>
+	<string>firsttonechinese.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g-deva</key>
@@ -564,6 +586,8 @@
 	<string>ghha-deva.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
+	<key>grave-deva</key>
+	<string>grave-deva.glif</string>
 	<key>grave.cap</key>
 	<string>grave.cap.glif</string>
 	<key>guillemetleft</key>
@@ -726,6 +750,8 @@
 	<string>l.glif</string>
 	<key>l-deva</key>
 	<string>l-deva.glif</string>
+	<key>lVocalicMatra-deva</key>
+	<string>lV_ocalicM_atra-deva.glif</string>
 	<key>l_bh_ya-deva</key>
 	<string>l_bh_ya-deva.glif</string>
 	<key>l_bha-deva</key>
@@ -754,6 +780,8 @@
 	<string>lcommaaccent.glif</string>
 	<key>ll-deva</key>
 	<string>ll-deva.glif</string>
+	<key>llVocalicMatra-deva</key>
+	<string>llV_ocalicM_atra-deva.glif</string>
 	<key>lla-deva</key>
 	<string>lla-deva.glif</string>
 	<key>lll-deva</key>
@@ -888,6 +916,8 @@
 	<string>oM_atra_reph-deva.glif</string>
 	<key>oMatra_reph_anusvara-deva</key>
 	<string>oM_atra_reph_anusvara-deva.glif</string>
+	<key>oMatra_reph_candraBindu-deva</key>
+	<string>oM_atra_reph_candraB_indu-deva.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
 	<key>obreve</key>
@@ -900,6 +930,8 @@
 	<string>oe.glif</string>
 	<key>oe-deva</key>
 	<string>oe-deva.glif</string>
+	<key>oeMatra-deva</key>
+	<string>oeM_atra-deva.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
 	<key>ograve</key>
@@ -992,6 +1024,8 @@
 	<string>reph-deva.glif</string>
 	<key>reph_anusvara-deva</key>
 	<string>reph_anusvara-deva.glif</string>
+	<key>reph_candraBindu-deva</key>
+	<string>reph_candraB_indu-deva.glif</string>
 	<key>rha-deva</key>
 	<string>rha-deva.glif</string>
 	<key>ring</key>
@@ -1000,6 +1034,8 @@
 	<string>ring.cap.glif</string>
 	<key>rr-deva</key>
 	<string>rr-deva.glif</string>
+	<key>rrVocalicMatra-deva</key>
+	<string>rrV_ocalicM_atra-deva.glif</string>
 	<key>rr_h_uMatra-deva</key>
 	<string>rr_h_uM_atra-deva.glif</string>
 	<key>rr_h_uuMatra-deva</key>
@@ -1176,8 +1212,12 @@
 	<string>ubreve.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
+	<key>udatta-deva</key>
+	<string>udatta-deva.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
+	<key>ueMatra-deva</key>
+	<string>ueM_atra-deva.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
 	<key>uhungarumlaut</key>
@@ -1196,6 +1236,8 @@
 	<string>uu-deva.glif</string>
 	<key>uuMatra-deva</key>
 	<string>uuM_atra-deva.glif</string>
+	<key>uueMatra-deva</key>
+	<string>uueM_atra-deva.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v-deva</key>
@@ -1204,6 +1246,8 @@
 	<string>v_ra-deva.glif</string>
 	<key>va-deva</key>
 	<string>va-deva.glif</string>
+	<key>visarga-deva</key>
+	<string>visarga-deva.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>x</key>

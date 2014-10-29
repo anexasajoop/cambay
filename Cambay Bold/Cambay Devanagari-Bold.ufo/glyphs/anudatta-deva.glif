@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anudatta-deva" format="1">
+  <advance width="449"/>
+  <unicode hex="0952"/>
+  <outline>
+    <contour>
+      <point x="20" y="-40" type="line"/>
+      <point x="20" y="-108" type="line"/>
+      <point x="429" y="-108" type="line"/>
+      <point x="429" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

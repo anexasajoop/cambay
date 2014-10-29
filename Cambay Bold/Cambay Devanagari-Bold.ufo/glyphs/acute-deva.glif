@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="invertedCandraBindu-deva" format="1">
-  <advance width="306"/>
-  <unicode hex="0900"/>
+<glyph name="acute-deva" format="1">
+  <advance width="244"/>
+  <unicode hex="0954"/>
   <outline>
-    <component base="candraBindu-deva" xOffset="52" yOffset="1230" xScale="-1" yScale="-1"/>
+    <component base="acute" yOffset="100"/>
   </outline>
   <lib>
     <dict>
