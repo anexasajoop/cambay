@@ -278,6 +278,8 @@
 	<string>aogonek.glif</string>
 	<key>aring</key>
 	<string>aring.glif</string>
+	<key>asterisk</key>
+	<string>asterisk.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
 	<key>au-deva</key>
@@ -308,6 +310,8 @@
 	<string>b_za-deva.glif</string>
 	<key>ba-deva</key>
 	<string>ba-deva.glif</string>
+	<key>backslash</key>
+	<string>backslash.glif</string>
 	<key>bba-deva</key>
 	<string>bba-deva.glif</string>
 	<key>bh-deva</key>
@@ -320,10 +324,20 @@
 	<string>bh_ya-deva.glif</string>
 	<key>bha-deva</key>
 	<string>bha-deva.glif</string>
+	<key>braceleft</key>
+	<string>braceleft.glif</string>
+	<key>braceright</key>
+	<string>braceright.glif</string>
+	<key>bracketleft</key>
+	<string>bracketleft.glif</string>
+	<key>bracketright</key>
+	<string>bracketright.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
 	<key>breve.cap</key>
 	<string>breve.cap.glif</string>
+	<key>bullet</key>
+	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>c-deva</key>
@@ -362,6 +376,8 @@
 	<string>circumflex.glif</string>
 	<key>circumflex.cap</key>
 	<string>circumflex.cap.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
 	<key>commaaccent</key>
@@ -476,16 +492,22 @@
 	<string>edotaccent.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
+	<key>ellipsis</key>
+	<string>ellipsis.glif</string>
 	<key>emacron</key>
 	<string>emacron.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>endash</key>
+	<string>endash.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
+	<key>exclamdown</key>
+	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>f-deva</key>
@@ -544,6 +566,14 @@
 	<string>grave.glif</string>
 	<key>grave.cap</key>
 	<string>grave.cap.glif</string>
+	<key>guillemetleft</key>
+	<string>guillemetleft.glif</string>
+	<key>guillemetright</key>
+	<string>guillemetright.glif</string>
+	<key>guilsinglleft</key>
+	<string>guilsinglleft.glif</string>
+	<key>guilsinglright</key>
+	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>h-deva</key>
@@ -830,6 +860,8 @@
 	<string>ntilde.glif</string>
 	<key>nukta-deva</key>
 	<string>nukta-deva.glif</string>
+	<key>numbersign</key>
+	<string>numbersign.glif</string>
 	<key>ny-deva</key>
 	<string>ny-deva.glif</string>
 	<key>ny_jha-deva</key>
@@ -894,6 +926,14 @@
 	<string>p_ra-deva.glif</string>
 	<key>pa-deva</key>
 	<string>pa-deva.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
+	<key>periodcentered</key>
+	<string>periodcentered.glif</string>
 	<key>ph-deva</key>
 	<string>ph-deva.glif</string>
 	<key>ph_ra-deva</key>
@@ -910,6 +950,26 @@
 	<string>q_sha-deva.glif</string>
 	<key>qa-deva</key>
 	<string>qa-deva.glif</string>
+	<key>question</key>
+	<string>question.glif</string>
+	<key>questiondown</key>
+	<string>questiondown.glif</string>
+	<key>quotedbl</key>
+	<string>quotedbl.glif</string>
+	<key>quotedblbase</key>
+	<string>quotedblbase.glif</string>
+	<key>quotedblleft</key>
+	<string>quotedblleft.glif</string>
+	<key>quotedblright</key>
+	<string>quotedblright.glif</string>
+	<key>quoteleft</key>
+	<string>quoteleft.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
+	<key>quotesinglbase</key>
+	<string>quotesinglbase.glif</string>
+	<key>quotesingle</key>
+	<string>quotesingle.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>rVocalicMatra-deva</key>
@@ -980,6 +1040,8 @@
 	<string>scedilla.glif</string>
 	<key>scommaaccent</key>
 	<string>scommaaccent.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
 	<key>sh-deva</key>
 	<string>sh-deva.glif</string>
 	<key>sh_ca-deva</key>
@@ -1010,6 +1072,10 @@
 	<string>sh_ya-deva.glif</string>
 	<key>sha-deva</key>
 	<string>sha-deva.glif</string>
+	<key>slash</key>
+	<string>slash.glif</string>
+	<key>softhyphen</key>
+	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>ss-deva</key>
@@ -1118,6 +1184,8 @@
 	<string>uhungarumlaut.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
+	<key>underscore</key>
+	<string>underscore.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>

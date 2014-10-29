@@ -543,10 +543,44 @@
 		<string>auMatra_anusvara-deva</string>
 		<string>auMatra_reph-deva</string>
 		<string>auMatra_reph_anusvara-deva</string>
+		<string>asterisk</string>
+		<string>backslash</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
+		<string>colon</string>
 		<string>comma</string>
+		<string>ellipsis</string>
 		<string>exclam</string>
+		<string>exclamdown</string>
+		<string>numbersign</string>
+		<string>period</string>
+		<string>question</string>
+		<string>questiondown</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
+		<string>semicolon</string>
+		<string>slash</string>
+		<string>underscore</string>
+		<string>braceleft</string>
+		<string>braceright</string>
+		<string>bracketleft</string>
+		<string>bracketright</string>
+		<string>parenleft</string>
+		<string>parenright</string>
 		<string>emdash</string>
+		<string>endash</string>
 		<string>hyphen</string>
+		<string>softhyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedblbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
 		<string>space</string>
