@@ -568,6 +568,8 @@
 		<string>iiMatra-deva.alt5</string>
 		<string>iiMatra_reph-deva.alt5</string>
 		<string>iiMatra_reph_anusvara-deva.alt5</string>
+		<string>one</string>
+		<string>two</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -612,9 +614,37 @@
 		<string>abbreviation-deva</string>
 		<string>highspacingdot-deva</string>
 		<string>space</string>
+		<string>nbspace</string>
 		<string>.notdef</string>
+		<string>cent</string>
+		<string>currency</string>
+		<string>dollar</string>
+		<string>euro</string>
+		<string>florin</string>
+		<string>rupeeIndian</string>
+		<string>sterling</string>
+		<string>yen</string>
+		<string>asciitilde</string>
+		<string>divide</string>
+		<string>divisionslash</string>
+		<string>equal</string>
+		<string>greater</string>
+		<string>greaterequal</string>
+		<string>less</string>
+		<string>lessequal</string>
+		<string>logicalnot</string>
+		<string>minus</string>
+		<string>multiply</string>
+		<string>notequal</string>
+		<string>percent</string>
+		<string>perthousand</string>
+		<string>plus</string>
+		<string>plusminus</string>
 		<string>dottedCircle</string>
+		<string>bar</string>
+		<string>brokenbar</string>
 		<string>estimated</string>
+		<string>asciicircum</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
