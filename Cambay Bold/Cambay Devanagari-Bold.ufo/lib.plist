@@ -606,8 +606,11 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
+		<string>glottalstop-deva</string>
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
+		<string>abbreviation-deva</string>
+		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>.notdef</string>
 		<string>dottedCircle</string>

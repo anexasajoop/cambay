@@ -244,6 +244,8 @@
 	<string>aaM_atra-deva.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>abbreviation-deva</key>
+	<string>abbreviation-deva.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
 	<key>acaron</key>
@@ -588,6 +590,8 @@
 	<string>ghh-deva.glif</string>
 	<key>ghha-deva</key>
 	<string>ghha-deva.glif</string>
+	<key>glottalstop-deva</key>
+	<string>glottalstop-deva.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>grave-deva</key>
@@ -626,6 +630,8 @@
 	<string>ha-deva.glif</string>
 	<key>halant-deva</key>
 	<string>halant-deva.glif</string>
+	<key>highspacingdot-deva</key>
+	<string>highspacingdot-deva.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hungarumlaut.cap</key>
