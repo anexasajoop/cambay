@@ -464,8 +464,14 @@
 		<string>f_sha-deva</string>
 		<string>f_sa-deva</string>
 		<string>f_za-deva</string>
+		<string>iiMatra_reph_candraBindu-deva</string>
 		<string>oMatra_reph_candraBindu-deva</string>
 		<string>auMatra_reph_candraBindu-deva</string>
+		<string>iiMatra_reph_candraBindu-deva.alt1</string>
+		<string>iiMatra_reph_candraBindu-deva.alt2</string>
+		<string>iiMatra_reph_candraBindu-deva.alt3</string>
+		<string>iiMatra_reph_candraBindu-deva.alt4</string>
+		<string>iiMatra_reph_candraBindu-deva.alt5</string>
 		<string>aCandra-deva</string>
 		<string>a-deva</string>
 		<string>aa-deva</string>
@@ -536,6 +542,8 @@
 		<string>aaMatra-deva</string>
 		<string>iMatra-deva</string>
 		<string>iiMatra-deva</string>
+		<string>iiMatra_reph-deva</string>
+		<string>iiMatra_reph_anusvara-deva</string>
 		<string>oCandraMatra-deva</string>
 		<string>oMatra-deva</string>
 		<string>oMatra_anusvara-deva</string>
@@ -545,6 +553,21 @@
 		<string>auMatra_anusvara-deva</string>
 		<string>auMatra_reph-deva</string>
 		<string>auMatra_reph_anusvara-deva</string>
+		<string>iiMatra-deva.alt1</string>
+		<string>iiMatra_reph-deva.alt1</string>
+		<string>iiMatra_reph_anusvara-deva.alt1</string>
+		<string>iiMatra-deva.alt2</string>
+		<string>iiMatra_reph-deva.alt2</string>
+		<string>iiMatra_reph_anusvara-deva.alt2</string>
+		<string>iiMatra-deva.alt3</string>
+		<string>iiMatra_reph-deva.alt3</string>
+		<string>iiMatra_reph_anusvara-deva.alt3</string>
+		<string>iiMatra-deva.alt4</string>
+		<string>iiMatra_reph-deva.alt4</string>
+		<string>iiMatra_reph_anusvara-deva.alt4</string>
+		<string>iiMatra-deva.alt5</string>
+		<string>iiMatra_reph-deva.alt5</string>
+		<string>iiMatra_reph_anusvara-deva.alt5</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -653,6 +676,8 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
+		<string>candraBindu-deva.alt</string>
+		<string>anusvara-deva.alt</string>
 		<string>rashtra-deva</string>
 	</array>
 </dict>
