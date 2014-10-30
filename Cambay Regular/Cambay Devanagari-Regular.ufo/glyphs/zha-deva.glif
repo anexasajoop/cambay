@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0979" format="1">
+<glyph name="zha-deva" format="1">
   <advance width="539"/>
   <unicode hex="0979"/>
   <outline>
-    <component base="jadeva"/>
-    <component base="nuktadeva" xOffset="169" yOffset="35"/>
-    <component base="nuktadeva" xOffset="289" yOffset="35"/>
-    <component base="nuktadeva" xOffset="227" yOffset="-45"/>
+    <component base="ja-deva"/>
+    <component base="nukta-deva" xOffset="169" yOffset="35"/>
+    <component base="nukta-deva" xOffset="289" yOffset="35"/>
+    <component base="nukta-deva" xOffset="227" yOffset="-45"/>
   </outline>
   <lib>
     <dict>

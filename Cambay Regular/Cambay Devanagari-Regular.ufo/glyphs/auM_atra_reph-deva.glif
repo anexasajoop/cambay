@@ -62,7 +62,7 @@
       <point x="91" y="437" type="line"/>
       <point x="162" y="437" type="line"/>
     </contour>
-    <component base="uni093E"/>
+    <component base="aaMatra-deva"/>
   </outline>
   <lib>
     <dict>

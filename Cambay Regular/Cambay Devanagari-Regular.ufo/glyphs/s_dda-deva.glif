@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0938094D_ddadeva" format="1">
+<glyph name="s_dda-deva" format="1">
   <advance width="704"/>
   <outline>
     <contour>
@@ -52,7 +52,7 @@
       <point x="323" y="408" type="line"/>
       <point x="323" y="456" type="line"/>
     </contour>
-    <component base="ddadeva" xOffset="299"/>
+    <component base="dda-deva" xOffset="299"/>
   </outline>
   <lib>
     <dict>

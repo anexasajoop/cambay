@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni095B094D_zadeva" format="1">
+<glyph name="z_za-deva" format="1">
   <advance width="771"/>
   <outline>
-    <component base="uni091C094D_jadeva"/>
-    <component base="nuktadeva" xOffset="188" yOffset="40"/>
-    <component base="nuktadeva" xOffset="428" yOffset="40"/>
+    <component base="j_ja-deva"/>
+    <component base="nukta-deva" xOffset="188" yOffset="40"/>
+    <component base="nukta-deva" xOffset="428" yOffset="40"/>
     <contour>
       <point x="670" y="447" type="move" name="top"/>
     </contour>

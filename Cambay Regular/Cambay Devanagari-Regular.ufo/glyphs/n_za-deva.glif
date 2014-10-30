@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0928094D_zadeva" format="1">
+<glyph name="n_za-deva" format="1">
   <advance width="783"/>
   <outline>
-    <component base="uni0928094D_jadeva"/>
-    <component base="nuktadeva" xOffset="432" yOffset="40"/>
+    <component base="n_ja-deva"/>
+    <component base="nukta-deva" xOffset="432" yOffset="40"/>
     <contour>
       <point x="680" y="447" type="move" name="top"/>
     </contour>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0938094D_khadeva" format="1">
+<glyph name="s_kha-deva" format="1">
   <advance width="879"/>
   <outline>
     <contour>
@@ -49,7 +49,7 @@
       <point x="358" y="408" type="line"/>
       <point x="358" y="456" type="line"/>
     </contour>
-    <component base="khadeva" xOffset="269"/>
+    <component base="kha-deva" xOffset="269"/>
     <contour>
       <point x="750" y="447" type="move" name="top"/>
     </contour>

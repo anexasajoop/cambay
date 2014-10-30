@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0904" format="1">
+<glyph name="aShort-deva" format="1">
   <advance width="585"/>
   <unicode hex="0904"/>
   <outline>
-    <component base="adeva"/>
-    <component base="eshortvowelsigndeva" xOffset="588"/>
+    <component base="a-deva"/>
+    <component base="eShortMatra-deva" xOffset="588"/>
   </outline>
   <lib>
     <dict>

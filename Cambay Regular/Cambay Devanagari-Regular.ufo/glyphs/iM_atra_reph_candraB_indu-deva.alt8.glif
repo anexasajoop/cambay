@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni093F0930094D_candrabindudeva.alt8" format="1">
+<glyph name="iMatra_reph_candraBindu-deva.alt8" format="1">
   <advance width="208"/>
   <outline>
     <contour>
-      <point x="130.86" y="456.05" type="line"/>
-      <point x="118.16" y="469.73"/>
-      <point x="108.4" y="490.23"/>
-      <point x="108.4" y="516.6" type="curve" smooth="yes"/>
-      <point x="108.4" y="564.45"/>
-      <point x="155.27" y="595.7"/>
-      <point x="274.41" y="595.7" type="curve" smooth="yes"/>
-      <point x="413.09" y="595.7"/>
-      <point x="550.78" y="560.55"/>
-      <point x="665.04" y="435.55" type="curve"/>
-      <point x="739.26" y="435.55" type="line"/>
+      <point x="131" y="456" type="line"/>
+      <point x="118" y="470"/>
+      <point x="108" y="490"/>
+      <point x="108" y="517" type="curve" smooth="yes"/>
+      <point x="108" y="564"/>
+      <point x="155" y="596"/>
+      <point x="274" y="596" type="curve" smooth="yes"/>
+      <point x="413" y="596"/>
+      <point x="551" y="561"/>
+      <point x="665" y="436" type="curve"/>
+      <point x="739" y="436" type="line"/>
       <point x="719" y="455"/>
       <point x="663" y="503"/>
-      <point x="663.09" y="544.92" type="curve" smooth="yes"/>
+      <point x="663" y="545" type="curve" smooth="yes"/>
       <point x="663" y="589"/>
       <point x="695" y="602"/>
       <point x="723" y="602" type="curve" smooth="yes"/>
@@ -28,26 +28,26 @@
       <point x="743" y="653"/>
       <point x="725" y="653" type="curve" smooth="yes"/>
       <point x="664" y="653"/>
-      <point x="615.23" y="617.19"/>
-      <point x="615.23" y="551.76" type="curve" smooth="yes"/>
-      <point x="615.23" y="549.8" type="line"/>
-      <point x="523.44" y="614.26"/>
-      <point x="415.04" y="649.41"/>
-      <point x="276.37" y="649.41" type="curve" smooth="yes"/>
-      <point x="114.26" y="649.41"/>
-      <point x="50.78" y="588.87"/>
-      <point x="52.73" y="516.6" type="curve" smooth="yes"/>
-      <point x="52.73" y="488.28"/>
-      <point x="61.52" y="468.75"/>
-      <point x="70.31" y="456.05" type="curve"/>
-      <point x="-24.41" y="456.05" type="line"/>
-      <point x="-24.41" y="408.2" type="line"/>
-      <point x="75.2" y="408.2" type="line"/>
-      <point x="75.2" y="0" type="line"/>
-      <point x="129.88" y="0" type="line"/>
-      <point x="129.88" y="408.2" type="line"/>
-      <point x="231.45" y="408.2" type="line"/>
-      <point x="231.45" y="456.05" type="line"/>
+      <point x="615" y="617"/>
+      <point x="615" y="552" type="curve" smooth="yes"/>
+      <point x="615" y="550" type="line"/>
+      <point x="523" y="614"/>
+      <point x="415" y="649"/>
+      <point x="276" y="649" type="curve" smooth="yes"/>
+      <point x="114" y="649"/>
+      <point x="51" y="589"/>
+      <point x="53" y="517" type="curve" smooth="yes"/>
+      <point x="53" y="488"/>
+      <point x="62" y="469"/>
+      <point x="70" y="456" type="curve"/>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="75" y="408" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="408" type="line"/>
+      <point x="231" y="408" type="line"/>
+      <point x="231" y="456" type="line"/>
     </contour>
     <contour>
       <point x="858" y="479"/>
