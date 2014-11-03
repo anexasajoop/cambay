@@ -672,6 +672,22 @@
 	<string>i-deva.glif</string>
 	<key>iMatra-deva</key>
 	<string>iM_atra-deva.glif</string>
+	<key>iMatra-deva.alt1</key>
+	<string>iM_atra-deva.alt1.glif</string>
+	<key>iMatra-deva.alt2</key>
+	<string>iM_atra-deva.alt2.glif</string>
+	<key>iMatra-deva.alt3</key>
+	<string>iM_atra-deva.alt3.glif</string>
+	<key>iMatra-deva.alt4</key>
+	<string>iM_atra-deva.alt4.glif</string>
+	<key>iMatra-deva.alt5</key>
+	<string>iM_atra-deva.alt5.glif</string>
+	<key>iMatra-deva.alt6</key>
+	<string>iM_atra-deva.alt6.glif</string>
+	<key>iMatra-deva.alt7</key>
+	<string>iM_atra-deva.alt7.glif</string>
+	<key>iMatra-deva.alt8</key>
+	<string>iM_atra-deva.alt8.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>ibreve</key>

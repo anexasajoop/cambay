@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra-deva.alt7" format="1">
+  <advance width="208"/>
+  <outline>
+    <contour>
+      <point x="-23" y="466" type="line"/>
+      <point x="-23" y="396" type="line"/>
+      <point x="232" y="396" type="line"/>
+      <point x="232" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="575"/>
+      <point x="431" y="659"/>
+      <point x="250" y="659" type="curve" smooth="yes"/>
+      <point x="105" y="659"/>
+      <point x="46" y="602"/>
+      <point x="48" y="524" type="curve" smooth="yes"/>
+      <point x="49" y="469"/>
+      <point x="78" y="439"/>
+      <point x="78" y="439" type="curve" smooth="yes"/>
+      <point x="78" y="439"/>
+      <point x="171" y="439"/>
+      <point x="171" y="439" type="curve"/>
+      <point x="153" y="455"/>
+      <point x="126" y="478"/>
+      <point x="126" y="523" type="curve" smooth="yes"/>
+      <point x="126" y="561"/>
+      <point x="155" y="589"/>
+      <point x="252" y="589" type="curve" smooth="yes"/>
+      <point x="402" y="589"/>
+      <point x="544" y="522"/>
+      <point x="616" y="436" type="curve"/>
+      <point x="716" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="146" y="466" type="line"/>
+      <point x="61" y="466" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

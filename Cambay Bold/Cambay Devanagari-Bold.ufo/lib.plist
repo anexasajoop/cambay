@@ -553,21 +553,29 @@
 		<string>auMatra_anusvara-deva</string>
 		<string>auMatra_reph-deva</string>
 		<string>auMatra_reph_anusvara-deva</string>
+		<string>iMatra-deva.alt1</string>
 		<string>iiMatra-deva.alt1</string>
 		<string>iiMatra_reph-deva.alt1</string>
 		<string>iiMatra_reph_anusvara-deva.alt1</string>
+		<string>iMatra-deva.alt2</string>
 		<string>iiMatra-deva.alt2</string>
 		<string>iiMatra_reph-deva.alt2</string>
 		<string>iiMatra_reph_anusvara-deva.alt2</string>
+		<string>iMatra-deva.alt3</string>
 		<string>iiMatra-deva.alt3</string>
 		<string>iiMatra_reph-deva.alt3</string>
 		<string>iiMatra_reph_anusvara-deva.alt3</string>
+		<string>iMatra-deva.alt4</string>
 		<string>iiMatra-deva.alt4</string>
 		<string>iiMatra_reph-deva.alt4</string>
 		<string>iiMatra_reph_anusvara-deva.alt4</string>
+		<string>iMatra-deva.alt5</string>
 		<string>iiMatra-deva.alt5</string>
 		<string>iiMatra_reph-deva.alt5</string>
 		<string>iiMatra_reph_anusvara-deva.alt5</string>
+		<string>iMatra-deva.alt6</string>
+		<string>iMatra-deva.alt7</string>
+		<string>iMatra-deva.alt8</string>
 		<string>one</string>
 		<string>two</string>
 		<string>asterisk</string>

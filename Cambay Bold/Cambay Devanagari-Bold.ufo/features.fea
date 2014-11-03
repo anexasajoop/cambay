@@ -59,15 +59,50 @@ iiMatra_reph-deva.alt5
 iiMatra_reph_anusvara-deva.alt5
 iiMatra_reph_candraBindu-deva.alt5 ];
 
+@iLetters-alt1 = [ ra-deva rra-deva ];
+
+@iLetters-alt2 = [ ka-deva nga-deva
+dda-deva
+na-deva nna-deva
+va-deva
+qa-deva dddha-deva ];
+
+@iLetters-alt3 = [ tta-deva ttha-deva ddha-deva
+da-deva
+ha-deva
+rha-deva ];
+
+@iLetters-alt4 = [ gha-deva
+ca-deva
+tha-deva dha-deva
+ma-deva ];
+
+@iLetters-alt5 = [ cha-deva
+bha-deva
+lla-deva llla-deva ];
+
+@iLetters-alt6 = [ ja-deva jha-deva nya-deva
+nna-deva
+sha-deva
+za-deva ];
+
+@iLetters-alt7 = [ la-deva
+sa-deva ];
+
+@iLetters-alt8 = [ kha-deva
+khha-deva ];
+
 feature aalt {
 # automatic
 feature nukt;
+feature akhn;
 feature rphf;
 feature rkrf;
 feature half;
 feature cjct;
 feature abvs;
 feature psts;
+feature pres;
 } aalt;
 
 feature nukt {
@@ -396,4 +431,15 @@ sub @iiLetters-alt3 @iiMatra' by @iiMatra-alt3;
 sub @iiLetters-alt4 @iiMatra' by @iiMatra-alt4;
 sub @iiLetters-alt5 @iiMatra' by @iiMatra-alt5;
 } psts;
+
+feature pres {
+sub iMatra-deva' @iLetters-alt1 by iMatra-deva.alt1;
+sub iMatra-deva' @iLetters-alt2 by iMatra-deva.alt2;
+sub iMatra-deva' @iLetters-alt3 by iMatra-deva.alt3;
+sub iMatra-deva' @iLetters-alt4 by iMatra-deva.alt4;
+sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;
+sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;
+sub iMatra-deva' @iLetters-alt7 by iMatra-deva.alt7;
+sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
+} pres;
 
