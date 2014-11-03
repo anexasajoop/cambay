@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l_khha-deva" format="1">
-  <advance width="971"/>
+  <advance width="1021"/>
   <outline>
     <component base="l_kha-deva"/>
     <component base="nukta-deva" xOffset="467" yOffset="101"/>

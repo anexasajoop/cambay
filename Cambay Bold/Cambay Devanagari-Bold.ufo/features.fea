@@ -132,7 +132,9 @@ nn_ra-deva
 
 d_dha-deva d_bha-deva d_r_ya-deva
 
-s_na-deva s_ra-deva ];
+s_na-deva s_ra-deva
+
+z_ra-deva ];
 
 @iLetters-alt7 = [ la-deva
 sa-deva
@@ -161,7 +163,7 @@ khh_ra-deva
 
 t_n_ya-deva t_ma-deva t_ya-deva
 
-n_tha-deva n_dha-deva n_dh_ra-deva n_ma-deva
+n_ca-deva n_t_ra-deva n_tha-deva n_dha-deva n_dh_ra-deva n_ma-deva n_ya-deva
 
 sh_tta-deva ];
 
@@ -186,6 +188,100 @@ m_bha-deva
 sh_ta-deva sh_ya-deva
 
 s_t_ra-deva ];
+
+@iLetters-alt12 = [ k_ss_ya-deva
+
+j_ja-deva
+
+n_sha-deva
+
+z_za-deva ];
+
+@iLetters-alt13 = [ k_ss_ma-deva
+
+g_sha-deva
+
+n_ja-deva n_za-deva
+
+b_ja-deva b_dha-deva b_za-deva
+
+bh_bha-deva m_bh_ra-deva
+
+sh_ma-deva
+
+s_tha-deva s_ma-deva s_sa-deva
+
+z_ya-deva ];
+
+@iLetters-alt14 = [ j_ya-deva
+
+tt_ya-deva
+
+ddh_ya-deva
+
+t_s_na-deva
+
+sh_cha-deva ];
+
+@iLetters-alt15 = [ k_ma-deva
+
+tth_ya-deva
+
+dd_ya-deva
+
+t_kha-deva
+
+n_kha-deva
+
+b_bha-deva
+
+l_bha-deva l_ma-deva
+
+sh_sha-deva
+
+z_ma-deva ];
+
+@iLetters-alt16 = [ b_sha-deva
+
+l_ja-deva l_za-deva
+
+s_kha-deva ];
+
+@iLetters-alt17 = [ k_ca-deva k_cha-deva k_tha-deva
+
+ny_sa-deva
+
+l_sha-deva
+
+f_tha-deva ];
+
+@iLetters-alt18 = [ k_sa-deva
+
+ny_jha-deva
+
+q_sa-deva
+
+khh_sa-deva ];
+
+@iLetters-alt19 = [ k_sha-deva 
+
+kh_ma-deva
+
+l_kha-deva l_khha-deva
+
+q_sha-deva 
+
+khh_ma-deva
+
+f_sa-deva f_za-deva f_sha-deva ];
+
+@iLetters-alt20 = [ k_kha-deva
+
+kh_kha-deva
+
+khh_sha-deva ];
+
+@iLetters-alt21 = [ d_da-deva ];
 
 feature aalt {
 # automatic
@@ -539,5 +635,15 @@ sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
 sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;
 sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;
 sub iMatra-deva' @iLetters-alt11 by iMatra-deva.alt11;
+sub iMatra-deva' @iLetters-alt12 by iMatra-deva.alt12;
+sub iMatra-deva' @iLetters-alt13 by iMatra-deva.alt13;
+sub iMatra-deva' @iLetters-alt14 by iMatra-deva.alt14;
+sub iMatra-deva' @iLetters-alt15 by iMatra-deva.alt15;
+sub iMatra-deva' @iLetters-alt16 by iMatra-deva.alt16;
+sub iMatra-deva' @iLetters-alt17 by iMatra-deva.alt17;
+sub iMatra-deva' @iLetters-alt18 by iMatra-deva.alt18;
+sub iMatra-deva' @iLetters-alt19 by iMatra-deva.alt19;
+sub iMatra-deva' @iLetters-alt20 by iMatra-deva.alt20;
+sub iMatra-deva' @iLetters-alt21 by iMatra-deva.alt21;
 } pres;
 
