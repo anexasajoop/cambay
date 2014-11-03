@@ -557,6 +557,8 @@
 		<string>iiMatra-deva.alt1</string>
 		<string>iiMatra_reph-deva.alt1</string>
 		<string>iiMatra_reph_anusvara-deva.alt1</string>
+		<string>iMatra-deva.alt10</string>
+		<string>iMatra-deva.alt11</string>
 		<string>iMatra-deva.alt2</string>
 		<string>iiMatra-deva.alt2</string>
 		<string>iiMatra_reph-deva.alt2</string>
@@ -576,6 +578,7 @@
 		<string>iMatra-deva.alt6</string>
 		<string>iMatra-deva.alt7</string>
 		<string>iMatra-deva.alt8</string>
+		<string>iMatra-deva.alt9</string>
 		<string>one</string>
 		<string>two</string>
 		<string>asterisk</string>

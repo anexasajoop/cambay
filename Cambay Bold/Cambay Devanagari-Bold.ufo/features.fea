@@ -65,32 +65,127 @@ iiMatra_reph_candraBindu-deva.alt5 ];
 dda-deva
 na-deva nna-deva
 va-deva
-qa-deva dddha-deva ];
+qa-deva dddha-deva
+
+k_na-deva k_ra-deva
+
+ng_ga-deva ng_ma-deva
+
+dd_ga-deva dd_dda-deva dd_ra-deva
+
+n_ra-deva
+
+v_ra-deva
+
+h_na-deva h_ra-deva h_va-deva ];
 
 @iLetters-alt3 = [ tta-deva ttha-deva ddha-deva
 da-deva
 ha-deva
-rha-deva ];
+rha-deva
+
+tt_tta-deva tt_ttha-deva tt_ra-deva tt_va-deva
+
+tth_ttha-deva
+
+d_ga-deva d_na-deva d_ba-deva d_ra-deva d_va-deva ];
 
 @iLetters-alt4 = [ gha-deva
 ca-deva
 tha-deva dha-deva
-ma-deva ];
+ma-deva
+
+k_ta-deva
+
+gh_na-deva gh_ra-deva 
+
+c_ra-deva
+
+t_ta-deva t_na-deva
+
+th_ra-deva
+
+dh_ra-deva
+
+m_na-deva m_ra-deva ];
 
 @iLetters-alt5 = [ cha-deva
 bha-deva
-lla-deva llla-deva ];
+lla-deva llla-deva
+
+j_nya-deva
+
+d_gha-deva d_ya-deva
+
+l_ra-deva
+
+sh_ca-deva sh_na-deva sh_ra-deva ];
 
 @iLetters-alt6 = [ ja-deva jha-deva nya-deva
 nna-deva
 sha-deva
-za-deva ];
+za-deva
+
+ny_ra-deva
+
+nn_ra-deva
+
+d_dha-deva d_bha-deva d_r_ya-deva
+
+s_na-deva s_ra-deva ];
 
 @iLetters-alt7 = [ la-deva
-sa-deva ];
+sa-deva
+
+k_ssa-deva
+
+bh_ra-deva ];
 
 @iLetters-alt8 = [ kha-deva
-khha-deva ];
+khha-deva
+
+jh_ra-deva
+
+d_ma-deva
+
+n_dda-deva n_ha-deva
+
+rr_ha-deva
+
+h_ma-deva
+
+khh_ra-deva
+ ];
+
+@iLetters-alt9 = [ c_ca-deva
+
+t_n_ya-deva t_ma-deva t_ya-deva
+
+n_tha-deva n_dha-deva n_dh_ra-deva n_ma-deva
+
+sh_tta-deva ];
+
+@iLetters-alt10 = [ t_t_ya-deva t_tha-deva t_la-deva
+
+n_sa-deva
+
+m_ca-deva m_p_ra-deva m_ma-deva
+
+sh_ka-deva sh_qa-deva
+
+s_dda-deva ];
+
+@iLetters-alt11 = [ g_bha-deva
+
+t_sa-deva
+
+bh_ya-deva
+
+m_bha-deva
+
+sh_ta-deva sh_ya-deva
+
+s_t_ra-deva ];
 
 feature aalt {
 # automatic
@@ -441,5 +536,8 @@ sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;
 sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;
 sub iMatra-deva' @iLetters-alt7 by iMatra-deva.alt7;
 sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;
+sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;
+sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;
+sub iMatra-deva' @iLetters-alt11 by iMatra-deva.alt11;
 } pres;
 
