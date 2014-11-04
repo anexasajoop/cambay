@@ -5,5 +5,11 @@
   <outline>
     <component base="lla-deva"/>
     <component base="nukta-deva" xOffset="330" yOffset="40"/>
+    <contour>
+      <point x="421" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="419" y="5" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

@@ -796,8 +796,9 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
-		<string>candraBindu-deva.alt</string>
 		<string>anusvara-deva.alt</string>
+		<string>candraBindu-deva.alt1</string>
+		<string>candraBindu-deva.alt2</string>
 		<string>rashtra-deva</string>
 	</array>
 </dict>

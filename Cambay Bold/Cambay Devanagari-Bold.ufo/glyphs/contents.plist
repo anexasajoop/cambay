@@ -374,8 +374,10 @@
 	<string>cacute.glif</string>
 	<key>candraBindu-deva</key>
 	<string>candraB_indu-deva.glif</string>
-	<key>candraBindu-deva.alt</key>
-	<string>candraB_indu-deva.alt.glif</string>
+	<key>candraBindu-deva.alt1</key>
+	<string>candraB_indu-deva.alt1.glif</string>
+	<key>candraBindu-deva.alt2</key>
+	<string>candraB_indu-deva.alt2.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>caron.cap</key>
