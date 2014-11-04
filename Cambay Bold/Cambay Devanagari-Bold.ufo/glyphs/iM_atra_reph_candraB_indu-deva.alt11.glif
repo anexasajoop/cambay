@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra_reph_candraBindu-deva.alt11" format="1">
+  <advance width="208"/>
+  <outline>
+    <contour>
+      <point x="-24" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="231" y="396" type="line"/>
+      <point x="231" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="466" type="line"/>
+      <point x="60" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="931" y="598"/>
+      <point x="941" y="597"/>
+      <point x="949" y="595" type="curve"/>
+      <point x="968" y="663" type="line"/>
+      <point x="954" y="667"/>
+      <point x="938" y="669"/>
+      <point x="921" y="669" type="curve" smooth="yes"/>
+      <point x="854" y="669"/>
+      <point x="801" y="631"/>
+      <point x="801" y="550" type="curve"/>
+      <point x="654" y="621"/>
+      <point x="458" y="659"/>
+      <point x="289" y="659" type="curve" smooth="yes"/>
+      <point x="104" y="659"/>
+      <point x="45" y="602"/>
+      <point x="47" y="524" type="curve" smooth="yes"/>
+      <point x="48" y="469"/>
+      <point x="77" y="439"/>
+      <point x="77" y="439" type="curve"/>
+      <point x="170" y="439" type="line"/>
+      <point x="152" y="455"/>
+      <point x="125" y="478"/>
+      <point x="125" y="523" type="curve" smooth="yes"/>
+      <point x="125" y="561"/>
+      <point x="154" y="589"/>
+      <point x="291" y="589" type="curve" smooth="yes"/>
+      <point x="534" y="589"/>
+      <point x="769" y="524"/>
+      <point x="852" y="436" type="curve"/>
+      <point x="958" y="436" type="line"/>
+      <point x="957" y="437" type="line"/>
+      <point x="931" y="457"/>
+      <point x="871" y="498"/>
+      <point x="871" y="550" type="curve" smooth="yes"/>
+      <point x="871" y="581"/>
+      <point x="889" y="598"/>
+      <point x="921" y="598" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1016" y="558"/>
+      <point x="1028" y="570"/>
+      <point x="1028" y="586" type="curve" smooth="yes"/>
+      <point x="1028" y="601"/>
+      <point x="1016" y="613"/>
+      <point x="1001" y="613" type="curve" smooth="yes"/>
+      <point x="984" y="613"/>
+      <point x="973" y="600"/>
+      <point x="973" y="585" type="curve" smooth="yes"/>
+      <point x="973" y="569"/>
+      <point x="984" y="558"/>
+      <point x="1001" y="558" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1054" y="488"/>
+      <point x="1085" y="518"/>
+      <point x="1096" y="557" type="curve"/>
+      <point x="1056" y="574" type="line"/>
+      <point x="1045" y="545"/>
+      <point x="1028" y="531"/>
+      <point x="1001" y="531" type="curve" smooth="yes"/>
+      <point x="975" y="531"/>
+      <point x="957" y="545"/>
+      <point x="944" y="574" type="curve"/>
+      <point x="906" y="557" type="line"/>
+      <point x="915" y="518"/>
+      <point x="948" y="488"/>
+      <point x="1001" y="488" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>
