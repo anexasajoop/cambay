@@ -655,8 +655,16 @@
 		<string>iMatra-deva.alt9</string>
 		<string>iMatra_reph-deva.alt9</string>
 		<string>iMatra_reph_anusvara-deva.alt9</string>
+		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -711,27 +719,42 @@
 		<string>rupeeIndian</string>
 		<string>sterling</string>
 		<string>yen</string>
+		<string>Ohm</string>
+		<string>approxequal</string>
 		<string>asciitilde</string>
+		<string>bulletoperator</string>
 		<string>divide</string>
 		<string>divisionslash</string>
 		<string>equal</string>
 		<string>greater</string>
 		<string>greaterequal</string>
+		<string>increment</string>
+		<string>infinity</string>
+		<string>integral</string>
 		<string>less</string>
 		<string>lessequal</string>
 		<string>logicalnot</string>
+		<string>micro</string>
 		<string>minus</string>
 		<string>multiply</string>
 		<string>notequal</string>
+		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
 		<string>plus</string>
 		<string>plusminus</string>
+		<string>product</string>
+		<string>radical</string>
+		<string>summation</string>
 		<string>dottedCircle</string>
+		<string>lozenge</string>
 		<string>bar</string>
 		<string>brokenbar</string>
+		<string>degree</string>
 		<string>estimated</string>
 		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
