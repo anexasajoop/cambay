@@ -495,6 +495,7 @@
 		<string>iMatra_reph_candraBindu-deva.alt8</string>
 		<string>iMatra_reph_candraBindu-deva.alt9</string>
 		<string>aCandra-deva</string>
+		<string>aShort-deva</string>
 		<string>a-deva</string>
 		<string>aa-deva</string>
 		<string>i-deva</string>
@@ -502,6 +503,7 @@
 		<string>u-deva</string>
 		<string>uu-deva</string>
 		<string>eCandra-deva</string>
+		<string>eShort-deva</string>
 		<string>e-deva</string>
 		<string>ai-deva</string>
 		<string>oCandra-deva</string>
@@ -509,6 +511,8 @@
 		<string>au-deva</string>
 		<string>oe-deva</string>
 		<string>ooe-deva</string>
+		<string>ue-deva</string>
+		<string>uue-deva</string>
 		<string>k-deva</string>
 		<string>k_ss-deva</string>
 		<string>kh-deva</string>
@@ -665,6 +669,13 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -750,8 +761,16 @@
 		<string>lozenge</string>
 		<string>bar</string>
 		<string>brokenbar</string>
+		<string>at</string>
+		<string>ampersand</string>
+		<string>paragraph</string>
+		<string>copyright</string>
+		<string>registered</string>
+		<string>section</string>
+		<string>trademark</string>
 		<string>degree</string>
 		<string>estimated</string>
+		<string>literSign</string>
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
