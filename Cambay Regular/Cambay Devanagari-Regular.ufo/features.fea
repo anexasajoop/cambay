@@ -1070,6 +1070,8 @@ sub m-deva bha-deva by m_bha-deva;
 sub m-deva ma-deva by m_ma-deva;
 sub m-deva ha-deva by m_ha-deva;
 
+sub rr-deva ha-deva by rr_ha-deva;
+
 sub l-deva kha-deva by l_kha-deva;
 sub l-deva ga-deva by l_ga-deva;
 sub l-deva ja-deva by l_ja-deva;
@@ -1274,6 +1276,8 @@ sub n_ha-deva uMatra-deva by n_h_uMatra-deva;
 sub n_ha-deva uuMatra-deva by n_h_uuMatra-deva;
 sub m_ha-deva uMatra-deva by m_h_uMatra-deva;
 sub m_ha-deva uuMatra-deva by m_h_uuMatra-deva;
+sub rr_ha-deva uMatra-deva by rr_h_uMatra-deva;
+sub rr_ha-deva uuMatra-deva by rr_h_uuMatra-deva;
 sub l_ha-deva uMatra-deva by l_h_uMatra-deva;
 sub l_ha-deva uuMatra-deva by l_h_uuMatra-deva;
 

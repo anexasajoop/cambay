@@ -430,6 +430,9 @@
 		<string>y_ra-deva</string>
 		<string>r_uMatra-deva</string>
 		<string>r_uuMatra-deva</string>
+		<string>rr_ha-deva</string>
+		<string>rr_h_uMatra-deva</string>
+		<string>rr_h_uuMatra-deva</string>
 		<string>l_kha-deva</string>
 		<string>l_ga-deva</string>
 		<string>l_ja-deva</string>

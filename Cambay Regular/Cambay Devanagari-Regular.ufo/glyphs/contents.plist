@@ -1460,6 +1460,12 @@
 	<string>rrV_ocalicM_atra-deva.glif</string>
 	<key>rrVocalicMatra-deva.alt</key>
 	<string>rrV_ocalicM_atra-deva.alt.glif</string>
+	<key>rr_h_uMatra-deva</key>
+	<string>rr_h_uM_atra-deva.glif</string>
+	<key>rr_h_uuMatra-deva</key>
+	<string>rr_h_uuM_atra-deva.glif</string>
+	<key>rr_ha-deva</key>
+	<string>rr_ha-deva.glif</string>
 	<key>rra-deva</key>
 	<string>rra-deva.glif</string>
 	<key>rupeeIndian</key>
