@@ -492,12 +492,16 @@
 	<string>dda-deva.glif</string>
 	<key>ddda-deva</key>
 	<string>ddda-deva.glif</string>
+	<key>dddh_ra-deva</key>
+	<string>dddh_ra-deva.glif</string>
 	<key>dddha-deva</key>
 	<string>dddha-deva.glif</string>
 	<key>ddh-deva</key>
 	<string>ddh-deva.glif</string>
 	<key>ddh_ddha-deva</key>
 	<string>ddh_ddha-deva.glif</string>
+	<key>ddh_ra-deva</key>
+	<string>ddh_ra-deva.glif</string>
 	<key>ddh_ya-deva</key>
 	<string>ddh_ya-deva.glif</string>
 	<key>ddha-deva</key>
@@ -668,6 +672,8 @@
 	<string>gha-deva.glif</string>
 	<key>ghh-deva</key>
 	<string>ghh-deva.glif</string>
+	<key>ghh_ra-deva</key>
+	<string>ghh_ra-deva.glif</string>
 	<key>ghha-deva</key>
 	<string>ghha-deva.glif</string>
 	<key>glottalstop-deva</key>
@@ -1112,6 +1118,8 @@
 	<string>llV_ocalic-deva.glif</string>
 	<key>llVocalicMatra-deva</key>
 	<string>llV_ocalicM_atra-deva.glif</string>
+	<key>ll_ra-deva</key>
+	<string>ll_ra-deva.glif</string>
 	<key>lla-deva</key>
 	<string>lla-deva.glif</string>
 	<key>lll-deva</key>
@@ -1224,6 +1232,8 @@
 	<string>ng_ka-deva.glif</string>
 	<key>ng_ma-deva</key>
 	<string>ng_ma-deva.glif</string>
+	<key>ng_ra-deva</key>
+	<string>ng_ra-deva.glif</string>
 	<key>nga-deva</key>
 	<string>nga-deva.glif</string>
 	<key>nine</key>
@@ -1374,6 +1384,8 @@
 	<string>q.glif</string>
 	<key>q-deva</key>
 	<string>q-deva.glif</string>
+	<key>q_ra-deva</key>
+	<string>q_ra-deva.glif</string>
 	<key>q_sa-deva</key>
 	<string>q_sa-deva.glif</string>
 	<key>q_sha-deva</key>
@@ -1432,6 +1444,8 @@
 	<string>reph_anusvara-deva.glif</string>
 	<key>reph_candraBindu-deva</key>
 	<string>reph_candraB_indu-deva.glif</string>
+	<key>rh_ra-deva</key>
+	<string>rh_ra-deva.glif</string>
 	<key>rha-deva</key>
 	<string>rha-deva.glif</string>
 	<key>ring</key>
@@ -1624,6 +1638,8 @@
 	<string>tta-deva.glif</string>
 	<key>tth-deva</key>
 	<string>tth-deva.glif</string>
+	<key>tth_ra-deva</key>
+	<string>tth_ra-deva.glif</string>
 	<key>tth_ttha-deva</key>
 	<string>tth_ttha-deva.glif</string>
 	<key>tth_ya-deva</key>
@@ -1710,6 +1726,8 @@
 	<string>ydieresis.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yy_ra-deva</key>
+	<string>yy_ra-deva.glif</string>
 	<key>yya-deva</key>
 	<string>yya-deva.glif</string>
 	<key>z</key>

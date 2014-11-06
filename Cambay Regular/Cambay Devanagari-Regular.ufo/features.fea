@@ -776,65 +776,55 @@ sub ka-deva halant-deva ra-deva by k_ra-deva;
 sub kha-deva halant-deva ra-deva by kh_ra-deva;
 sub ga-deva halant-deva ra-deva by g_ra-deva;
 sub gha-deva halant-deva ra-deva by gh_ra-deva;
+sub nga-deva halant-deva ra-deva by ng_ra-deva;
+
 sub ca-deva halant-deva ra-deva by c_ra-deva;
+sub cha-deva halant-deva ra-deva by ch_ra-deva;
 sub ja-deva halant-deva ra-deva by j_ra-deva;
 sub jha-deva halant-deva ra-deva by jh_ra-deva;
+sub jha-deva.NEP halant-deva ra-deva by jh_ra-deva.NEP;
 sub nya-deva halant-deva ra-deva by ny_ra-deva;
-sub dda-deva halant-deva ra-deva by dd_ra-deva;
+
 sub tta-deva halant-deva ra-deva by tt_ra-deva;
+sub ttha-deva halant-deva ra-deva by tth_ra-deva;
+sub dda-deva halant-deva ra-deva by dd_ra-deva;
+sub ddha-deva halant-deva ra-deva by ddh_ra-deva;
 sub nna-deva halant-deva ra-deva by nn_ra-deva;
+
 sub ta-deva halant-deva ra-deva by t_ra-deva;
 sub tha-deva halant-deva ra-deva by th_ra-deva;
 sub da-deva halant-deva ra-deva by d_ra-deva;
 sub dha-deva halant-deva ra-deva by dh_ra-deva;
 sub na-deva halant-deva ra-deva by n_ra-deva;
+
 sub pa-deva halant-deva ra-deva by p_ra-deva;
 sub pha-deva halant-deva ra-deva by ph_ra-deva;
 sub ba-deva halant-deva ra-deva by b_ra-deva;
 sub bha-deva halant-deva ra-deva by bh_ra-deva;
 sub ma-deva halant-deva ra-deva by m_ra-deva;
+
 sub ya-deva halant-deva ra-deva by y_ra-deva;
-sub la-deva halant-deva ra-deva by l_ra-deva;
+sub [la-deva la-deva.MAR] halant-deva ra-deva by l_ra-deva;
 sub va-deva halant-deva ra-deva by v_ra-deva;
-sub sha-deva halant-deva ra-deva by sh_ra-deva;
+sub [sha-deva sha-deva.MAR] halant-deva ra-deva by sh_ra-deva;
+
 sub ssa-deva halant-deva ra-deva by ss_ra-deva;
 sub sa-deva halant-deva ra-deva by s_ra-deva;
 sub ha-deva halant-deva ra-deva by h_ra-deva;
-sub fa-deva halant-deva ra-deva by f_ra-deva;
+
+sub qa-deva halant-deva ra-deva by q_ra-deva;
 sub khha-deva halant-deva ra-deva by khh_ra-deva;
+sub ghha-deva halant-deva ra-deva by ghh_ra-deva;
 sub za-deva halant-deva ra-deva by z_ra-deva;
-sub ka-deva rashtra-deva by k_ra-deva;
-sub kha-deva rashtra-deva by kh_ra-deva;
-sub ga-deva rashtra-deva by g_ra-deva;
-sub gha-deva rashtra-deva by gh_ra-deva;
-sub ca-deva rashtra-deva by c_ra-deva;
-sub ja-deva rashtra-deva by j_ra-deva;
-sub jha-deva rashtra-deva by jh_ra-deva;
-sub nya-deva rashtra-deva by ny_ra-deva;
-sub nna-deva rashtra-deva by nn_ra-deva;
-sub ta-deva rashtra-deva by t_ra-deva;
-sub tha-deva rashtra-deva by th_ra-deva;
-sub dha-deva rashtra-deva by dh_ra-deva;
-sub na-deva rashtra-deva by n_ra-deva;
-sub pa-deva rashtra-deva by p_ra-deva;
-sub pha-deva rashtra-deva by ph_ra-deva;
-sub ba-deva rashtra-deva by b_ra-deva;
-sub bha-deva rashtra-deva by bh_ra-deva;
-sub ma-deva rashtra-deva by m_ra-deva;
-sub ya-deva rashtra-deva by y_ra-deva;
-sub la-deva rashtra-deva by l_ra-deva;
-sub va-deva rashtra-deva by v_ra-deva;
-sub sha-deva rashtra-deva by sh_ra-deva;
-sub ssa-deva rashtra-deva by ss_ra-deva;
-sub sa-deva rashtra-deva by s_ra-deva;
-sub ha-deva rashtra-deva by h_ra-deva;
-sub fa-deva rashtra-deva by f_ra-deva;
-sub khha-deva rashtra-deva by khh_ra-deva;
-sub za-deva rashtra-deva by z_ra-deva;
+sub dddha-deva halant-deva ra-deva by dddh_ra-deva;
+sub rha-deva halant-deva ra-deva by rh_ra-deva;
+sub fa-deva halant-deva ra-deva by f_ra-deva;
+sub yya-deva halant-deva ra-deva by yy_ra-deva;
 } rkrf;
 
 feature blwf {
 sub halant-deva ra-deva by rashtra-deva;
+
 sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 } blwf;
 
@@ -847,7 +837,6 @@ sub k_ssa-deva halant-deva by k_ss-deva;
 sub na-deva halant-deva t_ra-deva halant-deva by n_t_r-deva;
 
 
-
 # BICONSONANTAL CONJUNCT HALF FORMS
 sub ja-deva halant-deva ja-deva halant-deva by j_j-deva;
 sub ja-deva halant-deva nya-deva halant-deva by j_ny-deva;
@@ -857,7 +846,6 @@ sub t_ra-deva halant-deva by t_r-deva;
 sub na-deva halant-deva dha-deva halant-deva by n_dh-deva;
 sub ta-deva halant-deva sa-deva halant-deva by t_s-deva;
 sub na-deva halant-deva sa-deva halant-deva by n_s-deva;
-
 
 
 # CONSONANT HALF FORMS
@@ -907,7 +895,54 @@ sub jha-deva.NEP halant-deva by jh-deva.NEP;
 } half;
 
 feature vatu {
-sub halant-deva ra-deva by rashtra-deva;
+sub ka-deva rashtra-deva by k_ra-deva;
+sub kha-deva rashtra-deva by kh_ra-deva;
+sub ga-deva rashtra-deva by g_ra-deva;
+sub gha-deva rashtra-deva by gh_ra-deva;
+sub nga-deva rashtra-deva by ng_ra-deva;
+
+sub ca-deva rashtra-deva by c_ra-deva;
+sub cha-deva rashtra-deva by ch_ra-deva;
+sub ja-deva rashtra-deva by j_ra-deva;
+sub jha-deva rashtra-deva by jh_ra-deva;
+sub jha-deva.NEP rashtra-deva by jh_ra-deva.NEP;
+sub nya-deva rashtra-deva by ny_ra-deva;
+
+sub tta-deva rashtra-deva by tt_ra-deva;
+sub ttha-deva rashtra-deva by tth_ra-deva;
+sub dda-deva rashtra-deva by dd_ra-deva;
+sub ddha-deva rashtra-deva by ddh_ra-deva;
+sub nna-deva rashtra-deva by nn_ra-deva;
+
+sub ta-deva rashtra-deva by t_ra-deva;
+sub tha-deva rashtra-deva by th_ra-deva;
+sub da-deva rashtra-deva by d_ra-deva;
+sub dha-deva rashtra-deva by dh_ra-deva;
+sub na-deva rashtra-deva by n_ra-deva;
+
+sub pa-deva rashtra-deva by p_ra-deva;
+sub pha-deva rashtra-deva by ph_ra-deva;
+sub ba-deva rashtra-deva by b_ra-deva;
+sub bha-deva rashtra-deva by bh_ra-deva;
+sub ma-deva rashtra-deva by m_ra-deva;
+
+sub ya-deva rashtra-deva by y_ra-deva;
+sub [la-deva la-deva.MAR] rashtra-deva by l_ra-deva;
+sub va-deva rashtra-deva by v_ra-deva;
+sub [sha-deva sha-deva.MAR] rashtra-deva by sh_ra-deva;
+
+sub ssa-deva rashtra-deva by ss_ra-deva;
+sub sa-deva rashtra-deva by s_ra-deva;
+sub ha-deva rashtra-deva by h_ra-deva;
+
+sub qa-deva rashtra-deva by q_ra-deva;
+sub khha-deva rashtra-deva by khh_ra-deva;
+sub ghha-deva rashtra-deva by ghh_ra-deva;
+sub za-deva rashtra-deva by z_ra-deva;
+sub dddha-deva rashtra-deva by dddh_ra-deva;
+sub rha-deva rashtra-deva by rh_ra-deva;
+sub fa-deva rashtra-deva by f_ra-deva;
+sub yya-deva rashtra-deva by yy_ra-deva;
 } vatu;
 
 feature cjct {

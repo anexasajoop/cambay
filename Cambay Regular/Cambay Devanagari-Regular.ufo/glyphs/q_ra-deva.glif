@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tt_ra-deva" format="1">
-  <advance width="390"/>
+<glyph name="q_ra-deva" format="1">
+  <advance width="549"/>
   <outline>
-    <component base="tta-deva"/>
-    <component base="rashtra-deva" xOffset="68"/>
+    <component base="k_ra-deva"/>
+    <component base="nukta-deva" xOffset="223" yOffset="24"/>
     <contour>
-      <point x="287" y="447" type="move" name="top"/>
+      <point x="284" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="216" y="-145" type="move" name="bottom"/>
+      <point x="284" y="-95" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

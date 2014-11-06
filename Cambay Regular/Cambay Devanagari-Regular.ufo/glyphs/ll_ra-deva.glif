@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ch_ra-deva" format="1">
-  <advance width="534"/>
+<glyph name="ll_ra-deva" format="1">
+  <advance width="569"/>
   <outline>
-    <component base="cha-deva"/>
-    <component base="rashtra-deva" xOffset="117" yOffset="6"/>
+    <component base="lla-deva"/>
+    <component base="rashtra-deva" xOffset="269" yOffset="30"/>
   </outline>
   <lib>
     <dict>
