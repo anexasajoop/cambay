@@ -718,7 +718,9 @@ iMatra_reph_candraBindu-deva.alt16 ];
 
 feature aalt {
 # automatic
+feature locl;
 feature nukt;
+feature akhn;
 feature rphf;
 feature rkrf;
 feature blwf;
@@ -728,6 +730,7 @@ feature cjct;
 feature pres;
 feature abvs;
 feature psts;
+feature haln;
 } aalt;
 
 feature ccmp {
@@ -1280,4 +1283,11 @@ sub @iiLetters-alt3 @iiMatra' by @iiMatra-alt3;
 sub @iiLetters-alt4 @iiMatra' by @iiMatra-alt4;
 sub @iiLetters-alt5 @iiMatra' by @iiMatra-alt5;
 } psts;
+
+feature haln {
+sub tta-deva halant-deva by tt-deva;
+sub ttha-deva halant-deva by tth-deva;
+sub dda-deva halant-deva by dd-deva;
+sub ddha-deva halant-deva by ddh-deva;
+} haln;
 
