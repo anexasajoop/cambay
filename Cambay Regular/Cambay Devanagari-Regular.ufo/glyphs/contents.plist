@@ -414,6 +414,8 @@
 	<string>cent.glif</string>
 	<key>ch-deva</key>
 	<string>ch-deva.glif</string>
+	<key>ch_ra-deva</key>
+	<string>ch_ra-deva.glif</string>
 	<key>cha-deva</key>
 	<string>cha-deva.glif</string>
 	<key>circumflex</key>
