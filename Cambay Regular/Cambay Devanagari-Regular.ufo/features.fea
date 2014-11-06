@@ -729,6 +729,7 @@ feature vatu;
 feature cjct;
 feature pres;
 feature abvs;
+feature blws;
 feature psts;
 feature haln;
 } aalt;
@@ -1262,21 +1263,29 @@ sub @iMatra' @Conjuncts [reph_candraBindu-deva] by @iMatraRephCandraBindu;
 sub @iMatraRephCandraBindu @Conjuncts' lookup removeReph [reph-deva reph_candraBindu-deva]';
 } abvs;
 
-feature psts {
+feature blws {
 sub ra-deva uuMatra-deva by r_uuMatra-deva;
 sub ra-deva uMatra-deva by r_uMatra-deva;
+
 sub ha-deva uMatra-deva by h_uMatra-deva;
 sub ha-deva uuMatra-deva by h_uuMatra-deva;
+
 sub n_ha-deva uMatra-deva by n_h_uMatra-deva;
 sub n_ha-deva uuMatra-deva by n_h_uuMatra-deva;
 sub m_ha-deva uMatra-deva by m_h_uMatra-deva;
 sub m_ha-deva uuMatra-deva by m_h_uuMatra-deva;
 sub l_ha-deva uMatra-deva by l_h_uMatra-deva;
 sub l_ha-deva uuMatra-deva by l_h_uuMatra-deva;
+
 sub f_ra-deva uMatra-deva by f_r_uMatra-deva;
 sub f_ra-deva uuMatra-deva by f_r_uuMatra-deva;
+
 sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
+
 sub ha-deva rVocalicMatra-deva by h_rVocalicMatra-deva;
+} blws;
+
+feature psts {
 sub @iiLetters-alt1 @iiMatra' by @iiMatra-alt1;
 sub nga-deva @iiMatra' by @iiMatra-alt2;
 sub @iiLetters-alt3 @iiMatra' by @iiMatra-alt3;
