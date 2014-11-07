@@ -234,6 +234,10 @@ name = psts;
 {
 code = "sub nga-deva halant-deva by ng-deva;\012sub tta-deva halant-deva by tt-deva;\012sub ttha-deva halant-deva by tth-deva;\012sub dda-deva halant-deva by dd-deva;\012sub ddha-deva halant-deva by ddh-deva;\012\012sub h_ra-deva halant-deva by h_r-deva;";
 name = haln;
+},
+{
+code = "sub f i by fi;\012sub f l by fl;";
+name = liga;
 }
 );
 fontMaster = (
@@ -84950,5 +84954,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 159;
+versionMinor = 160;
 }

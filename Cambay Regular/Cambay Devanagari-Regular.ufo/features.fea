@@ -1336,3 +1336,8 @@ sub ddha-deva halant-deva by ddh-deva;
 sub h_ra-deva halant-deva by h_r-deva;
 } haln;
 
+feature liga {
+sub f i by fi;
+sub f l by fl;
+} liga;
+
