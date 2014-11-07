@@ -158,7 +158,7 @@ name = iMatraRephCandraBindu;
 }
 );
 copyright = "(c) Copyright Pooja Saxena, 2014.";
-date = "2014-11-07 08:03:10 +0000";
+date = "2014-11-07 08:33:14 +0000";
 designer = "Pooja Saxena";
 designerURL = "http://www.poojasaxena.in/";
 familyName = "Cambay Devanagari";
@@ -201,11 +201,11 @@ code = "# AKHAND CONJUNCT HALF FORMS\012sub k_ssa-deva halant-deva by k_ss-deva;
 name = half;
 },
 {
-code = "# Biconsonantal conjuncts\012\012sub k-deva kha-deva by k_kha-deva;\012sub k-deva ca-deva by k_ca-deva;\012sub k-deva cha-deva by k_cha-deva;\012sub k-deva ta-deva by k_ta-deva;\012sub k-deva tha-deva by k_tha-deva;\012sub k-deva na-deva by k_na-deva;\012sub k-deva ma-deva by k_ma-deva;\012sub k-deva sha-deva by k_sha-deva;\012sub k-deva sa-deva by k_sa-deva;\012sub kh-deva kha-deva by kh_kha-deva;\012sub kh-deva ma-deva by kh_ma-deva;\012sub g-deva na-deva by g_na-deva;\012sub g-deva bha-deva by g_bha-deva;\012sub g-deva sha-deva by g_sha-deva;\012sub gh-deva na-deva by gh_na-deva;\012sub ng-deva ga-deva by ng_ga-deva;\012sub ng-deva ma-deva by ng_ma-deva;\012sub c-deva ca-deva by c_ca-deva;\012sub j-deva ja-deva by j_ja-deva;\012sub j-deva ya-deva by j_ya-deva;\012sub ny-deva jha-deva by ny_jha-deva;\012sub ny-deva sa-deva by ny_sa-deva;\012sub tt-deva tta-deva by tt_tta-deva;\012sub tt-deva ttha-deva by tt_ttha-deva;\012sub tt-deva ya-deva by tt_ya-deva;\012sub tt-deva va-deva by tt_va-deva;\012sub tth-deva ttha-deva by tth_ttha-deva;\012sub tth-deva ya-deva by tth_ya-deva;\012sub dd-deva ga-deva by dd_ga-deva;\012sub dd-deva dda-deva by dd_dda-deva;\012sub dd-deva ya-deva by dd_ya-deva;\012sub ddh-deva ya-deva by ddh_ya-deva;\012sub t-deva kha-deva by t_kha-deva;\012sub t-deva ta-deva by t_ta-deva;\012sub t-deva tha-deva by t_tha-deva;\012sub t-deva na-deva by t_na-deva;\012sub t-deva ma-deva by t_ma-deva;\012sub t-deva ya-deva by t_ya-deva;\012sub t-deva la-deva by t_la-deva;\012sub t-deva sa-deva by t_sa-deva;\012sub d-deva ga-deva by d_ga-deva;\012sub d-deva gha-deva by d_gha-deva;\012sub d-deva da-deva by d_da-deva;\012sub d-deva dha-deva by d_dha-deva;\012sub d-deva na-deva by d_na-deva;\012sub d-deva ba-deva by d_ba-deva;\012sub d-deva bha-deva by d_bha-deva;\012sub d-deva ma-deva by d_ma-deva;\012sub d-deva ya-deva by d_ya-deva;\012sub d-deva va-deva by d_va-deva;\012sub n-deva kha-deva by n_kha-deva;\012sub n-deva ca-deva by n_ca-deva;\012sub n-deva ja-deva by n_ja-deva;\012sub n-deva dda-deva by n_dda-deva;\012sub n-deva t_ra-deva by n_t_ra-deva;\012sub n-deva tha-deva by n_tha-deva;\012sub n-deva dha-deva by n_dha-deva;\012sub n-deva na-deva by n_na-deva;\012sub n-deva ma-deva by n_ma-deva;\012sub n-deva ya-deva by n_ya-deva;\012sub n-deva sha-deva by n_sha-deva;\012sub n-deva sa-deva by n_sa-deva;\012sub n-deva ha-deva by n_ha-deva;\012sub n-deva h-deva uMatra-deva by n_h_uMatra-deva;\012sub n-deva h-deva uuMatra-deva by n_h_uuMatra-deva;\012sub n-deva za-deva by n_za-deva;\012sub p-deva na-deva by p_na-deva;\012sub b-deva ja-deva by b_ja-deva;\012sub b-deva dha-deva by b_dha-deva;\012sub b-deva bha-deva by b_bha-deva;\012sub b-deva sha-deva by b_sha-deva;\012sub b-deva za-deva by b_za-deva;\012sub bh-deva bha-deva by bh_bha-deva;\012sub bh-deva ya-deva by bh_ya-deva;\012sub m-deva ca-deva by m_ca-deva;\012sub m-deva na-deva by m_na-deva;\012sub m-deva bha-deva by m_bha-deva;\012sub m-deva ma-deva by m_ma-deva;\012sub rr-deva ha-deva by rr_ha-deva;\012sub rr-deva h-deva uMatra-deva by rr_h_uMatra-deva;\012sub rr-deva h-deva uuMatra-deva by rr_h_uuMatra-deva;\012sub l-deva kha-deva by l_kha-deva;\012sub l-deva ja-deva by l_ja-deva;\012sub l-deva bha-deva by l_bha-deva;\012sub l-deva ma-deva by l_ma-deva;\012sub l-deva sha-deva by l_sha-deva;\012sub l-deva khha-deva by l_khha-deva;\012sub l-deva za-deva by l_za-deva;\012sub sh-deva ka-deva by sh_ka-deva;\012sub sh-deva ca-deva by sh_ca-deva;\012sub sh-deva cha-deva by sh_cha-deva;\012sub sh-deva tta-deva by sh_tta-deva;\012sub sh-deva ta-deva by sh_ta-deva;\012sub sh-deva na-deva by sh_na-deva; \012sub sh-deva ma-deva by sh_ma-deva;\012sub sh-deva ya-deva by sh_ya-deva;\012sub sh-deva la-deva by sh_la-deva;\012sub sh-deva va-deva by sh_va-deva;\012sub sh-deva sha-deva by sh_sha-deva;\012sub sh-deva qa-deva by sh_qa-deva;\012sub s-deva kha-deva by s_kha-deva;\012sub s-deva dda-deva by s_dda-deva;\012sub s-deva tha-deva by s_tha-deva;\012sub s-deva na-deva by s_na-deva;\012sub s-deva ma-deva by s_ma-deva;\012sub s-deva sa-deva by s_sa-deva;\012sub h-deva nna-deva by h_nna-deva;\012sub h-deva na-deva by h_na-deva;\012sub h-deva ma-deva by h_ma-deva;\012sub h-deva la-deva by h_la-deva;\012sub h-deva va-deva by h_va-deva;\012sub h-deva uMatra-deva by h_uMatra-deva;\012sub h-deva uuMatra-deva by h_uuMatra-deva;\012sub q-deva sha-deva by q_sha-deva;\012sub q-deva sa-deva by q_sa-deva;\012sub khh-deva ma-deva by khh_ma-deva;\012sub khh-deva sha-deva by khh_sha-deva;\012sub khh-deva sa-deva by khh_sa-deva;\012sub z-deva ma-deva by z_ma-deva;\012sub z-deva ya-deva by z_ya-deva;\012sub z-deva za-deva by z_za-deva;\012sub f-deva tha-deva by f_tha-deva;\012sub f-deva sha-deva by f_sha-deva;\012sub f-deva sa-deva by f_sa-deva;\012sub f-deva za-deva by f_za-deva;\012\012\012# Triconsonantal conjuncts\012\012#sub k_ss-deva nna-deva by k_ss_nna-deva; # Conjuncts using Akhand half-forms\012sub k_ss-deva ma-deva by k_ss_ma-deva; # Conjuncts using Akhand half-forms\012sub k_ss-deva ya-deva by k_ss_ya-deva; # Conjuncts using Akhand half-forms\012sub j_j-deva ya-deva by j_j_ya-deva;\012sub t-deva n-deva ya-deva by t_n_ya-deva;\012sub t-deva t-deva ya-deva by t_t_ya-deva;\012sub t-deva s-deva tha-deva by t_s_tha-deva;\012sub t_s-deva na-deva by t_s_na-deva;\012sub n-deva dh_ra-deva by n_dh_ra-deva;\012sub m-deva bh_ra-deva by m_bh_ra-deva;\012sub l-deva bh-deva ya-deva by l_bh_ya-deva; #Conjunct involving three consonants with both pairs forming a ligature each\012sub s-deva t_ra-deva by s_t_ra-deva;\012sub d_ra-deva halant-deva ya-deva by d_r_ya-deva; #Trying\012sub p-deva c-deva ya-deva by p_c_ya-deva;\012\012\012\012";
+code = "# BICONSONANTAL CONJUNCTS\012\012\012sub ng-deva ga-deva by ng_ga-deva;\012sub ng-deva ma-deva by ng_ma-deva;\012\012sub c-deva ca-deva by c_ca-deva;\012\012sub j-deva ja-deva by j_ja-deva;\012\012sub ny-deva jha-deva by ny_jha-deva;\012sub ny-deva sa-deva by ny_sa-deva;\012\012sub tt-deva tta-deva by tt_tta-deva;\012sub tt-deva ttha-deva by tt_ttha-deva;\012sub tt-deva ya-deva by tt_ya-deva;\012sub tt-deva va-deva by tt_va-deva;\012\012sub tth-deva ttha-deva by tth_ttha-deva;\012sub tth-deva ya-deva by tth_ya-deva;\012\012sub dd-deva ga-deva by dd_ga-deva;\012sub dd-deva dda-deva by dd_dda-deva;\012sub dd-deva ya-deva by dd_ya-deva;\012\012sub ddh-deva ya-deva by ddh_ya-deva;\012\012sub d-deva ga-deva by d_ga-deva;\012sub d-deva gha-deva by d_gha-deva;\012sub d-deva da-deva by d_da-deva;\012sub d-deva dha-deva by d_dha-deva;\012sub d-deva na-deva by d_na-deva;\012sub d-deva ba-deva by d_ba-deva;\012sub d-deva bha-deva by d_bha-deva;\012sub d-deva ma-deva by d_ma-deva;\012sub d-deva ya-deva by d_ya-deva;\012sub d-deva va-deva by d_va-deva;\012\012sub h-deva nna-deva by h_nna-deva;\012sub h-deva na-deva by h_na-deva;\012sub h-deva ma-deva by h_ma-deva;\012sub h-deva la-deva by h_la-deva;\012sub h-deva va-deva by h_va-deva;\012sub h-deva uMatra-deva by h_uMatra-deva;\012sub h-deva uuMatra-deva by h_uuMatra-deva;\012\012\012\012\012";
 name = cjct;
 },
 {
-code = "sub iMatra-deva' @iLetters-alt1 by iMatra-deva.alt1;\012sub iMatra-deva' @iLetters-alt2 by iMatra-deva.alt2;\012sub iMatra-deva' @iLetters-alt3 by iMatra-deva.alt3;\012sub iMatra-deva' @iLetters-alt4 by iMatra-deva.alt4;\012sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;\012sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;\012sub iMatra-deva' @iLetters-alt7 by iMatra-deva.alt7;\012sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;\012sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;\012sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;\012sub iMatra-deva' @iLetters-alt11 by iMatra-deva.alt11;\012sub iMatra-deva' @iLetters-alt12 by iMatra-deva.alt12;\012sub iMatra-deva' @iLetters-alt13 by iMatra-deva.alt13;\012sub iMatra-deva' @iLetters-alt14 by iMatra-deva.alt14;\012sub iMatra-deva' @iLetters-alt15 by iMatra-deva.alt15;\012sub iMatra-deva' @iLetters-alt16 by iMatra-deva.alt16;\012sub iMatra-deva' @iLetters-alt17 by iMatra-deva.alt17;\012sub iMatra-deva' @iLetters-alt18 by iMatra-deva.alt18;\012sub iMatra-deva' @iLetters-alt19 by iMatra-deva.alt19;\012sub iMatra-deva' @iLetters-alt20 by iMatra-deva.alt20;\012sub iMatra-deva' @iLetters-alt21 by iMatra-deva.alt21;";
+code = "###################################\012# Presentation forms of conjuncts #\012###################################\012\012# BICONSONANTAL CONJUNCTS\012\012sub k-deva kha-deva by k_kha-deva;\012sub k-deva ca-deva by k_ca-deva;\012sub k-deva cha-deva by k_cha-deva;\012sub k-deva ta-deva by k_ta-deva;\012sub k-deva tha-deva by k_tha-deva;\012sub k-deva na-deva by k_na-deva;\012sub k-deva ma-deva by k_ma-deva;\012sub k-deva sha-deva by k_sha-deva;\012sub k-deva sa-deva by k_sa-deva;\012\012sub kh-deva kha-deva by kh_kha-deva;\012sub kh-deva ma-deva by kh_ma-deva;\012\012sub g-deva na-deva by g_na-deva;\012sub g-deva bha-deva by g_bha-deva;\012sub g-deva sha-deva by g_sha-deva;\012\012sub gh-deva na-deva by gh_na-deva;\012\012sub j-deva ya-deva by j_ya-deva;\012\012sub t-deva kha-deva by t_kha-deva;\012sub t-deva ta-deva by t_ta-deva;\012sub t-deva tha-deva by t_tha-deva;\012sub t-deva na-deva by t_na-deva;\012sub t-deva ma-deva by t_ma-deva;\012sub t-deva ya-deva by t_ya-deva;\012sub t-deva la-deva by t_la-deva;\012sub t-deva sa-deva by t_sa-deva;\012\012sub n-deva kha-deva by n_kha-deva;\012sub n-deva ca-deva by n_ca-deva;\012sub n-deva ja-deva by n_ja-deva;\012sub n-deva dda-deva by n_dda-deva;\012sub n-deva t_ra-deva by n_t_ra-deva;\012sub n-deva tha-deva by n_tha-deva;\012sub n-deva dha-deva by n_dha-deva;\012sub n-deva na-deva by n_na-deva;\012sub n-deva ma-deva by n_ma-deva;\012sub n-deva ya-deva by n_ya-deva;\012sub n-deva sha-deva by n_sha-deva;\012sub n-deva sa-deva by n_sa-deva;\012sub n-deva ha-deva by n_ha-deva;\012sub n-deva h-deva uMatra-deva by n_h_uMatra-deva;\012sub n-deva h-deva uuMatra-deva by n_h_uuMatra-deva;\012sub n-deva za-deva by n_za-deva;\012\012sub p-deva na-deva by p_na-deva;\012\012sub b-deva ja-deva by b_ja-deva;\012sub b-deva dha-deva by b_dha-deva;\012sub b-deva bha-deva by b_bha-deva;\012sub b-deva sha-deva by b_sha-deva;\012sub b-deva za-deva by b_za-deva;\012\012sub bh-deva bha-deva by bh_bha-deva;\012sub bh-deva ya-deva by bh_ya-deva;\012\012sub m-deva ca-deva by m_ca-deva;\012sub m-deva na-deva by m_na-deva;\012sub m-deva bha-deva by m_bha-deva;\012sub m-deva ma-deva by m_ma-deva;\012\012sub rr-deva ha-deva by rr_ha-deva;\012sub rr-deva h-deva uMatra-deva by rr_h_uMatra-deva;\012sub rr-deva h-deva uuMatra-deva by rr_h_uuMatra-deva;\012\012sub l-deva kha-deva by l_kha-deva;\012sub l-deva ja-deva by l_ja-deva;\012sub l-deva bha-deva by l_bha-deva;\012sub l-deva ma-deva by l_ma-deva;\012sub l-deva sha-deva by l_sha-deva;\012sub l-deva khha-deva by l_khha-deva;\012sub l-deva za-deva by l_za-deva;\012\012sub sh-deva ka-deva by sh_ka-deva;\012sub sh-deva ca-deva by sh_ca-deva;\012sub sh-deva cha-deva by sh_cha-deva;\012sub sh-deva tta-deva by sh_tta-deva;\012sub sh-deva ta-deva by sh_ta-deva;\012sub sh-deva na-deva by sh_na-deva; \012sub sh-deva ma-deva by sh_ma-deva;\012sub sh-deva ya-deva by sh_ya-deva;\012sub sh-deva la-deva by sh_la-deva;\012sub sh-deva va-deva by sh_va-deva;\012sub sh-deva sha-deva by sh_sha-deva;\012sub sh-deva qa-deva by sh_qa-deva;\012\012sub s-deva kha-deva by s_kha-deva;\012sub s-deva dda-deva by s_dda-deva;\012sub s-deva tha-deva by s_tha-deva;\012sub s-deva na-deva by s_na-deva;\012sub s-deva ma-deva by s_ma-deva;\012sub s-deva sa-deva by s_sa-deva;\012\012sub q-deva sha-deva by q_sha-deva;\012sub q-deva sa-deva by q_sa-deva;\012\012sub khh-deva ma-deva by khh_ma-deva;\012sub khh-deva sha-deva by khh_sha-deva;\012sub khh-deva sa-deva by khh_sa-deva;\012\012sub z-deva ma-deva by z_ma-deva;\012sub z-deva ya-deva by z_ya-deva;\012sub z-deva za-deva by z_za-deva;\012\012sub f-deva tha-deva by f_tha-deva;\012sub f-deva sha-deva by f_sha-deva;\012sub f-deva sa-deva by f_sa-deva;\012sub f-deva za-deva by f_za-deva;\012\012\012\012# TRICONSONANTAL CONJUNCTS\012\012sub k_ss-deva nna-deva by k_ss_nna-deva; # Conjuncts using Akhand half-forms\012sub k_ss-deva ma-deva by k_ss_ma-deva; # Conjuncts using Akhand half-forms\012sub k_ss-deva ya-deva by k_ss_ya-deva; # Conjuncts using Akhand half-forms\012\012sub j_j-deva ya-deva by j_j_ya-deva;\012\012sub t-deva n-deva ya-deva by t_n_ya-deva;\012sub t-deva t-deva ya-deva by t_t_ya-deva;\012sub t-deva s-deva tha-deva by t_s_tha-deva;\012sub t_s-deva na-deva by t_s_na-deva;\012sub t_t-deva ya-deva by t_t_ya-deva; # Conjuncts using biconsonantal half-forms\012\012sub n-deva dh_ra-deva by n_dh_ra-deva;\012\012sub m-deva bh_ra-deva by m_bh_ra-deva;\012\012sub l-deva bh-deva ya-deva by l_bh_ya-deva; #Conjunct involving three consonants with both pairs forming a ligature each\012\012sub s-deva t_ra-deva by s_t_ra-deva;\012\012sub d_ra-deva halant-deva ya-deva by d_r_ya-deva; #Trying\012\012sub p-deva c-deva ya-deva by p_c_ya-deva;\012\012\012\012#######################################################\012# Substituting correct ikar matras according to width #\012#######################################################\012\012sub iMatra-deva' @iLetters-alt1 by iMatra-deva.alt1;\012sub iMatra-deva' @iLetters-alt2 by iMatra-deva.alt2;\012sub iMatra-deva' @iLetters-alt3 by iMatra-deva.alt3;\012sub iMatra-deva' @iLetters-alt4 by iMatra-deva.alt4;\012sub iMatra-deva' @iLetters-alt5 by iMatra-deva.alt5;\012sub iMatra-deva' @iLetters-alt6 by iMatra-deva.alt6;\012sub iMatra-deva' @iLetters-alt7 by iMatra-deva.alt7;\012sub iMatra-deva' @iLetters-alt8 by iMatra-deva.alt8;\012sub iMatra-deva' @iLetters-alt9 by iMatra-deva.alt9;\012sub iMatra-deva' @iLetters-alt10 by iMatra-deva.alt10;\012sub iMatra-deva' @iLetters-alt11 by iMatra-deva.alt11;\012sub iMatra-deva' @iLetters-alt12 by iMatra-deva.alt12;\012sub iMatra-deva' @iLetters-alt13 by iMatra-deva.alt13;\012sub iMatra-deva' @iLetters-alt14 by iMatra-deva.alt14;\012sub iMatra-deva' @iLetters-alt15 by iMatra-deva.alt15;\012sub iMatra-deva' @iLetters-alt16 by iMatra-deva.alt16;\012sub iMatra-deva' @iLetters-alt17 by iMatra-deva.alt17;\012sub iMatra-deva' @iLetters-alt18 by iMatra-deva.alt18;\012sub iMatra-deva' @iLetters-alt19 by iMatra-deva.alt19;\012sub iMatra-deva' @iLetters-alt20 by iMatra-deva.alt20;\012sub iMatra-deva' @iLetters-alt21 by iMatra-deva.alt21;";
 name = pres;
 },
 {
@@ -17832,6 +17832,139 @@ nodes = (
 }
 );
 width = 493;
+}
+);
+leftMetricsKey = "k-deva";
+},
+{
+color = 8;
+glyphname = "k_ss_nna-deva";
+lastChange = "2014-11-07 08:53:31 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{806, 5}";
+},
+{
+name = top;
+position = "{806, 447}";
+}
+);
+background = {
+anchors = (
+{
+name = top;
+position = "{836, 447}";
+},
+{
+name = bottom;
+position = "{836, 5}";
+}
+);
+components = (
+{
+name = "k_ss-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"794 0 LINE",
+"879 0 LINE",
+"879 466 LINE",
+"794 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"344 466 LINE",
+"344 396 LINE",
+"968 396 LINE",
+"968 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"656 78 OFFCURVE",
+"708 131 OFFCURVE",
+"708 227 CURVE SMOOTH",
+"708 436 LINE",
+"619 436 LINE",
+"619 260 LINE SMOOTH",
+"619 196 OFFCURVE",
+"617 161 OFFCURVE",
+"568 161 CURVE SMOOTH",
+"519 161 OFFCURVE",
+"517 196 OFFCURVE",
+"517 260 CURVE SMOOTH",
+"517 436 LINE",
+"428 436 LINE",
+"428 227 LINE SMOOTH",
+"428 130 OFFCURVE",
+"476 78 OFFCURVE",
+"569 78 CURVE SMOOTH"
+);
+}
+);
+};
+components = (
+{
+name = "k_ss-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"764 0 LINE",
+"849 0 LINE",
+"849 466 LINE",
+"764 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"344 466 LINE",
+"344 396 LINE",
+"938 396 LINE",
+"938 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"626 78 OFFCURVE",
+"678 131 OFFCURVE",
+"678 227 CURVE SMOOTH",
+"678 436 LINE",
+"589 436 LINE",
+"589 260 LINE SMOOTH",
+"589 196 OFFCURVE",
+"587 161 OFFCURVE",
+"538 161 CURVE SMOOTH",
+"489 161 OFFCURVE",
+"487 196 OFFCURVE",
+"487 260 CURVE SMOOTH",
+"487 436 LINE",
+"398 436 LINE",
+"398 227 LINE SMOOTH",
+"398 130 OFFCURVE",
+"446 78 OFFCURVE",
+"539 78 CURVE SMOOTH"
+);
+}
+);
+width = 914;
 }
 );
 leftMetricsKey = "k-deva";
@@ -81019,5 +81152,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 66;
+versionMinor = 68;
 }
