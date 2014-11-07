@@ -450,6 +450,7 @@
 		<string>l_khha-deva</string>
 		<string>l_za-deva</string>
 		<string>ll_ra-deva</string>
+		<string>lll_ra-deva</string>
 		<string>v_ra-deva</string>
 		<string>sh_ca-deva</string>
 		<string>sh_na-deva</string>
@@ -557,50 +558,77 @@
 		<string>ue-deva</string>
 		<string>uue-deva</string>
 		<string>k-deva</string>
+		<string>k_r-deva</string>
 		<string>k_ss-deva</string>
+		<string>k_s-deva</string>
 		<string>kh-deva</string>
+		<string>kh_r-deva</string>
 		<string>g-deva</string>
+		<string>g_r-deva</string>
 		<string>gh-deva</string>
+		<string>gh_r-deva</string>
 		<string>ng-deva</string>
 		<string>c-deva</string>
+		<string>c_r-deva</string>
 		<string>ch-deva</string>
 		<string>j-deva</string>
 		<string>j_j-deva</string>
 		<string>j_ny-deva</string>
+		<string>j_r-deva</string>
 		<string>jh-deva</string>
+		<string>jh_r-deva</string>
 		<string>ny-deva</string>
+		<string>ny_r-deva</string>
 		<string>tt-deva</string>
 		<string>tth-deva</string>
 		<string>dd-deva</string>
 		<string>ddh-deva</string>
 		<string>nn-deva</string>
+		<string>nn_r-deva</string>
 		<string>t-deva</string>
 		<string>t_t-deva</string>
 		<string>t_r-deva</string>
 		<string>t_s-deva</string>
 		<string>th-deva</string>
+		<string>th_r-deva</string>
 		<string>d-deva</string>
 		<string>dh-deva</string>
+		<string>dh_r-deva</string>
 		<string>n-deva</string>
 		<string>n_t_r-deva</string>
 		<string>n_dh-deva</string>
+		<string>n_r-deva</string>
 		<string>n_s-deva</string>
 		<string>nnn-deva</string>
 		<string>p-deva</string>
+		<string>p_r-deva</string>
 		<string>ph-deva</string>
+		<string>ph_r-deva</string>
 		<string>b-deva</string>
+		<string>b_r-deva</string>
 		<string>bh-deva</string>
+		<string>bh_r-deva</string>
 		<string>m-deva</string>
+		<string>m_r-deva</string>
 		<string>y-deva</string>
+		<string>y_r-deva</string>
 		<string>rr-deva</string>
 		<string>l-deva</string>
+		<string>l_r-deva</string>
 		<string>ll-deva</string>
+		<string>ll_r-deva</string>
 		<string>lll-deva</string>
+		<string>lll_r-deva</string>
 		<string>v-deva</string>
+		<string>v_r-deva</string>
 		<string>sh-deva</string>
+		<string>sh_r-deva</string>
 		<string>ss-deva</string>
+		<string>ss_r-deva</string>
 		<string>s-deva</string>
+		<string>s_r-deva</string>
 		<string>h-deva</string>
+		<string>h_r-deva</string>
 		<string>q-deva</string>
 		<string>khh-deva</string>
 		<string>ghh-deva</string>
@@ -762,6 +790,8 @@
 		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>nbspace</string>
+		<string>zerowidthjoiner</string>
+		<string>zerowidthnonjoiner</string>
 		<string>.notdef</string>
 		<string>cent</string>
 		<string>currency</string>

@@ -769,6 +769,8 @@ sub ya-deva nukta-deva by yya-deva;
 feature akhn {
 sub ka-deva halant-deva ssa-deva by k_ssa-deva;
 sub ja-deva halant-deva nya-deva by j_nya-deva;
+
+sub ra-deva' halant-deva' zerowidthjoiner by rr-deva;
 } akhn;
 
 feature rphf {
@@ -809,6 +811,8 @@ sub ma-deva halant-deva ra-deva by m_ra-deva;
 
 sub ya-deva halant-deva ra-deva by y_ra-deva;
 sub [la-deva la-deva.MAR] halant-deva ra-deva by l_ra-deva;
+sub lla-deva halant-deva ra-deva by ll_ra-deva;
+sub llla-deva halant-deva ra-deva by lll_ra-deva;
 sub va-deva halant-deva ra-deva by v_ra-deva;
 sub [sha-deva sha-deva.MAR] halant-deva ra-deva by sh_ra-deva;
 
@@ -845,12 +849,40 @@ sub na-deva halant-deva t_ra-deva halant-deva by n_t_r-deva;
 sub ja-deva halant-deva ja-deva halant-deva by j_j-deva;
 sub ja-deva halant-deva nya-deva halant-deva by j_ny-deva;
 sub ka-deva halant-deva ssa-deva halant-deva by k_ss-deva;
+sub ka-deva halant-deva sa-deva halant-deva by k_s-deva;
 sub ta-deva halant-deva ta-deva halant-deva by t_t-deva;
 sub t_ra-deva halant-deva by t_r-deva;
 sub na-deva halant-deva dha-deva halant-deva by n_dh-deva;
 sub ta-deva halant-deva sa-deva halant-deva by t_s-deva;
 sub na-deva halant-deva sa-deva halant-deva by n_s-deva;
 
+# RAKAR CONJUNCT HALF FORMS
+sub k_ra-deva halant-deva by k_r-deva;
+sub kh_ra-deva halant-deva by kh_r-deva;
+sub g_ra-deva halant-deva by g_r-deva;
+sub gh_ra-deva halant-deva by gh_r-deva;
+sub c_ra-deva halant-deva by c_r-deva;
+sub j_ra-deva halant-deva by j_r-deva;
+sub jh_ra-deva halant-deva by jh_r-deva;
+sub ny_ra-deva halant-deva by ny_r-deva;
+sub nn_ra-deva halant-deva by nn_r-deva;
+sub th_ra-deva halant-deva by th_r-deva;
+sub dh_ra-deva halant-deva by dh_r-deva;
+sub n_ra-deva halant-deva by n_r-deva;
+sub p_ra-deva halant-deva by p_r-deva;
+sub ph_ra-deva halant-deva by ph_r-deva;
+sub b_ra-deva halant-deva by b_r-deva;
+sub bh_ra-deva halant-deva by bh_r-deva;
+sub m_ra-deva halant-deva by m_r-deva;
+sub y_ra-deva halant-deva by y_r-deva;
+sub l_ra-deva halant-deva by l_r-deva;
+sub ll_ra-deva halant-deva by ll_r-deva;
+sub lll_ra-deva halant-deva by lll_r-deva;
+sub v_ra-deva halant-deva by v_r-deva;
+sub sh_ra-deva halant-deva by sh_r-deva;
+sub ss_ra-deva halant-deva by ss_r-deva;
+sub s_ra-deva halant-deva by s_r-deva;
+sub h_ra-deva halant-deva by h_r-deva;
 
 # CONSONANT HALF FORMS
 sub ka-deva halant-deva by k-deva;
@@ -932,6 +964,8 @@ sub ma-deva rashtra-deva by m_ra-deva;
 
 sub ya-deva rashtra-deva by y_ra-deva;
 sub [la-deva la-deva.MAR] rashtra-deva by l_ra-deva;
+sub lla-deva rashtra-deva by ll_ra-deva;
+sub llla-deva rashtra-deva by lll_ra-deva;
 sub va-deva rashtra-deva by v_ra-deva;
 sub [sha-deva sha-deva.MAR] rashtra-deva by sh_ra-deva;
 
@@ -1302,5 +1336,7 @@ sub tta-deva halant-deva by tt-deva;
 sub ttha-deva halant-deva by tth-deva;
 sub dda-deva halant-deva by dd-deva;
 sub ddha-deva halant-deva by ddh-deva;
+
+sub h_ra-deva halant-deva by h_r-deva;
 } haln;
 
