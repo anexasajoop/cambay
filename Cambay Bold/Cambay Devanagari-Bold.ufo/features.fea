@@ -866,6 +866,7 @@ sub na-deva halant-deva t_ra-deva halant-deva by n_t_r-deva;
 
 # BICONSONANTAL CONJUNCT HALF FORMS
 
+sub ka-deva halant-deva sa-deva halant-deva by k_s-deva;
 sub ja-deva halant-deva ja-deva halant-deva by j_j-deva;
 sub ta-deva halant-deva ta-deva halant-deva by t_t-deva;
 sub ta-deva halant-deva ma-deva halant-deva by t_m-deva;
@@ -1047,8 +1048,6 @@ sub h-deva na-deva by h_na-deva;
 sub h-deva ma-deva by h_ma-deva;
 sub h-deva la-deva by h_la-deva;
 sub h-deva va-deva by h_va-deva;
-sub h-deva uMatra-deva by h_uMatra-deva;
-sub h-deva uuMatra-deva by h_uuMatra-deva;
 } cjct;
 
 feature pres {
@@ -1101,8 +1100,6 @@ sub n-deva ya-deva by n_ya-deva;
 sub n-deva sha-deva by n_sha-deva;
 sub n-deva sa-deva by n_sa-deva;
 sub n-deva ha-deva by n_ha-deva;
-sub n-deva h-deva uMatra-deva by n_h_uMatra-deva;
-sub n-deva h-deva uuMatra-deva by n_h_uuMatra-deva;
 sub n-deva za-deva by n_za-deva;
 
 sub p-deva na-deva by p_na-deva;
@@ -1122,8 +1119,6 @@ sub m-deva bha-deva by m_bha-deva;
 sub m-deva ma-deva by m_ma-deva;
 
 sub rr-deva ha-deva by rr_ha-deva;
-sub rr-deva h-deva uMatra-deva by rr_h_uMatra-deva;
-sub rr-deva h-deva uuMatra-deva by rr_h_uuMatra-deva;
 
 sub l-deva kha-deva by l_kha-deva;
 sub l-deva ja-deva by l_ja-deva;
@@ -1290,6 +1285,23 @@ sub @iMatraRephCandraBindu @FullForms' lookup removeReph [reph-deva reph_candraB
 sub @iMatra' @Conjuncts [reph_candraBindu-deva] by @iMatraRephCandraBindu; 
 sub @iMatraRephCandraBindu @Conjuncts' lookup removeReph [reph-deva reph_candraBindu-deva]';
 } abvs;
+
+feature blws {
+sub ra-deva uuMatra-deva by r_uuMatra-deva;
+sub ra-deva uMatra-deva by r_uMatra-deva;
+
+sub ha-deva uMatra-deva by h_uMatra-deva;
+sub ha-deva uuMatra-deva by h_uuMatra-deva;
+
+sub n_ha-deva uMatra-deva by n_h_uMatra-deva;
+sub n_ha-deva uuMatra-deva by n_h_uuMatra-deva;
+sub rr_ha-deva uMatra-deva by rr_h_uMatra-deva;
+sub rr_ha-deva uuMatra-deva by rr_h_uuMatra-deva;
+
+sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
+
+sub ha-deva rVocalicMatra-deva by h_rVocalicMatra-deva;
+} blws;
 
 feature psts {
 sub ra-deva uMatra-deva by r_uMatra-deva;

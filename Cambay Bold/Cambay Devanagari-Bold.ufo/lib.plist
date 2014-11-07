@@ -374,6 +374,7 @@
 		<string>d_ra-deva</string>
 		<string>d_r_ya-deva</string>
 		<string>d_va-deva</string>
+		<string>d_rVocalicMatra-deva</string>
 		<string>dh_ra-deva</string>
 		<string>n_kha-deva</string>
 		<string>n_ca-deva</string>
@@ -461,6 +462,7 @@
 		<string>h_va-deva</string>
 		<string>h_uMatra-deva</string>
 		<string>h_uuMatra-deva</string>
+		<string>h_rVocalicMatra-deva</string>
 		<string>q_ra-deva</string>
 		<string>q_sha-deva</string>
 		<string>q_sa-deva</string>
@@ -538,6 +540,7 @@
 		<string>k-deva</string>
 		<string>k_r-deva</string>
 		<string>k_ss-deva</string>
+		<string>k_s-deva</string>
 		<string>kh-deva</string>
 		<string>kh_r-deva</string>
 		<string>g-deva</string>
