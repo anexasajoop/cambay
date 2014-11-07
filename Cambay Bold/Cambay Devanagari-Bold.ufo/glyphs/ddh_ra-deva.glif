@@ -4,6 +4,12 @@
   <outline>
     <component base="ddha-deva"/>
     <component base="rashtra-deva" xOffset="83" yOffset="-10"/>
+    <contour>
+      <point x="294" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="235" y="-204" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
