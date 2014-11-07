@@ -3,7 +3,7 @@
   <advance width="503"/>
   <outline>
     <component base="nga-deva"/>
-    <component base="halant-deva" xOffset="396"/>
+    <component base="halant-deva" xOffset="145" yOffset="-13"/>
   </outline>
   <lib>
     <dict>

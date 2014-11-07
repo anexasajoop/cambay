@@ -223,6 +223,10 @@ name = abvs;
 {
 code = "sub ra-deva uMatra-deva by r_uMatra-deva;\012sub ra-deva uuMatra-deva by r_uuMatra-deva;\012\012sub ha-deva uMatra-deva by h_uMatra-deva;\012sub ha-deva uuMatra-deva by h_uuMatra-deva;\012\012sub n_ha-deva uMatra-deva by n_h_uMatra-deva;\012sub n_ha-deva uuMatra-deva by n_h_uuMatra-deva;\012sub rr_ha-deva uMatra-deva by rr_h_uMatra-deva;\012sub rr_ha-deva uuMatra-deva by rr_h_uuMatra-deva;\012\012sub @iiLetters-alt1 @iiMatra' by @iiMatra-alt1;\012sub @iiLetters-alt2 @iiMatra' by @iiMatra-alt2;\012sub @iiLetters-alt3 @iiMatra' by @iiMatra-alt3;\012sub @iiLetters-alt4 @iiMatra' by @iiMatra-alt4;\012sub @iiLetters-alt5 @iiMatra' by @iiMatra-alt5;";
 name = psts;
+},
+{
+code = "sub tta-deva halant-deva by tt-deva;\012sub ttha-deva halant-deva by tth-deva;\012sub dda-deva halant-deva by dd-deva;\012sub ddha-deva halant-deva by ddh-deva;";
+name = haln;
 }
 );
 fontMaster = (
@@ -14129,10 +14133,14 @@ unicode = 0938;
 },
 {
 glyphname = "ha-deva";
-lastChange = "2014-09-25 07:13:09 +0000";
+lastChange = "2014-11-07 11:03:17 +0000";
 layers = (
 {
 anchors = (
+{
+name = bottom;
+position = "{213, -60}";
+},
 {
 name = top;
 position = "{300, 447}";
@@ -53067,7 +53075,7 @@ width = 286;
 {
 color = 9;
 glyphname = "ng-deva";
-lastChange = "2014-09-22 06:42:07 +0000";
+lastChange = "2014-11-07 10:58:39 +0000";
 layers = (
 {
 components = (
@@ -53077,7 +53085,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = "halant-deva";
-transform = "{1, 0, 0, 1, 396, 0}";
+transform = "{1, 0, 0, 1, 145, -13}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
@@ -53896,21 +53904,34 @@ width = 411;
 {
 color = 9;
 glyphname = "tt-deva";
-lastChange = "2014-09-23 11:45:52 +0000";
+lastChange = "2014-11-07 10:59:49 +0000";
 layers = (
 {
 components = (
 {
 name = "tta-deva";
 transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = "halant-deva";
-transform = "{1, 0, 0, 1, 386, 0}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"273 -42 OFFCURVE",
+"339 -111 OFFCURVE",
+"379 -161 CURVE",
+"379 -161 OFFCURVE",
+"322 -209 OFFCURVE",
+"322 -209 CURVE",
+"261 -134 OFFCURVE",
+"207 -117 OFFCURVE",
+"128 -117 CURVE",
+"128 -42 LINE"
+);
+}
+);
 width = 397;
 }
 );
@@ -53918,21 +53939,34 @@ width = 397;
 {
 color = 9;
 glyphname = "tth-deva";
-lastChange = "2014-09-23 11:54:30 +0000";
+lastChange = "2014-11-07 10:59:42 +0000";
 layers = (
 {
 components = (
 {
 name = "ttha-deva";
 transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = "halant-deva";
-transform = "{1, 0, 0, 1, 396, 0}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"280 -42 OFFCURVE",
+"346 -111 OFFCURVE",
+"386 -161 CURVE",
+"386 -161 OFFCURVE",
+"329 -209 OFFCURVE",
+"329 -209 CURVE",
+"268 -134 OFFCURVE",
+"214 -117 OFFCURVE",
+"135 -117 CURVE",
+"135 -42 LINE"
+);
+}
+);
 width = 458;
 }
 );
@@ -53940,21 +53974,34 @@ width = 458;
 {
 color = 9;
 glyphname = "dd-deva";
-lastChange = "2014-09-26 10:05:58 +0000";
+lastChange = "2014-11-07 10:59:33 +0000";
 layers = (
 {
 components = (
 {
 name = "dda-deva";
 transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = "halant-deva";
-transform = "{1, 0, 0, 1, 396, 0}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"286 -42 OFFCURVE",
+"352 -111 OFFCURVE",
+"392 -161 CURVE",
+"392 -161 OFFCURVE",
+"335 -209 OFFCURVE",
+"335 -209 CURVE",
+"274 -134 OFFCURVE",
+"220 -117 OFFCURVE",
+"141 -117 CURVE",
+"141 -42 LINE"
+);
+}
+);
 width = 433;
 }
 );
@@ -53962,21 +54009,34 @@ width = 433;
 {
 color = 9;
 glyphname = "ddh-deva";
-lastChange = "2014-09-26 14:01:58 +0000";
+lastChange = "2014-11-07 10:59:27 +0000";
 layers = (
 {
 components = (
 {
 name = "ddha-deva";
 transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = "halant-deva";
-transform = "{1, 0, 0, 1, 391, 0}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"273 -42 OFFCURVE",
+"339 -111 OFFCURVE",
+"379 -161 CURVE",
+"379 -161 OFFCURVE",
+"322 -209 OFFCURVE",
+"322 -209 CURVE",
+"261 -134 OFFCURVE",
+"207 -117 OFFCURVE",
+"128 -117 CURVE",
+"128 -42 LINE"
+);
+}
+);
 width = 418;
 }
 );
@@ -54654,7 +54714,7 @@ width = 318;
 {
 color = 9;
 glyphname = "d-deva";
-lastChange = "2014-09-22 06:46:27 +0000";
+lastChange = "2014-11-07 10:58:39 +0000";
 layers = (
 {
 components = (
@@ -54664,7 +54724,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = "halant-deva";
-transform = "{1, 0, 0, 1, 386, 0}";
+transform = "{1, 0, 0, 1, 247, -1}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
@@ -80388,39 +80448,56 @@ unicode = 0902;
 },
 {
 glyphname = "halant-deva";
-lastChange = "2014-09-22 13:51:59 +0000";
+lastChange = "2014-11-07 10:58:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{92, -22}";
+}
+);
 background = {
 paths = (
 {
 closed = 1;
 nodes = (
-"-139 -29 OFFCURVE",
-"-95 -92 OFFCURVE",
-"-55 -142 CURVE",
-"-55 -142 OFFCURVE",
-"-97 -177 OFFCURVE",
-"-97 -177 CURVE",
-"-156 -96 OFFCURVE",
-"-201 -81 OFFCURVE",
-"-280 -81 CURVE",
-"-280 -29 LINE"
+"151 -29 OFFCURVE",
+"195 -92 OFFCURVE",
+"235 -142 CURVE",
+"235 -142 OFFCURVE",
+"193 -177 OFFCURVE",
+"193 -177 CURVE",
+"134 -96 OFFCURVE",
+"89 -81 OFFCURVE",
+"10 -81 CURVE",
+"10 -29 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-135 -29 OFFCURVE",
-"-75 -102 OFFCURVE",
-"-35 -152 CURVE",
-"-35 -152 OFFCURVE",
-"-87 -197 OFFCURVE",
-"-87 -197 CURVE",
-"-146 -116 OFFCURVE",
-"-201 -101 OFFCURVE",
-"-280 -101 CURVE",
-"-280 -29 LINE"
+"155 -29 OFFCURVE",
+"215 -102 OFFCURVE",
+"255 -152 CURVE",
+"255 -152 OFFCURVE",
+"203 -197 OFFCURVE",
+"203 -197 CURVE",
+"144 -116 OFFCURVE",
+"89 -101 OFFCURVE",
+"10 -101 CURVE",
+"10 -29 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"276 -148 LINE",
+"276 -148 OFFCURVE",
+"229 -201 OFFCURVE",
+"229 -201 CURVE",
+"15 -95 LINE",
+"60 -39 LINE"
 );
 }
 );
@@ -80431,16 +80508,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-14 -148 LINE",
-"-14 -148 OFFCURVE",
-"-61 -201 OFFCURVE",
-"-61 -201 CURVE",
-"-275 -95 LINE",
-"-230 -39 LINE"
+"155 -69 OFFCURVE",
+"221 -138 OFFCURVE",
+"261 -188 CURVE",
+"261 -188 OFFCURVE",
+"204 -236 OFFCURVE",
+"204 -236 CURVE",
+"143 -161 OFFCURVE",
+"89 -144 OFFCURVE",
+"10 -144 CURVE",
+"10 -69 LINE"
 );
 }
 );
-width = 0;
+width = 271;
 }
 );
 unicode = 094D;
@@ -81654,5 +81735,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 69;
+versionMinor = 71;
 }

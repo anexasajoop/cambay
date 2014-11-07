@@ -1265,3 +1265,10 @@ sub @iiLetters-alt4 @iiMatra' by @iiMatra-alt4;
 sub @iiLetters-alt5 @iiMatra' by @iiMatra-alt5;
 } psts;
 
+feature haln {
+sub tta-deva halant-deva by tt-deva;
+sub ttha-deva halant-deva by tth-deva;
+sub dda-deva halant-deva by dd-deva;
+sub ddha-deva halant-deva by ddh-deva;
+} haln;
+

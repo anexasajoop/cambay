@@ -2,8 +2,19 @@
 <glyph name="tth-deva" format="1">
   <advance width="458"/>
   <outline>
+    <contour>
+      <point x="280" y="-42"/>
+      <point x="346" y="-111"/>
+      <point x="386" y="-161" type="curve"/>
+      <point x="386" y="-161"/>
+      <point x="329" y="-209"/>
+      <point x="329" y="-209" type="curve"/>
+      <point x="268" y="-134"/>
+      <point x="214" y="-117"/>
+      <point x="135" y="-117" type="curve"/>
+      <point x="135" y="-42" type="line"/>
+    </contour>
     <component base="ttha-deva"/>
-    <component base="halant-deva" xOffset="396"/>
   </outline>
   <lib>
     <dict>
