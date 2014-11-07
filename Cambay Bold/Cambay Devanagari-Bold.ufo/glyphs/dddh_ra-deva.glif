@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dddh_ra-deva" format="1">
+  <advance width="433"/>
+  <outline>
+    <contour>
+      <point x="76" y="-241" type="line"/>
+      <point x="122" y="-294" type="line"/>
+      <point x="213" y="-226" type="line"/>
+      <point x="305" y="-294" type="line"/>
+      <point x="350" y="-241" type="line"/>
+      <point x="230" y="-151" type="line"/>
+      <point x="196" y="-151" type="line"/>
+    </contour>
+    <component base="dddha-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

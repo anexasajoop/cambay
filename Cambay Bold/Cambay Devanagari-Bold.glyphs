@@ -193,12 +193,20 @@ code = "sub ra-deva halant-deva by reph-deva;";
 name = rphf;
 },
 {
-code = "sub ka-deva halant-deva ra-deva by k_ra-deva;\012sub kha-deva halant-deva ra-deva by kh_ra-deva;\012sub ga-deva halant-deva ra-deva by g_ra-deva;\012sub gha-deva halant-deva ra-deva by gh_ra-deva;\012sub ca-deva halant-deva ra-deva by c_ra-deva;\012sub ja-deva halant-deva ra-deva by j_ra-deva;\012sub jha-deva halant-deva ra-deva by jh_ra-deva;\012sub nya-deva halant-deva ra-deva by ny_ra-deva;\012sub tta-deva halant-deva ra-deva by tt_ra-deva;\012sub dda-deva halant-deva ra-deva by dd_ra-deva;\012sub nna-deva halant-deva ra-deva by nn_ra-deva;\012sub ta-deva halant-deva ra-deva by t_ra-deva;\012sub tha-deva halant-deva ra-deva by th_ra-deva;\012sub da-deva halant-deva ra-deva by d_ra-deva;\012sub dha-deva halant-deva ra-deva by dh_ra-deva;\012sub na-deva halant-deva ra-deva by n_ra-deva;\012sub pa-deva halant-deva ra-deva by p_ra-deva;\012sub pha-deva halant-deva ra-deva by ph_ra-deva;\012sub ba-deva halant-deva ra-deva by b_ra-deva;\012sub bha-deva halant-deva ra-deva by bh_ra-deva;\012sub ma-deva halant-deva ra-deva by m_ra-deva;\012sub ya-deva halant-deva ra-deva by y_ra-deva;\012sub la-deva halant-deva ra-deva by l_ra-deva;\012sub va-deva halant-deva ra-deva by v_ra-deva;\012sub sha-deva halant-deva ra-deva by sh_ra-deva;\012sub ssa-deva halant-deva ra-deva by ss_ra-deva;\012sub sa-deva halant-deva ra-deva by s_ra-deva;\012sub ha-deva halant-deva ra-deva by h_ra-deva;\012sub khha-deva halant-deva ra-deva by khh_ra-deva;\012sub za-deva halant-deva ra-deva by z_ra-deva;\012sub fa-deva halant-deva ra-deva by f_ra-deva;\012";
+code = "sub ka-deva halant-deva ra-deva by k_ra-deva;\012sub kha-deva halant-deva ra-deva by kh_ra-deva;\012sub ga-deva halant-deva ra-deva by g_ra-deva;\012sub gha-deva halant-deva ra-deva by gh_ra-deva;\012sub nga-deva halant-deva ra-deva by ng_ra-deva;\012\012sub ca-deva halant-deva ra-deva by c_ra-deva;\012sub cha-deva halant-deva ra-deva by ch_ra-deva;\012sub ja-deva halant-deva ra-deva by j_ra-deva;\012sub jha-deva halant-deva ra-deva by jh_ra-deva;\012sub jha-deva.NEP halant-deva ra-deva by jh_ra-deva.NEP;\012sub nya-deva halant-deva ra-deva by ny_ra-deva;\012\012sub tta-deva halant-deva ra-deva by tt_ra-deva;\012sub ttha-deva halant-deva ra-deva by tth_ra-deva;\012sub dda-deva halant-deva ra-deva by dd_ra-deva;\012sub ddha-deva halant-deva ra-deva by ddh_ra-deva;\012sub nna-deva halant-deva ra-deva by nn_ra-deva;\012\012sub ta-deva halant-deva ra-deva by t_ra-deva;\012sub tha-deva halant-deva ra-deva by th_ra-deva;\012sub da-deva halant-deva ra-deva by d_ra-deva;\012sub dha-deva halant-deva ra-deva by dh_ra-deva;\012sub na-deva halant-deva ra-deva by n_ra-deva;\012\012sub pa-deva halant-deva ra-deva by p_ra-deva;\012sub pha-deva halant-deva ra-deva by ph_ra-deva;\012sub ba-deva halant-deva ra-deva by b_ra-deva;\012sub bha-deva halant-deva ra-deva by bh_ra-deva;\012sub ma-deva halant-deva ra-deva by m_ra-deva;\012\012sub ya-deva halant-deva ra-deva by y_ra-deva;\012sub [la-deva la-deva.MAR] halant-deva ra-deva by l_ra-deva;\012sub lla-deva halant-deva ra-deva by ll_ra-deva;\012sub llla-deva halant-deva ra-deva by lll_ra-deva;\012sub va-deva halant-deva ra-deva by v_ra-deva;\012sub [sha-deva sha-deva.MAR] halant-deva ra-deva by sh_ra-deva;\012\012sub ssa-deva halant-deva ra-deva by ss_ra-deva;\012sub sa-deva halant-deva ra-deva by s_ra-deva;\012sub ha-deva halant-deva ra-deva by h_ra-deva;\012\012sub qa-deva halant-deva ra-deva by q_ra-deva;\012sub khha-deva halant-deva ra-deva by khh_ra-deva;\012sub ghha-deva halant-deva ra-deva by ghh_ra-deva;\012sub za-deva halant-deva ra-deva by z_ra-deva;\012sub dddha-deva halant-deva ra-deva by dddh_ra-deva;\012sub rha-deva halant-deva ra-deva by rh_ra-deva;\012sub fa-deva halant-deva ra-deva by f_ra-deva;\012sub yya-deva halant-deva ra-deva by yy_ra-deva;";
 name = rkrf;
+},
+{
+code = "sub halant-deva ra-deva by rashtra-deva;\012";
+name = blwf;
 },
 {
 code = "# AKHAND CONJUNCT HALF FORMS\012sub k_ssa-deva halant-deva by k_ss-deva;\012sub j_nya-deva halant-deva by j_ny-deva;\012\012# TRICONSONANTAL CONJUNCT HALF FORMS\012\012sub na-deva halant-deva t_ra-deva halant-deva by n_t_r-deva;\012\012\012\012# BICONSONANTAL CONJUNCT HALF FORMS\012\012sub ja-deva halant-deva ja-deva halant-deva by j_j-deva;\012sub ta-deva halant-deva ta-deva halant-deva by t_t-deva;\012sub ta-deva halant-deva ma-deva halant-deva by t_m-deva;\012sub ta-deva halant-deva sa-deva halant-deva by t_s-deva;\012sub t_ra-deva halant-deva by t_r-deva;\012sub sa-deva halant-deva tha-deva halant-deva by s_th-deva;\012sub na-deva halant-deva sa-deva halant-deva by n_s-deva;\012sub na-deva halant-deva dha-deva halant-deva by n_dh-deva;\012\012\012\012# CONSONANT HALF FORMS\012\012sub ka-deva halant-deva by k-deva;\012sub kha-deva halant-deva by kh-deva;\012sub ga-deva halant-deva by g-deva;\012sub gha-deva halant-deva by gh-deva;\012sub nga-deva halant-deva by ng-deva;\012sub ca-deva halant-deva by c-deva;\012sub cha-deva halant-deva by ch-deva;\012sub ja-deva halant-deva by j-deva;\012sub jha-deva halant-deva by jh-deva;\012sub nya-deva halant-deva by ny-deva;\012sub tta-deva halant-deva by tt-deva;\012sub ttha-deva halant-deva by tth-deva;\012sub dda-deva halant-deva by dd-deva;\012sub ddha-deva halant-deva by ddh-deva;\012sub nna-deva halant-deva by nn-deva;\012sub ta-deva halant-deva by t-deva;\012sub tha-deva halant-deva by th-deva;\012sub da-deva halant-deva by d-deva;\012sub dha-deva halant-deva by dh-deva;\012sub na-deva halant-deva by n-deva;\012sub nnna-deva halant-deva by nnn-deva;\012sub pa-deva halant-deva by p-deva;\012sub pha-deva halant-deva by ph-deva;\012sub ba-deva halant-deva by b-deva;\012sub bha-deva halant-deva by bh-deva;\012sub ma-deva halant-deva by m-deva;\012sub ya-deva halant-deva by y-deva;\012sub rra-deva halant-deva by rr-deva;\012sub la-deva halant-deva by l-deva;\012sub lla-deva halant-deva by ll-deva;\012sub llla-deva halant-deva by lll-deva;\012sub va-deva halant-deva by v-deva;\012sub sha-deva halant-deva by sh-deva;\012sub ssa-deva halant-deva by ss-deva;\012sub sa-deva halant-deva by s-deva;\012sub ha-deva halant-deva by h-deva;\012sub qa-deva halant-deva by q-deva;\012sub khha-deva halant-deva by khh-deva;\012sub ghha-deva halant-deva by ghh-deva;\012sub za-deva halant-deva by z-deva;\012sub fa-deva halant-deva by f-deva;\012";
 name = half;
+},
+{
+code = "sub ka-deva rashtra-deva by k_ra-deva;\012sub kha-deva rashtra-deva by kh_ra-deva;\012sub ga-deva rashtra-deva by g_ra-deva;\012sub gha-deva rashtra-deva by gh_ra-deva;\012sub nga-deva rashtra-deva by ng_ra-deva;\012\012sub ca-deva rashtra-deva by c_ra-deva;\012sub cha-deva rashtra-deva by ch_ra-deva;\012sub ja-deva rashtra-deva by j_ra-deva;\012sub jha-deva rashtra-deva by jh_ra-deva;\012sub jha-deva.NEP rashtra-deva by jh_ra-deva.NEP;\012sub nya-deva rashtra-deva by ny_ra-deva;\012\012sub tta-deva rashtra-deva by tt_ra-deva;\012sub ttha-deva rashtra-deva by tth_ra-deva;\012sub dda-deva rashtra-deva by dd_ra-deva;\012sub ddha-deva rashtra-deva by ddh_ra-deva;\012sub nna-deva rashtra-deva by nn_ra-deva;\012\012sub ta-deva rashtra-deva by t_ra-deva;\012sub tha-deva rashtra-deva by th_ra-deva;\012sub da-deva rashtra-deva by d_ra-deva;\012sub dha-deva rashtra-deva by dh_ra-deva;\012sub na-deva rashtra-deva by n_ra-deva;\012\012sub pa-deva rashtra-deva by p_ra-deva;\012sub pha-deva rashtra-deva by ph_ra-deva;\012sub ba-deva rashtra-deva by b_ra-deva;\012sub bha-deva rashtra-deva by bh_ra-deva;\012sub ma-deva rashtra-deva by m_ra-deva;\012\012sub ya-deva rashtra-deva by y_ra-deva;\012sub [la-deva la-deva.MAR] rashtra-deva by l_ra-deva;\012sub lla-deva rashtra-deva by ll_ra-deva;\012sub llla-deva rashtra-deva by lll_ra-deva;\012sub va-deva rashtra-deva by v_ra-deva;\012sub [sha-deva sha-deva.MAR] rashtra-deva by sh_ra-deva;\012\012sub ssa-deva rashtra-deva by ss_ra-deva;\012sub sa-deva rashtra-deva by s_ra-deva;\012sub ha-deva rashtra-deva by h_ra-deva;\012\012sub qa-deva rashtra-deva by q_ra-deva;\012sub khha-deva rashtra-deva by khh_ra-deva;\012sub ghha-deva rashtra-deva by ghh_ra-deva;\012sub za-deva rashtra-deva by z_ra-deva;\012sub dddha-deva rashtra-deva by dddh_ra-deva;\012sub rha-deva rashtra-deva by rh_ra-deva;\012sub fa-deva rashtra-deva by f_ra-deva;\012sub yya-deva rashtra-deva by yy_ra-deva;";
+name = vatu;
 },
 {
 code = "# BICONSONANTAL CONJUNCTS\012\012\012sub ng-deva ga-deva by ng_ga-deva;\012sub ng-deva ma-deva by ng_ma-deva;\012\012sub c-deva ca-deva by c_ca-deva;\012\012sub j-deva ja-deva by j_ja-deva;\012\012sub ny-deva jha-deva by ny_jha-deva;\012sub ny-deva sa-deva by ny_sa-deva;\012\012sub tt-deva tta-deva by tt_tta-deva;\012sub tt-deva ttha-deva by tt_ttha-deva;\012sub tt-deva ya-deva by tt_ya-deva;\012sub tt-deva va-deva by tt_va-deva;\012\012sub tth-deva ttha-deva by tth_ttha-deva;\012sub tth-deva ya-deva by tth_ya-deva;\012\012sub dd-deva ga-deva by dd_ga-deva;\012sub dd-deva dda-deva by dd_dda-deva;\012sub dd-deva ya-deva by dd_ya-deva;\012\012sub ddh-deva ya-deva by ddh_ya-deva;\012\012sub d-deva ga-deva by d_ga-deva;\012sub d-deva gha-deva by d_gha-deva;\012sub d-deva da-deva by d_da-deva;\012sub d-deva dha-deva by d_dha-deva;\012sub d-deva na-deva by d_na-deva;\012sub d-deva ba-deva by d_ba-deva;\012sub d-deva bha-deva by d_bha-deva;\012sub d-deva ma-deva by d_ma-deva;\012sub d-deva ya-deva by d_ya-deva;\012sub d-deva va-deva by d_va-deva;\012\012sub h-deva nna-deva by h_nna-deva;\012sub h-deva na-deva by h_na-deva;\012sub h-deva ma-deva by h_ma-deva;\012sub h-deva la-deva by h_la-deva;\012sub h-deva va-deva by h_va-deva;\012sub h-deva uMatra-deva by h_uMatra-deva;\012sub h-deva uuMatra-deva by h_uuMatra-deva;\012\012\012\012\012";
@@ -13224,13 +13232,13 @@ unicode = 0932;
 },
 {
 glyphname = "lla-deva";
-lastChange = "2014-11-04 10:29:56 +0000";
+lastChange = "2014-11-07 09:03:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{419, 5}";
+position = "{419, -5}";
 },
 {
 name = top;
@@ -13416,13 +13424,13 @@ unicode = 0933;
 },
 {
 glyphname = "llla-deva";
-lastChange = "2014-11-04 10:30:15 +0000";
+lastChange = "2014-11-07 09:04:19 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{419, 5}";
+position = "{419, -5}";
 },
 {
 name = top;
@@ -15616,6 +15624,168 @@ width = 545;
 },
 {
 color = 11;
+glyphname = "sha-deva.MAR";
+lastChange = "2014-11-07 09:27:54 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{421, 5}";
+},
+{
+name = top;
+position = "{421, 447}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"280 303 OFFCURVE",
+"235 355 OFFCURVE",
+"163 355 CURVE SMOOTH",
+"113 355 OFFCURVE",
+"73 325 OFFCURVE",
+"50 281 CURVE",
+"95 255 LINE",
+"108 281 OFFCURVE",
+"135 303 OFFCURVE",
+"163 303 CURVE SMOOTH",
+"209 303 OFFCURVE",
+"227 268 OFFCURVE",
+"227 238 CURVE SMOOTH",
+"227 180 OFFCURVE",
+"140 149 OFFCURVE",
+"105 133 CURVE",
+"147 98 LINE",
+"227 134 OFFCURVE",
+"280 176 OFFCURVE",
+"280 239 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"43 114 OFFCURVE",
+"82 89 OFFCURVE",
+"130 90 CURVE",
+"241 -15 LINE",
+"241 -15 OFFCURVE",
+"279 21 OFFCURVE",
+"279 21 CURVE",
+"83 198 LINE",
+"56 189 OFFCURVE",
+"43 170 OFFCURVE",
+"43 150 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 456 LINE",
+"-24 408 LINE",
+"543 408 LINE",
+"543 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 0 LINE",
+"445 0 LINE",
+"445 456 LINE",
+"389 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"138 325 LINE",
+"190 325 LINE",
+"190 456 LINE",
+"138 456 LINE"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"280 313 OFFCURVE",
+"235 362 OFFCURVE",
+"153 362 CURVE SMOOTH",
+"92 362 OFFCURVE",
+"53 331 OFFCURVE",
+"30 287 CURVE",
+"94 248 LINE",
+"107 274 OFFCURVE",
+"128 290 OFFCURVE",
+"153 290 CURVE SMOOTH",
+"189 290 OFFCURVE",
+"202 268 OFFCURVE",
+"202 238 CURVE SMOOTH",
+"202 180 OFFCURVE",
+"121 156 OFFCURVE",
+"86 140 CURVE",
+"149 89 LINE",
+"229 125 OFFCURVE",
+"280 166 OFFCURVE",
+"280 239 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"27 114 OFFCURVE",
+"62 78 OFFCURVE",
+"122 79 CURVE",
+"221 -25 LINE",
+"279 31 LINE",
+"83 204 LINE",
+"36 199 OFFCURVE",
+"27 170 OFFCURVE",
+"27 150 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 325 LINE",
+"195 325 LINE",
+"195 456 LINE",
+"113 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 466 LINE",
+"-24 396 LINE",
+"551 396 LINE",
+"551 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"379 0 LINE",
+"464 0 LINE",
+"464 466 LINE",
+"379 466 LINE"
+);
+}
+);
+width = 527;
+}
+);
+},
+{
+color = 11;
 glyphname = "jha-deva.NEP";
 lastChange = "2014-11-05 12:10:45 +0000";
 layers = (
@@ -17213,6 +17383,7 @@ leftMetricsKey = "k-deva";
 {
 color = 1;
 glyphname = "k_ra-deva";
+lastChange = "2014-11-07 09:15:31 +0000";
 layers = (
 {
 anchors = (
@@ -17222,7 +17393,7 @@ position = "{317, 5}";
 },
 {
 name = top;
-position = "{324, 447}";
+position = "{317, 447}";
 }
 );
 background = {
@@ -19846,6 +20017,30 @@ width = 493;
 leftMetricsKey = "ng-deva";
 },
 {
+color = 1;
+glyphname = "ng_ra-deva";
+lastChange = "2014-11-07 09:01:36 +0000";
+layers = (
+{
+components = (
+{
+name = "nga-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "rashtra-deva";
+transform = "{1, 0, 0, 1, 100, -10}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 503;
+}
+);
+leftMetricsKey = "ng-deva";
+rightMetricsKey = "ra-deva";
+},
+{
 color = 3;
 glyphname = "c_ca-deva";
 lastChange = "2014-09-19 13:29:11 +0000";
@@ -20119,6 +20314,30 @@ width = 492;
 }
 );
 leftMetricsKey = "c-deva";
+rightMetricsKey = "ra-deva";
+},
+{
+color = 1;
+glyphname = "ch_ra-deva";
+lastChange = "2014-11-07 09:01:59 +0000";
+layers = (
+{
+components = (
+{
+name = "cha-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "rashtra-deva";
+transform = "{1, 0, 0, 1, 134, -20}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 568;
+}
+);
+leftMetricsKey = "ch-deva";
 rightMetricsKey = "ra-deva";
 },
 {
@@ -22650,6 +22869,30 @@ width = 901;
 leftMetricsKey = "tth-deva";
 },
 {
+color = 1;
+glyphname = "tth_ra-deva";
+lastChange = "2014-11-07 09:02:18 +0000";
+layers = (
+{
+components = (
+{
+name = "ttha-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "rashtra-deva";
+transform = "{1, 0, 0, 1, 86, -10}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 458;
+}
+);
+leftMetricsKey = "tth-deva";
+rightMetricsKey = "ra-deva";
+},
+{
 color = 4;
 glyphname = "dd_ga-deva";
 lastChange = "2014-09-26 10:19:15 +0000";
@@ -23471,6 +23714,30 @@ width = 841;
 }
 );
 leftMetricsKey = "ddh-deva";
+},
+{
+color = 1;
+glyphname = "ddh_ra-deva";
+lastChange = "2014-11-07 09:02:36 +0000";
+layers = (
+{
+components = (
+{
+name = "ddha-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "rashtra-deva";
+transform = "{1, 0, 0, 1, 83, -10}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 418;
+}
+);
+leftMetricsKey = "ddh-deva";
+rightMetricsKey = "ra-deva";
 },
 {
 color = 1;
@@ -37388,6 +37655,78 @@ rightMetricsKey = "za-deva";
 },
 {
 color = 1;
+glyphname = "ll_ra-deva";
+lastChange = "2014-11-07 09:05:21 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{429, -155}";
+},
+{
+name = top;
+position = "{421, 447}";
+}
+);
+components = (
+{
+name = "lla-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "rashtra-deva";
+transform = "{1, 0, 0, 1, 282, 20}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 594;
+}
+);
+leftMetricsKey = "ll-deva";
+rightMetricsKey = "ra-deva";
+},
+{
+color = 1;
+glyphname = "lll_ra-deva";
+lastChange = "2014-11-07 09:05:21 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{429, -155}";
+},
+{
+name = top;
+position = "{421, 447}";
+}
+);
+components = (
+{
+name = "lla-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "nukta-deva";
+transform = "{1, 0, 0, 1, 200, 5}";
+},
+{
+name = "rashtra-deva";
+transform = "{1, 0, 0, 1, 282, 20}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 594;
+}
+);
+leftMetricsKey = "lll-deva";
+rightMetricsKey = "ra-deva";
+},
+{
+color = 1;
 glyphname = "v_ra-deva";
 layers = (
 {
@@ -43119,6 +43458,40 @@ leftMetricsKey = "h-deva";
 rightMetricsKey = "h-deva";
 },
 {
+color = 1;
+glyphname = "q_ra-deva";
+lastChange = "2014-11-07 09:15:58 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{317, -121}";
+},
+{
+name = top;
+position = "{317, 447}";
+}
+);
+components = (
+{
+name = "k_ra-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "nukta-deva";
+transform = "{1, 0, 0, 1, 238, 10}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 605;
+}
+);
+leftMetricsKey = "q-deva";
+rightMetricsKey = "ra-deva";
+},
+{
 color = 3;
 glyphname = "q_sha-deva";
 lastChange = "2014-09-22 10:20:55 +0000";
@@ -44108,6 +44481,40 @@ width = 979;
 );
 leftMetricsKey = "kh-deva";
 rightMetricsKey = "sa-deva";
+},
+{
+color = 1;
+glyphname = "ghh_ra-deva";
+lastChange = "2014-11-07 09:14:28 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{352, -125}";
+},
+{
+name = top;
+position = "{352, 447}";
+}
+);
+components = (
+{
+name = "g_ra-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "nukta-deva";
+transform = "{1, 0, 0, 1, 263, 10}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 458;
+}
+);
+leftMetricsKey = "ghh-deva";
+rightMetricsKey = "ra-deva";
 },
 {
 color = 3;
@@ -45519,6 +45926,39 @@ width = 1037;
 }
 );
 leftMetricsKey = "f-deva";
+},
+{
+color = 1;
+glyphname = "yy_ra-deva";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{357, -105}";
+},
+{
+name = top;
+position = "{357, 447}";
+}
+);
+components = (
+{
+name = "y_ra-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "nukta-deva";
+transform = "{1, 0, 0, 1, 273, 25}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 464;
+}
+);
+leftMetricsKey = "yy-deva";
+rightMetricsKey = "ra-deva";
 },
 {
 color = 8;
@@ -81138,6 +81578,68 @@ width = 433;
 }
 );
 unicode = 0978;
+},
+{
+color = 1;
+glyphname = "dddh_ra-deva";
+layers = (
+{
+components = (
+{
+name = "dddha-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"76 -241 LINE",
+"122 -294 LINE",
+"213 -226 LINE",
+"305 -294 LINE",
+"350 -241 LINE",
+"230 -151 LINE",
+"196 -151 LINE"
+);
+}
+);
+width = 433;
+}
+);
+},
+{
+color = 1;
+glyphname = "rh_ra-deva";
+layers = (
+{
+components = (
+{
+name = "rha-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"69 -241 LINE",
+"115 -294 LINE",
+"206 -226 LINE",
+"298 -294 LINE",
+"343 -241 LINE",
+"223 -151 LINE",
+"189 -151 LINE"
+);
+}
+);
+width = 418;
+}
+);
 }
 );
 disablesNiceNames = 1;
@@ -81152,5 +81654,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 68;
+versionMinor = 69;
 }
