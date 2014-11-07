@@ -1029,8 +1029,6 @@ sub h-deva ma-deva by h_ma-deva;
 sub h-deva ya-deva by h_ya-deva;
 sub h-deva la-deva by h_la-deva;
 sub h-deva va-deva by h_va-deva;
-sub h-deva uMatra-deva by h_uMatra-deva;
-sub h-deva uuMatra-deva by h_uuMatra-deva;
 } cjct;
 
 feature pres {
@@ -1315,9 +1313,6 @@ sub rr_ha-deva uuMatra-deva by rr_h_uuMatra-deva;
 sub l_ha-deva uMatra-deva by l_h_uMatra-deva;
 sub l_ha-deva uuMatra-deva by l_h_uuMatra-deva;
 
-sub f_ra-deva uMatra-deva by f_r_uMatra-deva;
-sub f_ra-deva uuMatra-deva by f_r_uuMatra-deva;
-
 sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
 
 sub ha-deva rVocalicMatra-deva by h_rVocalicMatra-deva;
@@ -1332,6 +1327,7 @@ sub @iiLetters-alt5 @iiMatra' by @iiMatra-alt5;
 } psts;
 
 feature haln {
+sub nga-deva halant-deva by ng-deva;
 sub tta-deva halant-deva by tt-deva;
 sub ttha-deva halant-deva by tth-deva;
 sub dda-deva halant-deva by dd-deva;
