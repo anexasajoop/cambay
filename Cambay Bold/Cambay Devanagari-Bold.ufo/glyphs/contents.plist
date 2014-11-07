@@ -618,12 +618,16 @@
 	<string>f_za-deva.glif</string>
 	<key>fa-deva</key>
 	<string>fa-deva.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
 	<key>firsttonechinese</key>
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five-deva</key>
 	<string>five-deva.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
@@ -1356,6 +1360,10 @@
 	<string>onesuperior.glif</string>
 	<key>ooe-deva</key>
 	<string>ooe-deva.glif</string>
+	<key>ordfeminine</key>
+	<string>ordfeminine.glif</string>
+	<key>ordmasculine</key>
+	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
