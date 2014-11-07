@@ -157,6 +157,7 @@ sub n_dda-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_dda-d
 sub n_t_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_t_ra-deva;  
 sub n_tha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_tha-deva; 
 sub n_dha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_dha-deva;
+sub n_na-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_na-deva;
 sub n_dh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_dh_ra-deva; 
 sub n_ma-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ma-deva;
 sub n_ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by n_ya-deva;
@@ -309,7 +310,7 @@ dd_ga-deva dd_dda-deva dd_ya-deva dd_ra-deva
 ddh_ya-deva
 
 # Nna
-nn_ra-deva
+nn_ra-deva 
 
 # Ta
 t_kha-deva t_ta-deva t_t_ya-deva t_tha-deva t_na-deva t_n_ya-deva t_ma-deva t_ya-deva t_ra-deva t_la-deva t_sa-deva t_s_tha-deva t_s_na-deva
@@ -324,7 +325,7 @@ d_ga-deva d_gha-deva d_da-deva d_dha-deva d_na-deva d_ba-deva d_bha-deva d_ma-de
 dh_ra-deva
 
 # Na
-n_kha-deva n_ca-deva n_ja-deva n_dda-deva n_t_ra-deva n_tha-deva n_dha-deva n_dh_ra-deva n_ma-deva n_ya-deva n_ra-deva n_sha-deva n_sa-deva n_ha-deva n_za-deva
+n_kha-deva n_ca-deva n_ja-deva n_dda-deva n_t_ra-deva n_tha-deva n_dha-deva n_dh_ra-deva n_ma-deva n_ya-deva n_ra-deva n_sha-deva n_sa-deva n_ha-deva n_za-deva n_na-deva
 
 # Pa
 p_c_ya-deva p_na-deva p_ra-deva 
@@ -452,6 +453,8 @@ rha-deva
 tt_tta-deva tt_ttha-deva tt_ra-deva tt_va-deva
 
 tth_ttha-deva
+
+n_na-deva
 
 d_ga-deva d_na-deva d_ba-deva d_ra-deva d_va-deva ];
 
@@ -939,6 +942,7 @@ sub n-deva dda-deva by n_dda-deva;
 sub n-deva t_ra-deva by n_t_ra-deva;
 sub n-deva tha-deva by n_tha-deva;
 sub n-deva dha-deva by n_dha-deva;
+sub n-deva na-deva by n_na-deva;
 sub n-deva ma-deva by n_ma-deva;
 sub n-deva ya-deva by n_ya-deva;
 sub n-deva sha-deva by n_sha-deva;
