@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h_ra-deva" format="1">
-  <advance width="422"/>
+  <advance width="447"/>
   <outline>
     <contour>
       <point x="-24" y="466" type="line"/>
       <point x="-24" y="396" type="line"/>
-      <point x="466" y="396" type="line"/>
-      <point x="466" y="466" type="line"/>
+      <point x="471" y="396" type="line"/>
+      <point x="471" y="466" type="line"/>
     </contour>
     <contour>
       <point x="175" y="198"/>
@@ -76,7 +76,10 @@
       <point x="174" y="79" type="line"/>
     </contour>
     <contour>
-      <point x="300" y="447" type="move" name="top"/>
+      <point x="320" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="283" y="-65" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

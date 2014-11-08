@@ -40,8 +40,46 @@
       <point x="349" y="102"/>
       <point x="349" y="184" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="730" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="815" y="466" type="line"/>
+      <point x="730" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="466" type="line"/>
+      <point x="357" y="396" type="line"/>
+      <point x="904" y="396" type="line"/>
+      <point x="904" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="216" type="line"/>
+      <point x="420" y="174" type="line"/>
+      <point x="519" y="51" type="line"/>
+      <point x="519" y="51"/>
+      <point x="576" y="51"/>
+      <point x="576" y="51" type="curve"/>
+      <point x="576" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="515" y="216" type="line"/>
+      <point x="515" y="138" type="line"/>
+      <point x="768" y="138" type="line"/>
+      <point x="768" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="138" type="line"/>
+      <point x="576" y="138" type="line"/>
+      <point x="576" y="466" type="line"/>
+      <point x="491" y="466" type="line"/>
+    </contour>
     <component base="nukta-deva" xOffset="189" yOffset="47"/>
-    <component base="ma-deva" xOffset="381"/>
+    <contour>
+      <point x="773" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="773" y="5" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

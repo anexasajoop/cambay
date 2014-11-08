@@ -70,6 +70,12 @@
       <point x="368" y="-196" type="curve"/>
       <point x="333" y="-129" type="line"/>
     </contour>
+    <contour>
+      <point x="298" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="233" y="-270" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

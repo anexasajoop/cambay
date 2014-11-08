@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h_la-deva" format="1">
-  <advance width="462"/>
+  <advance width="482"/>
   <outline>
     <contour>
       <point x="-24" y="466" type="line"/>
       <point x="-24" y="396" type="line"/>
-      <point x="486" y="396" type="line"/>
-      <point x="486" y="466" type="line"/>
+      <point x="506" y="396" type="line"/>
+      <point x="506" y="466" type="line"/>
     </contour>
     <contour>
       <point x="175" y="198"/>
@@ -112,6 +112,12 @@
       <point x="263" y="18"/>
       <point x="264" y="4"/>
       <point x="265" y="-1" type="curve"/>
+    </contour>
+    <contour>
+      <point x="340" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="292" y="-168" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

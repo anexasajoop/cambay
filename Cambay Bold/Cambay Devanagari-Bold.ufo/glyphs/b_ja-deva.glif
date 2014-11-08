@@ -48,10 +48,10 @@
     </contour>
     <component base="b-deva"/>
     <contour>
-      <point x="713" y="447" type="move" name="top"/>
+      <point x="714" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="713" y="5" type="move" name="bottom"/>
+      <point x="714" y="5" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

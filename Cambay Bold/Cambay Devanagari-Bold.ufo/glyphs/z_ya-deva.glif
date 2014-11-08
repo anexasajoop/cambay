@@ -86,10 +86,10 @@
     </contour>
     <component base="nukta-deva" xOffset="189" yOffset="40"/>
     <contour>
-      <point x="732" y="447" type="move" name="top"/>
+      <point x="733" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="732" y="5" type="move" name="bottom"/>
+      <point x="733" y="5" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

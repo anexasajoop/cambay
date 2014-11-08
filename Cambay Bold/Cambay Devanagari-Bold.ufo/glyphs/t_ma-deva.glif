@@ -28,7 +28,45 @@
       <point x="358" y="252" type="line"/>
       <point x="358" y="330" type="line"/>
     </contour>
-    <component base="ma-deva" xOffset="228"/>
+    <contour>
+      <point x="577" y="0" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="662" y="466" type="line"/>
+      <point x="577" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="466" type="line"/>
+      <point x="204" y="396" type="line"/>
+      <point x="751" y="396" type="line"/>
+      <point x="751" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="216" type="line"/>
+      <point x="267" y="174" type="line"/>
+      <point x="366" y="51" type="line"/>
+      <point x="366" y="51"/>
+      <point x="423" y="51"/>
+      <point x="423" y="51" type="curve"/>
+      <point x="423" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="216" type="line"/>
+      <point x="362" y="138" type="line"/>
+      <point x="615" y="138" type="line"/>
+      <point x="615" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="138" type="line"/>
+      <point x="423" y="138" type="line"/>
+      <point x="423" y="466" type="line"/>
+      <point x="338" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="619" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="619" y="5" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

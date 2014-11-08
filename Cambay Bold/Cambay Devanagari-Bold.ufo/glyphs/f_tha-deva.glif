@@ -103,10 +103,10 @@
     </contour>
     <component base="nukta-deva" xOffset="183" yOffset="89"/>
     <contour>
-      <point x="845" y="447" type="move" name="top"/>
+      <point x="846" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="845" y="5" type="move" name="bottom"/>
+      <point x="846" y="5" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
