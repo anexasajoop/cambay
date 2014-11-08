@@ -43,6 +43,8 @@ sub ya-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ya-deva;
 sub ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ra-deva;
 sub rra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by rra-deva;
 sub la-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by la-deva;
+sub lla-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by lla-deva;
+sub llla-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by llla-deva;
 sub va-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by va-deva;
 sub sha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by sha-deva;
 sub ssa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ssa-deva;
@@ -267,7 +269,9 @@ sub f_fa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by f_fa-dev
 
 @iiLetters-alt3 = [ cha-deva ha-deva da-deva n_ha-deva m_ha-deva ];
 
-@iiLetters-alt4 = [ ttha-deva ss_ttha-deva ra-deva rra-deva ];
+@iiLetters-alt4 = [ ttha-deva ss_ttha-deva ra-deva rra-deva
+
+lla-deva llla-deva ];
 
 @iiLetters-alt5 = [ pha-deva fa-deva ph_ra-deva f_ra-deva f_za-deva f_fa-deva ];
 
@@ -318,7 +322,9 @@ l_ra-deva ];
 gh_na-deva gh_ra-deva
 th_ra-deva
 dh_ra-deva
-d_ya-deva ];
+d_ya-deva
+
+lla-deva llla-deva ];
 
 @iLetters-alt4 = [ ra-deva rra-deva ];
 
@@ -410,7 +416,7 @@ ca-deva cha-deva ja-deva jha-deva nya-deva
 tta-deva ttha-deva dda-deva ddha-deva nna-deva
 ta-deva tha-deva da-deva dha-deva na-deva nnna-deva
 pa-deva pha-deva ba-deva bha-deva ma-deva
-ya-deva ra-deva rra-deva la-deva va-deva sha-deva
+ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva
 ssa-deva sa-deva ha-deva
 qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva ];
 
@@ -833,7 +839,9 @@ sub yya-deva halant-deva ra-deva by yy_ra-deva;
 feature blwf {
 sub halant-deva ra-deva by rashtra-deva;
 
-sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva ra-deva rra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+
+sub [lla-deva llla-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 } blwf;
 
 feature half {
@@ -1216,6 +1224,24 @@ sub jha-deva' uMatra-deva by jha-deva.alt;
 } pres;
 
 feature abvs {
+######################################
+# Anusvara and CandraBindu on Vowels #
+######################################
+
+sub ii-deva anusvara-deva by ii_anusvara-deva;
+sub ai-deva anusvara-deva by ai_anusvara-deva;
+sub o-deva anusvara-deva by o_anusvara-deva;
+sub au-deva anusvara-deva by au_anusvara-deva;
+
+sub ii-deva candraBindu-deva by ii_candraBindu-deva;
+sub ai-deva candraBindu-deva by ai_candraBindu-deva;
+sub o-deva candraBindu-deva by o_candraBindu-deva;
+sub au-deva candraBindu-deva by au_candraBindu-deva;
+
+
+#####
+
+
 sub iMatra-deva reph-deva candraBindu-deva by iMatra_reph_anusvara-deva;
 sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
 sub iMatra-deva reph-deva by iMatra_reph-deva;
@@ -1252,29 +1278,29 @@ sub reph-deva anusvara-deva by reph_anusvara-deva;
 sub reph-deva candraBindu-deva by reph_candraBindu-deva;
 
 # Substitute with alternate anusvara to avoid clash with ikar
-sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;
+sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt1;
 #sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
 #sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;
-sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;
+sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt1;
 
 # Substitute with alternate candraBindu to avoid clash with ikar
-sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt;
+sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt1;
 #sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;
 #sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;
-sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt;
+sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt1;
 
 
 # Substitute with alternate anusvara to avoid clash with iikar
-sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
-sub @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
-sub @HalfForms @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;
-sub @Conjuncts @iiMatraA anusvara-deva' by anusvara-deva.alt;
+sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt2;
+sub @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt2;
+sub @HalfForms @HalfForms @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt2;
+sub @Conjuncts @iiMatraA anusvara-deva' by anusvara-deva.alt2;
 
 # Substitute with alternate candraBindu to avoid clash with iikar
-sub @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
-sub @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
-sub @HalfForms @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
-sub @Conjuncts @iiMatraA candraBindu-deva' by candraBindu-deva.alt;
+sub @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt2;
+sub @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt2;
+sub @HalfForms @HalfForms @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt2;
+sub @Conjuncts @iiMatraA candraBindu-deva' by candraBindu-deva.alt2;
 
 
 # To make reph-ikar ligature
@@ -1316,6 +1342,10 @@ sub l_ha-deva uuMatra-deva by l_h_uuMatra-deva;
 sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
 
 sub ha-deva rVocalicMatra-deva by h_rVocalicMatra-deva;
+
+sub n_ha-deva rVocalicMatra-deva by n_h_rVocalicMatra-deva;
+sub m_ha-deva rVocalicMatra-deva by m_h_rVocalicMatra-deva;
+sub rr_ha-deva rVocalicMatra-deva by rr_h_rVocalicMatra-deva;
 } blws;
 
 feature psts {
@@ -1332,6 +1362,8 @@ sub tta-deva halant-deva by tt-deva;
 sub ttha-deva halant-deva by tth-deva;
 sub dda-deva halant-deva by dd-deva;
 sub ddha-deva halant-deva by ddh-deva;
+
+sub ra-deva halant-deva by r-deva;
 
 sub h_ra-deva halant-deva by h_r-deva;
 } haln;

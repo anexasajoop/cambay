@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o_anusvara-deva" format="1">
+  <advance width="795"/>
+  <outline>
+    <contour>
+      <point x="772" y="519"/>
+      <point x="786" y="535"/>
+      <point x="786" y="555" type="curve" smooth="yes"/>
+      <point x="786" y="576"/>
+      <point x="772" y="592"/>
+      <point x="749" y="592" type="curve" smooth="yes"/>
+      <point x="727" y="592"/>
+      <point x="713" y="576"/>
+      <point x="713" y="555" type="curve" smooth="yes"/>
+      <point x="713" y="535"/>
+      <point x="727" y="519"/>
+      <point x="749" y="519" type="curve" smooth="yes"/>
+    </contour>
+    <component base="o-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

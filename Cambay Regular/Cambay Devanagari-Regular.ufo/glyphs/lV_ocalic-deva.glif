@@ -117,6 +117,9 @@
       <point x="255" y="182" type="curve"/>
       <point x="292" y="227" type="line"/>
     </contour>
+    <contour>
+      <point x="386" y="447" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
