@@ -1031,6 +1031,8 @@ sub c-deva ca-deva by c_ca-deva;
 
 sub j-deva ja-deva by j_ja-deva;
 
+#sub ny-deva ca-deva by ny_ca-deva;
+#sub ny-deva ja-deva by ny_ja-deva;
 sub ny-deva jha-deva by ny_jha-deva;
 sub ny-deva sa-deva by ny_sa-deva;
 
@@ -1250,6 +1252,23 @@ sub jha-deva' uMatra-deva by jha-deva.alt;
 } pres;
 
 feature abvs {
+######################################
+# Anusvara and CandraBindu on Vowels #
+######################################
+
+sub ii-deva anusvara-deva by ii_anusvara-deva;
+sub ai-deva anusvara-deva by ai_anusvara-deva;
+sub o-deva anusvara-deva by o_anusvara-deva;
+sub au-deva anusvara-deva by au_anusvara-deva;
+
+sub ii-deva candraBindu-deva by ii_candraBindu-deva;
+sub ai-deva candraBindu-deva by ai_candraBindu-deva;
+sub o-deva candraBindu-deva by o_candraBindu-deva;
+sub au-deva candraBindu-deva by au_candraBindu-deva;
+
+
+#####
+
 sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
 sub eMatra-deva reph-deva by eMatra_reph-deva;
 sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;

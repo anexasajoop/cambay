@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ii-deva" format="1">
+<glyph name="ii_anusvara-deva" format="1">
   <advance width="376"/>
-  <unicode hex="0908"/>
   <outline>
     <component base="i-deva"/>
-    <component base="reph-deva" xOffset="180"/>
+    <component base="reph_anusvara-deva" xOffset="160"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
+      <integer>8</integer>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
