@@ -776,6 +776,8 @@
 	<string>iM_atra-deva.alt15.glif</string>
 	<key>iMatra-deva.alt16</key>
 	<string>iM_atra-deva.alt16.glif</string>
+	<key>iMatra-deva.alt17</key>
+	<string>iM_atra-deva.alt17.glif</string>
 	<key>iMatra-deva.alt2</key>
 	<string>iM_atra-deva.alt2.glif</string>
 	<key>iMatra-deva.alt3</key>
@@ -810,6 +812,8 @@
 	<string>iM_atra_reph-deva.alt15.glif</string>
 	<key>iMatra_reph-deva.alt16</key>
 	<string>iM_atra_reph-deva.alt16.glif</string>
+	<key>iMatra_reph-deva.alt17</key>
+	<string>iM_atra_reph-deva.alt17.glif</string>
 	<key>iMatra_reph-deva.alt2</key>
 	<string>iM_atra_reph-deva.alt2.glif</string>
 	<key>iMatra_reph-deva.alt3</key>
@@ -844,6 +848,8 @@
 	<string>iM_atra_reph_anusvara-deva.alt15.glif</string>
 	<key>iMatra_reph_anusvara-deva.alt16</key>
 	<string>iM_atra_reph_anusvara-deva.alt16.glif</string>
+	<key>iMatra_reph_anusvara-deva.alt17</key>
+	<string>iM_atra_reph_anusvara-deva.alt17.glif</string>
 	<key>iMatra_reph_anusvara-deva.alt2</key>
 	<string>iM_atra_reph_anusvara-deva.alt2.glif</string>
 	<key>iMatra_reph_anusvara-deva.alt3</key>
@@ -878,6 +884,8 @@
 	<string>iM_atra_reph_candraB_indu-deva.alt15.glif</string>
 	<key>iMatra_reph_candraBindu-deva.alt16</key>
 	<string>iM_atra_reph_candraB_indu-deva.alt16.glif</string>
+	<key>iMatra_reph_candraBindu-deva.alt17</key>
+	<string>iM_atra_reph_candraB_indu-deva.alt17.glif</string>
 	<key>iMatra_reph_candraBindu-deva.alt2</key>
 	<string>iM_atra_reph_candraB_indu-deva.alt2.glif</string>
 	<key>iMatra_reph_candraBindu-deva.alt3</key>
@@ -1108,6 +1116,8 @@
 	<string>l_dda-deva.glif</string>
 	<key>l_ga-deva</key>
 	<string>l_ga-deva.glif</string>
+	<key>l_h_rVocalicMatra-deva</key>
+	<string>l_h_rV_ocalicM_atra-deva.glif</string>
 	<key>l_h_uMatra-deva</key>
 	<string>l_h_uM_atra-deva.glif</string>
 	<key>l_h_uuMatra-deva</key>
@@ -1478,8 +1488,6 @@
 	<string>quotesingle.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
-	<key>r-deva</key>
-	<string>r-deva.glif</string>
 	<key>rVocalic-deva</key>
 	<string>rV_ocalic-deva.glif</string>
 	<key>rVocalicMatra-deva</key>
