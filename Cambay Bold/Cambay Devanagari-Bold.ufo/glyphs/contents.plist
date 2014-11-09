@@ -318,6 +318,8 @@
 	<string>auM_atra-deva.glif</string>
 	<key>auMatra_anusvara-deva</key>
 	<string>auM_atra_anusvara-deva.glif</string>
+	<key>auMatra_candraBindu-deva</key>
+	<string>auM_atra_candraB_indu-deva.glif</string>
 	<key>auMatra_reph-deva</key>
 	<string>auM_atra_reph-deva.glif</string>
 	<key>auMatra_reph_anusvara-deva</key>
@@ -1318,6 +1320,10 @@
 	<string>numbersign.glif</string>
 	<key>ny-deva</key>
 	<string>ny-deva.glif</string>
+	<key>ny_ca-deva</key>
+	<string>ny_ca-deva.glif</string>
+	<key>ny_ja-deva</key>
+	<string>ny_ja-deva.glif</string>
 	<key>ny_jha-deva</key>
 	<string>ny_jha-deva.glif</string>
 	<key>ny_r-deva</key>
@@ -1340,6 +1346,8 @@
 	<string>oM_atra-deva.glif</string>
 	<key>oMatra_anusvara-deva</key>
 	<string>oM_atra_anusvara-deva.glif</string>
+	<key>oMatra_candraBindu-deva</key>
+	<string>oM_atra_candraB_indu-deva.glif</string>
 	<key>oMatra_reph-deva</key>
 	<string>oM_atra_reph-deva.glif</string>
 	<key>oMatra_reph_anusvara-deva</key>
@@ -1520,6 +1528,8 @@
 	<string>rrV_ocalic-deva.glif</string>
 	<key>rrVocalicMatra-deva</key>
 	<string>rrV_ocalicM_atra-deva.glif</string>
+	<key>rrVocalicMatra-deva.alt</key>
+	<string>rrV_ocalicM_atra-deva.alt.glif</string>
 	<key>rr_h_uMatra-deva</key>
 	<string>rr_h_uM_atra-deva.glif</string>
 	<key>rr_h_uuMatra-deva</key>

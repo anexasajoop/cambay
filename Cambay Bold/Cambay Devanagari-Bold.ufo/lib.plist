@@ -343,6 +343,8 @@
 		<string>j_ya-deva</string>
 		<string>j_ra-deva</string>
 		<string>jh_ra-deva</string>
+		<string>ny_ca-deva</string>
+		<string>ny_ja-deva</string>
 		<string>ny_jha-deva</string>
 		<string>ny_ra-deva</string>
 		<string>ny_sa-deva</string>
@@ -498,7 +500,9 @@
 		<string>yy_ra-deva</string>
 		<string>iMatra_reph_candraBindu-deva</string>
 		<string>iiMatra_reph_candraBindu-deva</string>
+		<string>oMatra_candraBindu-deva</string>
 		<string>oMatra_reph_candraBindu-deva</string>
+		<string>auMatra_candraBindu-deva</string>
 		<string>auMatra_reph_candraBindu-deva</string>
 		<string>k_ra-deva.NEP</string>
 		<string>jh_ra-deva.NEP</string>
@@ -922,6 +926,7 @@
 		<string>grave-deva</string>
 		<string>acute-deva</string>
 		<string>rVocalicMatra-deva.alt</string>
+		<string>rrVocalicMatra-deva.alt</string>
 		<string>anusvara-deva.alt</string>
 		<string>candraBindu-deva.alt1</string>
 		<string>candraBindu-deva.alt2</string>

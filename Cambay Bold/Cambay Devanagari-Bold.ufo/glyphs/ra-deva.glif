@@ -36,10 +36,10 @@
       <point x="339" y="466" type="line"/>
     </contour>
     <contour>
-      <point x="150" y="447" type="move" name="top"/>
+      <point x="170" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="148" y="-10" type="move" name="bottom"/>
+      <point x="148" y="-50" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

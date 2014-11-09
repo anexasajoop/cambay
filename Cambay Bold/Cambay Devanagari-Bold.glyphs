@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/u-deva",
-"/uu-deva"
-);
 classes = (
 {
 code = "ka-deva kha-deva ga-deva gha-deva nga-deva\012ca-deva cha-deva ja-deva jha-deva nya-deva\012tta-deva ttha-deva dda-deva ddha-deva nna-deva\012ta-deva tha-deva da-deva dha-deva na-deva nnna-deva\012pa-deva pha-deva ba-deva bha-deva ma-deva\012ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva\012ssa-deva sa-deva ha-deva\012qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva";
@@ -65,7 +61,7 @@ code = "ra-deva rra-deva";
 name = "iLetters-alt1";
 },
 {
-code = "ka-deva nga-deva\012dda-deva\012na-deva nna-deva\012va-deva\012qa-deva dddha-deva\012\012k_na-deva k_ra-deva\012\012ng_ga-deva ng_ma-deva\012\012dd_ga-deva dd_dda-deva dd_ra-deva dd_ddha-deva\012\012n_ra-deva\012\012v_ra-deva\012\012h_na-deva h_ra-deva h_va-deva";
+code = "ka-deva nga-deva\012dda-deva\012na-deva \012#nna-deva\012va-deva\012qa-deva dddha-deva\012\012k_na-deva k_ra-deva\012\012ng_ga-deva ng_ma-deva\012\012dd_ga-deva dd_dda-deva dd_ra-deva dd_ddha-deva\012\012n_ra-deva\012\012v_ra-deva\012\012h_na-deva h_ra-deva h_va-deva";
 name = "iLetters-alt2";
 },
 {
@@ -101,7 +97,7 @@ code = "t_t_ya-deva t_tha-deva t_la-deva\012\012n_sa-deva\012\012m_ca-deva m_p_r
 name = "iLetters-alt10";
 },
 {
-code = "g_bha-deva\012\012t_sa-deva\012\012bh_ya-deva\012\012m_bha-deva\012\012sh_ta-deva sh_ya-deva\012\012s_t_ra-deva";
+code = "g_bha-deva\012\012t_sa-deva\012\012bh_ya-deva\012\012m_bha-deva\012\012sh_ta-deva sh_ya-deva\012\012s_t_ra-deva\012\012\012\012nna-deva";
 name = "iLetters-alt11";
 },
 {
@@ -162,7 +158,7 @@ name = iMatraRephCandraBindu;
 }
 );
 copyright = "(c) Copyright Pooja Saxena, 2014.";
-date = "2014-11-09 07:06:26 +0000";
+date = "2014-11-09 09:39:44 +0000";
 designer = "Pooja Saxena";
 designerURL = "http://www.poojasaxena.in/";
 familyName = "Cambay Devanagari";
@@ -205,7 +201,7 @@ code = "sub ka-deva halant-deva ra-deva by k_ra-deva;\012sub kha-deva halant-dev
 name = rkrf;
 },
 {
-code = "sub halant-deva ra-deva by rashtra-deva;\012\012sub [nga-deva ng_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012sub [cha-deva k_cha-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012sub [tta-deva tt_tta-deva tt_ttha-deva tt_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012sub [ttha-deva tth_ttha-deva tth_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012sub [ddha-deva ddh_ddha-deva ddh_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012sub [dda-deva dd_dda-deva dd_ddha-deva dd_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012#sub [d_ga-deva d_gha-deva d_da-deva d_dha-deva d_na-deva d_ba-deva d_bha-deva d_ra-deva d_va-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012sub [dddha-deva dddh_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];;\012sub [rha-deva rh_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];\012\012sub [n_dda-deva sh_tta-deva s_dda-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];";
+code = "sub halant-deva ra-deva by rashtra-deva;\012\012sub [nga-deva ng_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [cha-deva k_cha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [nnna-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [tta-deva tt_tta-deva tt_ttha-deva tt_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [ttha-deva tth_ttha-deva tth_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [ddha-deva ddh_ddha-deva ddh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [dda-deva dd_dda-deva dd_ddha-deva dd_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [ra-deva rra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [qa-deva ghha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [dddha-deva dddh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012sub [rha-deva rh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [n_dda-deva sh_tta-deva s_dda-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];";
 name = blwf;
 },
 {
@@ -225,7 +221,7 @@ code = "###################################\012# Presentation forms of conjuncts
 name = pres;
 },
 {
-code = "######################################\012# Anusvara and CandraBindu on Vowels #\012######################################\012\012sub ii-deva anusvara-deva by ii_anusvara-deva;\012sub ai-deva anusvara-deva by ai_anusvara-deva;\012sub o-deva anusvara-deva by o_anusvara-deva;\012sub au-deva anusvara-deva by au_anusvara-deva;\012\012sub ii-deva candraBindu-deva by ii_candraBindu-deva;\012sub ai-deva candraBindu-deva by ai_candraBindu-deva;\012sub o-deva candraBindu-deva by o_candraBindu-deva;\012sub au-deva candraBindu-deva by au_candraBindu-deva;\012\012\012#####\012\012sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;\012sub eMatra-deva reph-deva by eMatra_reph-deva;\012sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;\012sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_candraBindu-deva;\012\012sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;\012sub aiMatra-deva reph-deva by aiMatra_reph-deva;\012sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;\012sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_candraBindu-deva;\012\012sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;\012sub oMatra-deva reph-deva by oMatra_reph-deva;\012sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;\012sub oMatra-deva reph-deva candraBindu-deva by oMatra_reph_candraBindu-deva;\012\012sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;\012sub auMatra-deva reph-deva by auMatra_reph-deva;\012sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;\012sub auMatra-deva reph-deva candraBindu-deva by auMatra_reph_candraBindu-deva;\012\012sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_candraBindu-deva;\012sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;\012sub iiMatra-deva reph-deva by iiMatra_reph-deva;\012\012sub reph-deva anusvara-deva by reph_anusvara-deva;\012sub reph-deva candraBindu-deva by reph_candraBindu-deva;\012\012# Substitute with alternate anusvara to avoid clash with ikar\012sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;\012#sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012#sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with ikar\012sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt1;\012#sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012#sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt1;\012\012# Substitute with alternate anusvara to avoid clash with iikar\012sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with iikar\012sub @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt2;\012\012# To make reph-ikar ligature\012sub @iMatra' @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @FullForms' lookup removeReph [reph-deva]';\012sub @iMatra' @Conjuncts [reph-deva] by @iMatraReph; \012sub @iMatraReph @Conjuncts' lookup removeReph [reph-deva]';\012\012# To make reph-ikar-anusvara ligature\012sub @iMatra' @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';\012sub @iMatra' @Conjuncts [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @Conjuncts' lookup removeReph [reph-deva reph_anusvara-deva]';\012\012# To make reph-ikar-candraBindu ligature\012sub @iMatra' @FullForms [reph_candraBindu-deva] by @iMatraRephCandraBindu; \012sub @iMatraRephCandraBindu @FullForms' lookup removeReph [reph-deva reph_candraBindu-deva]';\012sub @iMatra' @Conjuncts [reph_candraBindu-deva] by @iMatraRephCandraBindu; \012sub @iMatraRephCandraBindu @Conjuncts' lookup removeReph [reph-deva reph_candraBindu-deva]';\012\012";
+code = "######################################\012# Anusvara and CandraBindu on Vowels #\012######################################\012\012sub ii-deva anusvara-deva by ii_anusvara-deva;\012sub ai-deva anusvara-deva by ai_anusvara-deva;\012sub o-deva anusvara-deva by o_anusvara-deva;\012sub au-deva anusvara-deva by au_anusvara-deva;\012\012sub ii-deva candraBindu-deva by ii_candraBindu-deva;\012sub ai-deva candraBindu-deva by ai_candraBindu-deva;\012sub o-deva candraBindu-deva by o_candraBindu-deva;\012sub au-deva candraBindu-deva by au_candraBindu-deva;\012\012\012#####\012\012sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;\012sub oMatra-deva reph-deva by oMatra_reph-deva;\012sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;\012sub oMatra-deva candraBindu-deva by oMatra_candraBindu-deva;\012sub oMatra-deva reph-deva candraBindu-deva by oMatra_reph_candraBindu-deva;\012\012sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;\012sub auMatra-deva reph-deva by auMatra_reph-deva;\012sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;\012sub auMatra-deva candraBindu-deva by auMatra_candraBindu-deva;\012sub auMatra-deva reph-deva candraBindu-deva by auMatra_reph_candraBindu-deva;\012\012sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;\012sub eMatra-deva reph-deva by eMatra_reph-deva;\012sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;\012sub eMatra-deva candraBindu-deva by eMatra_candraBindu-deva;\012sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_candraBindu-deva;\012\012sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;\012sub aiMatra-deva reph-deva by aiMatra_reph-deva;\012sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;\012sub aiMatra-deva candraBindu-deva by aiMatra_candraBindu-deva;\012sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_candraBindu-deva;\012\012sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_candraBindu-deva;\012sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;\012sub iiMatra-deva reph-deva by iiMatra_reph-deva;\012\012sub reph-deva anusvara-deva by reph_anusvara-deva;\012sub reph-deva candraBindu-deva by reph_candraBindu-deva;\012\012# Substitute with alternate anusvara to avoid clash with ikar\012sub @iMatra @FullForms anusvara-deva' by anusvara-deva.alt;\012#sub @iMatra @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012#sub @iMatra @HalfForms @HalfForms @FullForms anusvara-deva' by anusvara-deva.alt;\012sub @iMatra @Conjuncts anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with ikar\012sub @iMatra @FullForms candraBindu-deva' by candraBindu-deva.alt1;\012#sub @iMatra @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012#sub @iMatra @HalfForms @HalfForms @FullForms candraBindu-deva' by candraBindu-deva.alt;\012sub @iMatra @Conjuncts candraBindu-deva' by candraBindu-deva.alt1;\012\012# Substitute with alternate anusvara to avoid clash with iikar\012sub @FullForms @iiMatraA anusvara-deva' by anusvara-deva.alt;\012\012# Substitute with alternate candraBindu to avoid clash with iikar\012sub @FullForms @iiMatraA candraBindu-deva' by candraBindu-deva.alt2;\012\012# To make reph-ikar ligature\012sub @iMatra' @FullForms [reph-deva] by @iMatraReph; \012sub @iMatraReph @FullForms' lookup removeReph [reph-deva]';\012sub @iMatra' @Conjuncts [reph-deva] by @iMatraReph; \012sub @iMatraReph @Conjuncts' lookup removeReph [reph-deva]';\012\012# To make reph-ikar-anusvara ligature\012sub @iMatra' @FullForms [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @FullForms' lookup removeReph [reph-deva reph_anusvara-deva]';\012sub @iMatra' @Conjuncts [reph_anusvara-deva] by @iMatraRephAnusvara; \012sub @iMatraRephAnusvara @Conjuncts' lookup removeReph [reph-deva reph_anusvara-deva]';\012\012# To make reph-ikar-candraBindu ligature\012sub @iMatra' @FullForms [reph_candraBindu-deva] by @iMatraRephCandraBindu; \012sub @iMatraRephCandraBindu @FullForms' lookup removeReph [reph-deva reph_candraBindu-deva]';\012sub @iMatra' @Conjuncts [reph_candraBindu-deva] by @iMatraRephCandraBindu; \012sub @iMatraRephCandraBindu @Conjuncts' lookup removeReph [reph-deva reph_candraBindu-deva]';\012\012";
 name = abvs;
 },
 {
@@ -12276,13 +12272,13 @@ unicode = 0928;
 },
 {
 glyphname = "nnna-deva";
-lastChange = "2014-09-19 12:34:04 +0000";
+lastChange = "2014-11-09 09:35:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{324, 5}";
+position = "{324, -45}";
 },
 {
 name = top;
@@ -13252,17 +13248,17 @@ unicode = 092F;
 },
 {
 glyphname = "ra-deva";
-lastChange = "2014-11-07 16:05:20 +0000";
+lastChange = "2014-11-09 08:42:18 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{148, -10}";
+position = "{148, -50}";
 },
 {
 name = top;
-position = "{150, 447}";
+position = "{170, 447}";
 }
 );
 background = {
@@ -13394,17 +13390,17 @@ unicode = 0930;
 },
 {
 glyphname = "rra-deva";
-lastChange = "2014-11-07 16:05:31 +0000";
+lastChange = "2014-11-09 08:42:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{148, -20}";
+position = "{148, -50}";
 },
 {
 name = top;
-position = "{150, 447}";
+position = "{170, 447}";
 }
 );
 background = {
@@ -13799,13 +13795,13 @@ unicode = 0933;
 },
 {
 glyphname = "llla-deva";
-lastChange = "2014-11-07 09:04:19 +0000";
+lastChange = "2014-11-09 08:35:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{419, -5}";
+position = "{419, -125}";
 },
 {
 name = top;
@@ -14674,13 +14670,13 @@ unicode = 0939;
 },
 {
 glyphname = "qa-deva";
-lastChange = "2014-09-19 12:34:04 +0000";
+lastChange = "2014-11-09 09:37:02 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{317, 5}";
+position = "{317, -45}";
 },
 {
 name = top;
@@ -14826,13 +14822,13 @@ unicode = 0959;
 },
 {
 glyphname = "ghha-deva";
-lastChange = "2014-09-19 12:34:04 +0000";
+lastChange = "2014-11-09 09:37:19 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{350, 5}";
+position = "{350, -35}";
 },
 {
 name = top;
@@ -22376,6 +22372,544 @@ width = 585;
 );
 leftMetricsKey = "jh-deva";
 rightMetricsKey = "ra-deva";
+},
+{
+glyphname = "ny_ca-deva";
+lastChange = "2014-11-09 09:29:44 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{453, -114}";
+},
+{
+name = top;
+position = "{452, 447}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"410 -118 LINE",
+"461 -118 LINE",
+"461 456 LINE",
+"410 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 456 LINE",
+"-24 408 LINE",
+"559 408 LINE",
+"559 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"415 36 OFFCURVE",
+"367 -16 OFFCURVE",
+"294 -16 CURVE SMOOTH",
+"257 -16 OFFCURVE",
+"236 6 OFFCURVE",
+"236 38 CURVE SMOOTH",
+"236 74 OFFCURVE",
+"282 88 OFFCURVE",
+"282 88 CURVE SMOOTH",
+"212 64 LINE SMOOTH",
+"212 64 OFFCURVE",
+"189 60 OFFCURVE",
+"189 27 CURVE SMOOTH",
+"189 -18 OFFCURVE",
+"219 -63 OFFCURVE",
+"291 -63 CURVE SMOOTH",
+"370 -63 OFFCURVE",
+"424 -25 OFFCURVE",
+"461 39 CURVE",
+"440 98 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"98 61 LINE",
+"113 15 LINE",
+"317 81 LINE",
+"302 126 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 312 OFFCURVE",
+"279 280 OFFCURVE",
+"279 255 CURVE SMOOTH",
+"279 219 OFFCURVE",
+"255 199 OFFCURVE",
+"211 199 CURVE SMOOTH",
+"144 199 OFFCURVE",
+"111 239 OFFCURVE",
+"81 339 CURVE",
+"34 325 LINE",
+"74 180 OFFCURVE",
+"143 148 OFFCURVE",
+"206 148 CURVE SMOOTH",
+"266 148 OFFCURVE",
+"310 176 OFFCURVE",
+"324 222 CURVE SMOOTH",
+"325 226 OFFCURVE",
+"328 229 OFFCURVE",
+"328 233 CURVE SMOOTH",
+"329 238 OFFCURVE",
+"329 243 OFFCURVE",
+"329 248 CURVE SMOOTH",
+"329 331 OFFCURVE",
+"275 360 OFFCURVE",
+"219 360 CURVE SMOOTH",
+"187 360 OFFCURVE",
+"163 353 OFFCURVE",
+"144 346 CURVE",
+"144 346 OFFCURVE",
+"158 301 OFFCURVE",
+"158 301 CURVE SMOOTH",
+"158 301 OFFCURVE",
+"189 312 OFFCURVE",
+"218 312 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"439 275 LINE",
+"424 267 OFFCURVE",
+"403 255 OFFCURVE",
+"375 255 CURVE SMOOTH",
+"345 255 OFFCURVE",
+"329 263 OFFCURVE",
+"301 278 CURVE",
+"291 230 LINE",
+"320 217 OFFCURVE",
+"337 208 OFFCURVE",
+"372 208 CURVE SMOOTH",
+"399 208 OFFCURVE",
+"431 218 OFFCURVE",
+"446 227 CURVE"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"404 36 OFFCURVE",
+"367 -6 OFFCURVE",
+"303 -6 CURVE SMOOTH",
+"267 -6 OFFCURVE",
+"251 8 OFFCURVE",
+"251 38 CURVE SMOOTH",
+"251 74 OFFCURVE",
+"297 88 OFFCURVE",
+"297 88 CURVE SMOOTH",
+"212 64 LINE SMOOTH",
+"212 64 OFFCURVE",
+"178 60 OFFCURVE",
+"178 27 CURVE SMOOTH",
+"178 -38 OFFCURVE",
+"227 -80 OFFCURVE",
+"299 -80 CURVE SMOOTH",
+"373 -80 OFFCURVE",
+"424 -48 OFFCURVE",
+"461 16 CURVE",
+"429 98 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"87 58 LINE",
+"109 -10 LINE",
+"318 58 LINE",
+"296 124 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 292 OFFCURVE",
+"269 280 OFFCURVE",
+"269 255 CURVE SMOOTH",
+"269 225 OFFCURVE",
+"250 212 OFFCURVE",
+"216 212 CURVE SMOOTH",
+"169 212 OFFCURVE",
+"132 244 OFFCURVE",
+"102 344 CURVE",
+"34 323 LINE",
+"75 178 OFFCURVE",
+"151 139 OFFCURVE",
+"214 139 CURVE SMOOTH",
+"274 139 OFFCURVE",
+"325 170 OFFCURVE",
+"339 216 CURVE SMOOTH",
+"340 220 OFFCURVE",
+"338 229 OFFCURVE",
+"338 233 CURVE SMOOTH",
+"339 238 OFFCURVE",
+"345 243 OFFCURVE",
+"345 248 CURVE SMOOTH",
+"345 324 OFFCURVE",
+"296 362 OFFCURVE",
+"223 362 CURVE SMOOTH",
+"201 362 OFFCURVE",
+"176 357 OFFCURVE",
+"158 351 CURVE",
+"179 284 LINE",
+"189 287 OFFCURVE",
+"204 292 OFFCURVE",
+"223 292 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"439 285 LINE",
+"424 277 OFFCURVE",
+"403 265 OFFCURVE",
+"375 265 CURVE SMOOTH",
+"345 265 OFFCURVE",
+"329 273 OFFCURVE",
+"301 288 CURVE",
+"291 210 LINE",
+"320 197 OFFCURVE",
+"337 188 OFFCURVE",
+"372 188 CURVE SMOOTH",
+"399 188 OFFCURVE",
+"431 198 OFFCURVE",
+"446 207 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 466 LINE",
+"-24 396 LINE",
+"579 396 LINE",
+"579 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 -117 LINE",
+"492 -117 LINE",
+"492 466 LINE",
+"410 466 LINE"
+);
+}
+);
+width = 555;
+}
+);
+leftMetricsKey = "ny-deva";
+},
+{
+glyphname = "ny_ja-deva";
+lastChange = "2014-11-09 09:31:56 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{453, -114}";
+},
+{
+name = top;
+position = "{452, 447}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"410 -118 LINE",
+"461 -118 LINE",
+"461 456 LINE",
+"410 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 456 LINE",
+"-24 408 LINE",
+"559 408 LINE",
+"559 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 312 OFFCURVE",
+"279 280 OFFCURVE",
+"279 255 CURVE SMOOTH",
+"279 219 OFFCURVE",
+"255 199 OFFCURVE",
+"211 199 CURVE SMOOTH",
+"144 199 OFFCURVE",
+"111 239 OFFCURVE",
+"81 339 CURVE",
+"34 325 LINE",
+"74 180 OFFCURVE",
+"143 148 OFFCURVE",
+"206 148 CURVE SMOOTH",
+"266 148 OFFCURVE",
+"310 176 OFFCURVE",
+"324 222 CURVE SMOOTH",
+"325 226 OFFCURVE",
+"328 229 OFFCURVE",
+"328 233 CURVE SMOOTH",
+"329 238 OFFCURVE",
+"329 243 OFFCURVE",
+"329 248 CURVE SMOOTH",
+"329 331 OFFCURVE",
+"275 360 OFFCURVE",
+"219 360 CURVE SMOOTH",
+"187 360 OFFCURVE",
+"163 353 OFFCURVE",
+"144 346 CURVE",
+"144 346 OFFCURVE",
+"158 301 OFFCURVE",
+"158 301 CURVE SMOOTH",
+"158 301 OFFCURVE",
+"189 312 OFFCURVE",
+"218 312 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"439 275 LINE",
+"424 267 OFFCURVE",
+"403 255 OFFCURVE",
+"375 255 CURVE SMOOTH",
+"345 255 OFFCURVE",
+"329 263 OFFCURVE",
+"301 278 CURVE",
+"291 230 LINE",
+"320 217 OFFCURVE",
+"337 208 OFFCURVE",
+"372 208 CURVE SMOOTH",
+"399 208 OFFCURVE",
+"431 218 OFFCURVE",
+"446 227 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 157 OFFCURVE",
+"262 108 OFFCURVE",
+"201 90 CURVE",
+"215 50 LINE",
+"450 115 LINE",
+"437 157 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 79 OFFCURVE",
+"262 94 CURVE",
+"205 80 LINE",
+"216 47 LINE",
+"228 50 OFFCURVE",
+"228 50 OFFCURVE",
+"237 52 CURVE SMOOTH",
+"275 62 OFFCURVE",
+"301 31 OFFCURVE",
+"301 -1 CURVE SMOOTH",
+"301 -37 OFFCURVE",
+"272 -53 OFFCURVE",
+"237 -53 CURVE SMOOTH",
+"186 -53 OFFCURVE",
+"143 5 OFFCURVE",
+"113 52 CURVE",
+"74 27 LINE",
+"122 -45 OFFCURVE",
+"163 -100 OFFCURVE",
+"238 -100 CURVE SMOOTH",
+"284 -100 OFFCURVE",
+"349 -79 OFFCURVE",
+"349 -5 CURVE SMOOTH",
+"349 36 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"404 36 OFFCURVE",
+"367 -6 OFFCURVE",
+"303 -6 CURVE SMOOTH",
+"267 -6 OFFCURVE",
+"251 8 OFFCURVE",
+"251 38 CURVE SMOOTH",
+"251 74 OFFCURVE",
+"297 88 OFFCURVE",
+"297 88 CURVE SMOOTH",
+"212 64 LINE SMOOTH",
+"212 64 OFFCURVE",
+"178 60 OFFCURVE",
+"178 27 CURVE SMOOTH",
+"178 -38 OFFCURVE",
+"227 -80 OFFCURVE",
+"299 -80 CURVE SMOOTH",
+"373 -80 OFFCURVE",
+"424 -48 OFFCURVE",
+"461 16 CURVE",
+"429 98 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"87 58 LINE",
+"109 -10 LINE",
+"318 58 LINE",
+"296 124 LINE"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"250 292 OFFCURVE",
+"269 280 OFFCURVE",
+"269 255 CURVE SMOOTH",
+"269 225 OFFCURVE",
+"250 212 OFFCURVE",
+"216 212 CURVE SMOOTH",
+"169 212 OFFCURVE",
+"132 244 OFFCURVE",
+"102 344 CURVE",
+"34 323 LINE",
+"75 178 OFFCURVE",
+"151 139 OFFCURVE",
+"214 139 CURVE SMOOTH",
+"274 139 OFFCURVE",
+"325 170 OFFCURVE",
+"339 216 CURVE SMOOTH",
+"340 220 OFFCURVE",
+"338 229 OFFCURVE",
+"338 233 CURVE SMOOTH",
+"339 238 OFFCURVE",
+"345 243 OFFCURVE",
+"345 248 CURVE SMOOTH",
+"345 324 OFFCURVE",
+"296 362 OFFCURVE",
+"223 362 CURVE SMOOTH",
+"201 362 OFFCURVE",
+"176 357 OFFCURVE",
+"158 351 CURVE",
+"179 284 LINE",
+"189 287 OFFCURVE",
+"204 292 OFFCURVE",
+"223 292 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"439 285 LINE",
+"424 277 OFFCURVE",
+"403 265 OFFCURVE",
+"375 265 CURVE SMOOTH",
+"345 265 OFFCURVE",
+"329 273 OFFCURVE",
+"301 288 CURVE",
+"291 210 LINE",
+"320 197 OFFCURVE",
+"337 188 OFFCURVE",
+"372 188 CURVE SMOOTH",
+"399 188 OFFCURVE",
+"431 198 OFFCURVE",
+"446 207 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-24 466 LINE",
+"-24 396 LINE",
+"579 396 LINE",
+"579 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 -117 LINE",
+"492 -117 LINE",
+"492 466 LINE",
+"410 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 157 OFFCURVE",
+"262 108 OFFCURVE",
+"201 90 CURVE",
+"215 50 LINE",
+"450 115 LINE",
+"437 157 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 79 OFFCURVE",
+"262 94 CURVE",
+"205 80 LINE",
+"216 47 LINE",
+"228 50 OFFCURVE",
+"228 50 OFFCURVE",
+"237 52 CURVE SMOOTH",
+"275 62 OFFCURVE",
+"301 31 OFFCURVE",
+"301 -1 CURVE SMOOTH",
+"301 -37 OFFCURVE",
+"272 -53 OFFCURVE",
+"237 -53 CURVE SMOOTH",
+"186 -53 OFFCURVE",
+"143 5 OFFCURVE",
+"113 52 CURVE",
+"74 27 LINE",
+"122 -45 OFFCURVE",
+"163 -100 OFFCURVE",
+"238 -100 CURVE SMOOTH",
+"284 -100 OFFCURVE",
+"349 -79 OFFCURVE",
+"349 -5 CURVE SMOOTH",
+"349 36 OFFCURVE"
+);
+}
+);
+width = 555;
+}
+);
+leftMetricsKey = "ny-deva";
 },
 {
 color = 1;
@@ -36617,13 +37151,13 @@ rightMetricsKey = "ra-deva";
 {
 color = 6;
 glyphname = "r_uMatra-deva";
-lastChange = "2014-11-08 05:54:07 +0000";
+lastChange = "2014-11-09 08:42:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{150, 447}";
+position = "{170, 447}";
 }
 );
 background = {
@@ -36776,13 +37310,13 @@ leftMetricsKey = "r-deva";
 {
 color = 6;
 glyphname = "r_uuMatra-deva";
-lastChange = "2014-11-08 05:54:20 +0000";
+lastChange = "2014-11-09 08:42:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{150, 447}";
+position = "{170, 447}";
 }
 );
 background = {
@@ -48787,6 +49321,56 @@ leftMetricsKey = "iiMatra-deva";
 rightMetricsKey = "iiMatra-deva";
 },
 {
+glyphname = "oMatra_candraBindu-deva";
+lastChange = "2014-11-09 08:02:07 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"54 588 LINE",
+"11 638 OFFCURVE",
+"-15 658 OFFCURVE",
+"-63 658 CURVE SMOOTH",
+"-95 658 OFFCURVE",
+"-133 638 OFFCURVE",
+"-133 638 CURVE SMOOTH",
+"-133 638 OFFCURVE",
+"-104 575 OFFCURVE",
+"-104 575 CURVE SMOOTH",
+"-104 575 OFFCURVE",
+"-85 586 OFFCURVE",
+"-63 586 CURVE SMOOTH",
+"-42 586 OFFCURVE",
+"-30 574 OFFCURVE",
+"-8 548 CURVE",
+"80 437 LINE",
+"172 437 LINE"
+);
+}
+);
+};
+components = (
+{
+name = "aaMatra-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "eMatra_candraBindu-deva";
+transform = "{1, 0, 0, 1, 201, 0}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 213;
+}
+);
+leftMetricsKey = "oMatra-deva";
+rightMetricsKey = "oMatra-deva";
+},
+{
 color = 5;
 glyphname = "oMatra_reph_candraBindu-deva";
 lastChange = "2014-10-29 13:09:03 +0000";
@@ -48942,6 +49526,29 @@ width = 213;
 );
 leftMetricsKey = "oMatra-deva";
 rightMetricsKey = "oMatra-deva";
+},
+{
+glyphname = "auMatra_candraBindu-deva";
+lastChange = "2014-11-09 08:02:31 +0000";
+layers = (
+{
+components = (
+{
+name = "aaMatra-deva";
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = "aiMatra_candraBindu-deva";
+transform = "{1, 0, 0, 1, 210, 0}";
+}
+);
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+width = 213;
+}
+);
+leftMetricsKey = "auMatra-deva";
+rightMetricsKey = "auMatra-deva";
 },
 {
 color = 5;
@@ -64369,7 +64976,7 @@ unicode = 094A;
 },
 {
 glyphname = "oMatra-deva";
-lastChange = "2014-10-29 07:55:32 +0000";
+lastChange = "2014-11-09 08:01:48 +0000";
 layers = (
 {
 components = (
@@ -64562,7 +65169,7 @@ width = 213;
 {
 color = 5;
 glyphname = "auMatra-deva";
-lastChange = "2014-10-29 12:45:35 +0000";
+lastChange = "2014-11-09 08:02:22 +0000";
 layers = (
 {
 components = (
@@ -87570,6 +88177,108 @@ width = 230;
 );
 },
 {
+glyphname = "rrVocalicMatra-deva.alt";
+lastChange = "2014-11-09 08:13:41 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{167, -8}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"197 -233 OFFCURVE",
+"226 -220 OFFCURVE",
+"253 -204 CURVE",
+"219 -146 LINE",
+"199 -158 OFFCURVE",
+"179 -165 OFFCURVE",
+"153 -165 CURVE",
+"123 -165 OFFCURVE",
+"106 -148 OFFCURVE",
+"106 -120 CURVE SMOOTH",
+"106 -93 OFFCURVE",
+"120 -75 OFFCURVE",
+"163 -75 CURVE",
+"192 -75 OFFCURVE",
+"212 -80 OFFCURVE",
+"229 -87 CURVE",
+"234 -85 LINE",
+"227 -20 LINE",
+"210 -13 OFFCURVE",
+"185 -8 OFFCURVE",
+"167 -8 CURVE",
+"84 -8 OFFCURVE",
+"37 -50 OFFCURVE",
+"37 -121 CURVE SMOOTH",
+"37 -183 OFFCURVE",
+"81 -233 OFFCURVE",
+"153 -233 CURVE"
+);
+}
+);
+};
+layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"192 -75 OFFCURVE",
+"212 -80 OFFCURVE",
+"229 -87 CURVE",
+"234 -85 LINE",
+"227 -20 LINE",
+"210 -13 OFFCURVE",
+"185 -8 OFFCURVE",
+"159 -8 CURVE",
+"80 -8 OFFCURVE",
+"32 -49 OFFCURVE",
+"32 -101 CURVE SMOOTH",
+"32 -135 OFFCURVE",
+"50 -166 OFFCURVE",
+"86 -183 CURVE",
+"52 -197 OFFCURVE",
+"32 -223 OFFCURVE",
+"32 -260 CURVE SMOOTH",
+"32 -310 OFFCURVE",
+"71 -358 OFFCURVE",
+"154 -358 CURVE SMOOTH",
+"194 -358 OFFCURVE",
+"224 -348 OFFCURVE",
+"251 -333 CURVE",
+"227 -271 LINE",
+"207 -283 OFFCURVE",
+"183 -290 OFFCURVE",
+"157 -290 CURVE SMOOTH",
+"127 -290 OFFCURVE",
+"104 -279 OFFCURVE",
+"104 -252 CURVE SMOOTH",
+"104 -221 OFFCURVE",
+"134 -216 OFFCURVE",
+"171 -216 CURVE SMOOTH",
+"213 -216 LINE",
+"213 -150 LINE",
+"171 -150 LINE SMOOTH",
+"132 -150 OFFCURVE",
+"105 -140 OFFCURVE",
+"105 -112 CURVE SMOOTH",
+"105 -86 OFFCURVE",
+"130 -75 OFFCURVE",
+"163 -75 CURVE"
+);
+}
+);
+width = 290;
+}
+);
+},
+{
 glyphname = "anusvara-deva.alt";
 lastChange = "2014-10-30 08:34:40 +0000";
 layers = (
@@ -88046,5 +88755,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 87;
+versionMinor = 92;
 }

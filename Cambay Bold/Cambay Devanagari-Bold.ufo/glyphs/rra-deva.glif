@@ -6,10 +6,10 @@
     <component base="ra-deva"/>
     <component base="nukta-deva" xOffset="60" yOffset="88"/>
     <contour>
-      <point x="150" y="447" type="move" name="top"/>
+      <point x="170" y="447" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="148" y="-20" type="move" name="bottom"/>
+      <point x="148" y="-50" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

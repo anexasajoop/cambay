@@ -431,7 +431,8 @@ iiMatra_reph_candraBindu-deva.alt5 ];
 
 @iLetters-alt2 = [ ka-deva nga-deva
 dda-deva
-na-deva nna-deva
+na-deva 
+#nna-deva
 va-deva
 qa-deva dddha-deva
 
@@ -559,7 +560,11 @@ m_bha-deva
 
 sh_ta-deva sh_ya-deva
 
-s_t_ra-deva ];
+s_t_ra-deva
+
+
+
+nna-deva ];
 
 @iLetters-alt12 = [ k_ss_ya-deva
 
@@ -856,17 +861,20 @@ sub yya-deva halant-deva ra-deva by yy_ra-deva;
 feature blwf {
 sub halant-deva ra-deva by rashtra-deva;
 
-sub [nga-deva ng_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-sub [cha-deva k_cha-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-sub [tta-deva tt_tta-deva tt_ttha-deva tt_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-sub [ttha-deva tth_ttha-deva tth_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-sub [ddha-deva ddh_ddha-deva ddh_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-sub [dda-deva dd_dda-deva dd_ddha-deva dd_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-#sub [d_ga-deva d_gha-deva d_da-deva d_dha-deva d_na-deva d_ba-deva d_bha-deva d_ra-deva d_va-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
-sub [dddha-deva dddh_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];;
-sub [rha-deva rh_ra-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
+sub [nga-deva ng_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [cha-deva k_cha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [nnna-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [tta-deva tt_tta-deva tt_ttha-deva tt_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [ttha-deva tth_ttha-deva tth_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [ddha-deva ddh_ddha-deva ddh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [dda-deva dd_dda-deva dd_ddha-deva dd_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [ra-deva rra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [qa-deva ghha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 
-sub [n_dda-deva sh_tta-deva s_dda-deva] [rVocalicMatra-deva]' by [rVocalicMatra-deva.alt];
+sub [dddha-deva dddh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [rha-deva rh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+
+sub [n_dda-deva sh_tta-deva s_dda-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 } blwf;
 
 feature half {
@@ -1269,25 +1277,29 @@ sub au-deva candraBindu-deva by au_candraBindu-deva;
 
 #####
 
-sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
-sub eMatra-deva reph-deva by eMatra_reph-deva;
-sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
-sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_candraBindu-deva;
-
-sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
-sub aiMatra-deva reph-deva by aiMatra_reph-deva;
-sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
-sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_candraBindu-deva;
-
 sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
 sub oMatra-deva reph-deva by oMatra_reph-deva;
 sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;
+sub oMatra-deva candraBindu-deva by oMatra_candraBindu-deva;
 sub oMatra-deva reph-deva candraBindu-deva by oMatra_reph_candraBindu-deva;
 
 sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
 sub auMatra-deva reph-deva by auMatra_reph-deva;
 sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;
+sub auMatra-deva candraBindu-deva by auMatra_candraBindu-deva;
 sub auMatra-deva reph-deva candraBindu-deva by auMatra_reph_candraBindu-deva;
+
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub eMatra-deva candraBindu-deva by eMatra_candraBindu-deva;
+sub eMatra-deva reph-deva candraBindu-deva by eMatra_reph_candraBindu-deva;
+
+sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub aiMatra-deva candraBindu-deva by aiMatra_candraBindu-deva;
+sub aiMatra-deva reph-deva candraBindu-deva by aiMatra_reph_candraBindu-deva;
 
 sub iiMatra-deva reph-deva candraBindu-deva by iiMatra_reph_candraBindu-deva;
 sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
