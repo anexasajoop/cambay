@@ -100,6 +100,8 @@ sub jh_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by jh_ra-d
 sub ny_jha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_jha-deva;
 sub ny_ra-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_ra-deva;
 sub ny_sa-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_sa-deva;
+sub ny_ca-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_ca-deva;
+sub ny_ja-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by ny_ja-deva;
 
 sub tt_tta-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_tta-deva;
 sub tt_ttha-deva [ reph-deva reph_anusvara-deva reph_candraBindu-deva ] by tt_ttha-deva;
@@ -297,7 +299,7 @@ j_ja-deva j_j_ya-deva j_nya-deva j_ya-deva j_ra-deva
 jh_ra-deva
 
 # Nya
-ny_jha-deva ny_ra-deva ny_sa-deva
+ny_jha-deva ny_ra-deva ny_sa-deva ny_ca-deva ny_ja-deva
 
 # Tta
 tt_tta-deva tt_ttha-deva tt_ya-deva tt_ra-deva tt_va-deva
@@ -487,6 +489,8 @@ bha-deva
 lla-deva llla-deva
 
 j_nya-deva
+
+ny_ca-deva ny_ja-deva
 
 d_gha-deva d_ya-deva
 
@@ -861,6 +865,13 @@ sub yya-deva halant-deva ra-deva by yy_ra-deva;
 feature blwf {
 sub halant-deva ra-deva by rashtra-deva;
 
+sub [k_na-deva q_ra-deva][rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [khh_ra-deva][rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [g_na-deva ghh_ra-deva][rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [gh_na-deva][rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [p_na-deva][rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+sub [m_na-deva][rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+
 sub [nga-deva ng_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 sub [cha-deva k_cha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 sub [nnna-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
@@ -870,7 +881,6 @@ sub [ddha-deva ddh_ddha-deva ddh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-dev
 sub [dda-deva dd_dda-deva dd_ddha-deva dd_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 sub [ra-deva rra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 sub [qa-deva ghha-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
-
 sub [dddha-deva dddh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 sub [rha-deva rh_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 
@@ -1039,8 +1049,8 @@ sub c-deva ca-deva by c_ca-deva;
 
 sub j-deva ja-deva by j_ja-deva;
 
-#sub ny-deva ca-deva by ny_ca-deva;
-#sub ny-deva ja-deva by ny_ja-deva;
+sub ny-deva ca-deva by ny_ca-deva;
+sub ny-deva ja-deva by ny_ja-deva;
 sub ny-deva jha-deva by ny_jha-deva;
 sub ny-deva sa-deva by ny_sa-deva;
 
@@ -1360,6 +1370,7 @@ sub rr_ha-deva uuMatra-deva by rr_h_uuMatra-deva;
 sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
 
 sub ha-deva rVocalicMatra-deva by h_rVocalicMatra-deva;
+sub n_ha-deva rVocalicMatra-deva by n_h_rVocalicMatra-deva;
 } blws;
 
 feature psts {
