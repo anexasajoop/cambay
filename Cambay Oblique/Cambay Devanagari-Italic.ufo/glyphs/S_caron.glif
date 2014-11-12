@@ -4,6 +4,14 @@
   <unicode hex="0160"/>
   <outline>
     <component base="S"/>
-    <component base="caron.cap" xOffset="110" yOffset="-1"/>
+    <component base="caron.cap" xOffset="104" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

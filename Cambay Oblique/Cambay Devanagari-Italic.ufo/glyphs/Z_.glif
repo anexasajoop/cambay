@@ -5,18 +5,26 @@
   <outline>
     <contour>
       <point x="437" y="550" type="line"/>
-      <point x="437" y="509" type="line"/>
-      <point x="119" y="58" type="line"/>
-      <point x="439" y="58" type="line"/>
-      <point x="439" y="0" type="line"/>
-      <point x="36" y="0" type="line"/>
-      <point x="36" y="43" type="line"/>
-      <point x="352" y="494" type="line"/>
-      <point x="47" y="494" type="line"/>
+      <point x="428" y="509" type="line"/>
+      <point x="34" y="58" type="line"/>
+      <point x="343" y="58" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="-71" y="0" type="line"/>
+      <point x="-62" y="43" type="line"/>
+      <point x="330" y="494" type="line"/>
+      <point x="36" y="494" type="line"/>
       <point x="47" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="242" y="550" type="move" name="top.cap"/>
+      <point x="232" y="550" type="move" name="top.cap"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

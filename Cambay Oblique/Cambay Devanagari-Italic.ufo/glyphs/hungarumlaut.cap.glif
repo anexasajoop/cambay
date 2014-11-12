@@ -2,20 +2,18 @@
 <glyph name="hungarumlaut.cap" format="1">
   <advance width="411"/>
   <outline>
-    <contour>
-      <point x="5" y="627" type="line"/>
-      <point x="27" y="586" type="line"/>
-      <point x="198" y="652" type="line"/>
-      <point x="171" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="213" y="627" type="line"/>
-      <point x="235" y="586" type="line"/>
-      <point x="406" y="652" type="line"/>
-      <point x="379" y="705" type="line"/>
-    </contour>
+    <component base="acute.cap" xOffset="-10"/>
+    <component base="acute.cap" xOffset="200"/>
     <contour>
       <point x="143" y="550" type="move" name="_top.cap"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

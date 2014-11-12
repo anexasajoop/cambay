@@ -3,15 +3,23 @@
   <advance width="255"/>
   <outline>
     <contour>
-      <point x="218" y="720" type="line"/>
-      <point x="128" y="655" type="line"/>
-      <point x="38" y="720" type="line"/>
-      <point x="5" y="683" type="line"/>
-      <point x="128" y="592" type="line"/>
-      <point x="250" y="683" type="line"/>
+      <point x="244" y="723" type="line"/>
+      <point x="140" y="654" type="line"/>
+      <point x="57" y="724" type="line"/>
+      <point x="22" y="690" type="line"/>
+      <point x="136" y="592" type="line"/>
+      <point x="273" y="684" type="line"/>
     </contour>
     <contour>
       <point x="128" y="550" type="move" name="_top.cap"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
