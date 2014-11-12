@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghh-deva" format="1">
+  <advance width="248"/>
+  <outline>
+    <contour>
+      <point x="323" y="456" type="line"/>
+      <point x="28" y="456" type="line"/>
+      <point x="18" y="408" type="line"/>
+      <point x="139" y="408" type="line"/>
+      <point x="105" y="238" type="line"/>
+      <point x="52" y="238" type="line"/>
+      <point x="47" y="204" type="line"/>
+      <point x="99" y="113" type="line"/>
+      <point x="136" y="113" type="line"/>
+      <point x="194" y="408" type="line"/>
+      <point x="313" y="408" type="line"/>
+    </contour>
+    <component base="nukta-deva" xOffset="293" yOffset="104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

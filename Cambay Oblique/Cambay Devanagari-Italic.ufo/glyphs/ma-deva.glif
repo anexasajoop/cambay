@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ma-deva" format="1">
+  <advance width="464"/>
+  <unicode hex="092E"/>
+  <outline>
+    <contour>
+      <point x="539" y="456" type="line"/>
+      <point x="28" y="456" type="line"/>
+      <point x="18" y="408" type="line"/>
+      <point x="138" y="408" type="line"/>
+      <point x="99" y="204" type="line"/>
+      <point x="37" y="204" type="line"/>
+      <point x="31" y="171" type="line"/>
+      <point x="92" y="76" type="line"/>
+      <point x="129" y="76" type="line"/>
+      <point x="144" y="156" type="line"/>
+      <point x="326" y="156" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="431" y="408" type="line"/>
+      <point x="529" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="204" type="line"/>
+      <point x="154" y="204" type="line"/>
+      <point x="193" y="408" type="line"/>
+      <point x="375" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="325" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

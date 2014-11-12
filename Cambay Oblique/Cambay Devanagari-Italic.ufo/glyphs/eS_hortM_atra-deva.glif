@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eShortMatra-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0946"/>
+  <outline>
+    <contour>
+      <point x="-71" y="540"/>
+      <point x="-151" y="564"/>
+      <point x="-204" y="564" type="curve"/>
+      <point x="-214" y="564"/>
+      <point x="-225" y="564"/>
+      <point x="-237" y="564" type="curve" smooth="yes"/>
+      <point x="-279" y="570"/>
+      <point x="-297" y="579"/>
+      <point x="-294" y="636" type="curve"/>
+      <point x="-344" y="623" type="line"/>
+      <point x="-356" y="522"/>
+      <point x="-266" y="516"/>
+      <point x="-228" y="516" type="curve"/>
+      <point x="-154" y="516"/>
+      <point x="-132" y="492"/>
+      <point x="-143" y="439" type="curve"/>
+      <point x="-91" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="-124" y="447" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

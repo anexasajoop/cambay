@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ueMatra-deva" format="1">
+  <advance width="290"/>
+  <unicode hex="0956"/>
+  <outline>
+    <contour>
+      <point x="71" y="-131"/>
+      <point x="124" y="-108"/>
+      <point x="153" y="-59" type="curve"/>
+      <point x="116" y="-31" type="line"/>
+      <point x="91" y="-66"/>
+      <point x="61" y="-83"/>
+      <point x="18" y="-83" type="curve" smooth="yes"/>
+      <point x="-21" y="-83"/>
+      <point x="-44" y="-70"/>
+      <point x="-55" y="-35" type="curve"/>
+      <point x="-98" y="-55" type="line"/>
+      <point x="-87" y="-104"/>
+      <point x="-41" y="-131"/>
+      <point x="17" y="-131" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

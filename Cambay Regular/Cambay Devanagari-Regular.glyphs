@@ -22713,7 +22713,7 @@ leftMetricsKey = "ny-deva";
 {
 color = 3;
 glyphname = "ny_jha-deva";
-lastChange = "2014-08-20 19:01:53 +0000";
+lastChange = "2014-11-09 12:21:37 +0000";
 layers = (
 {
 anchors = (
@@ -22723,13 +22723,7 @@ position = "{833, 5}";
 },
 {
 name = top;
-position = "{832, 447}";
-}
-);
-components = (
-{
-name = "jha-deva";
-transform = "{1, 0, 0, 1, 371, 0}";
+position = "{833, 447}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
@@ -22797,6 +22791,111 @@ nodes = (
 "412 160 OFFCURVE",
 "446 186 OFFCURVE",
 "462 199 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"347 456 LINE",
+"347 408 LINE",
+"956 408 LINE",
+"956 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"848 237 OFFCURVE",
+"825 184 OFFCURVE",
+"742 184 CURVE SMOOTH",
+"717 184 OFFCURVE",
+"662 203 OFFCURVE",
+"627 211 CURVE",
+"615 168 LINE",
+"651 159 OFFCURVE",
+"703 136 OFFCURVE",
+"753 136 CURVE SMOOTH",
+"817 136 OFFCURVE",
+"848 186 OFFCURVE",
+"848 186 CURVE",
+"848 237 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"805 0 LINE",
+"861 0 LINE",
+"861 456 LINE",
+"805 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"475 53 LINE",
+"475 53 OFFCURVE",
+"570 -97 OFFCURVE",
+"570 -97 CURVE SMOOTH",
+"570 -97 OFFCURVE",
+"618 -75 OFFCURVE",
+"618 -75 CURVE",
+"526 59 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"423 189 OFFCURVE",
+"472 163 OFFCURVE",
+"521 163 CURVE SMOOTH",
+"548 163 OFFCURVE",
+"574 169 OFFCURVE",
+"594 169 CURVE SMOOTH",
+"636 169 OFFCURVE",
+"653 146 OFFCURVE",
+"653 116 CURVE SMOOTH",
+"653 77 OFFCURVE",
+"609 59 OFFCURVE",
+"574 59 CURVE SMOOTH",
+"554 59 OFFCURVE",
+"539 59 OFFCURVE",
+"522 65 CURVE",
+"469 134 LINE",
+"442 136 OFFCURVE",
+"417 121 OFFCURVE",
+"417 96 CURVE SMOOTH",
+"417 36 OFFCURVE",
+"511 9 OFFCURVE",
+"568 9 CURVE SMOOTH",
+"648 9 OFFCURVE",
+"707 50 OFFCURVE",
+"707 115 CURVE SMOOTH",
+"707 185 OFFCURVE",
+"663 222 OFFCURVE",
+"596 222 CURVE SMOOTH",
+"575 222 OFFCURVE",
+"552 216 OFFCURVE",
+"531 216 CURVE SMOOTH",
+"498 216 OFFCURVE",
+"476 223 OFFCURVE",
+"476 256 CURVE SMOOTH",
+"476 284 OFFCURVE",
+"500 294 OFFCURVE",
+"550 294 CURVE SMOOTH",
+"612 294 OFFCURVE",
+"629 289 OFFCURVE",
+"664 285 CURVE",
+"674 292 LINE",
+"674 456 LINE",
+"618 456 LINE",
+"618 341 LINE",
+"592 344 OFFCURVE",
+"584 345 OFFCURVE",
+"551 345 CURVE SMOOTH",
+"478 345 OFFCURVE",
+"423 323 OFFCURVE",
+"423 260 CURVE SMOOTH"
 );
 }
 );
@@ -25708,19 +25807,9 @@ rightMetricsKey = "ya-deva";
 {
 color = 3;
 glyphname = "t_tha-deva";
-lastChange = "2014-08-20 19:04:54 +0000";
+lastChange = "2014-11-09 12:27:08 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{623, 5}";
-},
-{
-name = top;
-position = "{622, 447}";
-}
-);
 components = (
 {
 name = "tha-deva";
@@ -26157,23 +26246,17 @@ leftMetricsKey = "t-deva";
 {
 color = 3;
 glyphname = "t_ma-deva";
-lastChange = "2014-08-20 19:05:02 +0000";
+lastChange = "2014-11-11 10:59:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{598, 5}";
+position = "{597, 5}";
 },
 {
 name = top;
 position = "{597, 447}";
-}
-);
-components = (
-{
-name = "ma-deva";
-transform = "{1, 0, 0, 1, 236, 0}";
 }
 );
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
@@ -26215,6 +26298,52 @@ nodes = (
 closed = 0;
 nodes = (
 "569 409 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"569 0 LINE",
+"625 0 LINE",
+"625 456 LINE",
+"569 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 140 LINE",
+"387 140 LINE",
+"387 456 LINE",
+"332 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 456 LINE",
+"212 408 LINE",
+"723 408 LINE",
+"723 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 204 LINE",
+"270 171 LINE",
+"349 76 LINE",
+"387 76 LINE",
+"387 204 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"355 204 LINE",
+"355 156 LINE",
+"615 156 LINE",
+"615 204 LINE"
 );
 }
 );
@@ -63353,6 +63482,7 @@ width = 299;
 {
 color = 1;
 glyphname = "s_r-deva";
+lastChange = "2014-11-11 09:22:15 +0000";
 layers = (
 {
 background = {
@@ -63420,8 +63550,8 @@ closed = 1;
 nodes = (
 "-24 456 LINE",
 "-24 408 LINE",
-"323 408 LINE",
-"323 456 LINE"
+"368 408 LINE",
+"368 456 LINE"
 );
 },
 {
@@ -84444,7 +84574,7 @@ width = 0;
 {
 color = 5;
 glyphname = "eMatra_reph-deva";
-lastChange = "2014-08-14 11:18:10 +0000";
+lastChange = "2014-11-11 06:52:28 +0000";
 layers = (
 {
 anchors = (
@@ -84524,9 +84654,9 @@ nodes = (
 "-3.91 578.12 CURVE",
 "23.44 620.12 LINE",
 "-0.98 635.74 OFFCURVE",
-"-35.16 654.3 OFFCURVE",
-"-77.15 654.3 CURVE SMOOTH",
-"-118.16 654.3 OFFCURVE",
+"-32 654 OFFCURVE",
+"-74 654 CURVE SMOOTH",
+"-115 654 OFFCURVE",
 "-161.13 629.88 OFFCURVE",
 "-170.9 580.08 CURVE",
 "-181.64 593.75 LINE",
