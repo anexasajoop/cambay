@@ -4,23 +4,28 @@
   <unicode hex="0237"/>
   <outline>
     <contour>
-      <point x="59" y="-108"/>
-      <point x="38" y="-141"/>
-      <point x="-4" y="-161" type="curve"/>
-      <point x="20" y="-208" type="line"/>
-      <point x="56" y="-197"/>
-      <point x="89" y="-176"/>
-      <point x="105" y="-143" type="curve" smooth="yes"/>
-      <point x="119" y="-113"/>
-      <point x="122" y="-105"/>
-      <point x="122" y="-50" type="curve" smooth="yes"/>
-      <point x="122" y="384" type="line"/>
-      <point x="59" y="384" type="line"/>
-      <point x="59" y="-53" type="line"/>
-      <point x="59" y="-62" type="line" smooth="yes"/>
+      <point x="-69" y="-106"/>
+      <point x="-98" y="-140"/>
+      <point x="-144" y="-160" type="curve"/>
+      <point x="-125" y="-209" type="line"/>
+      <point x="-41" y="-185"/>
+      <point x="-14" y="-148"/>
+      <point x="5" y="-52" type="curve" smooth="yes"/>
+      <point x="90" y="384" type="line"/>
+      <point x="27" y="384" type="line"/>
+      <point x="-58" y="-53" type="line"/>
+      <point x="-60" y="-60" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="90" y="384" type="move" name="top"/>
+      <point x="58" y="384" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

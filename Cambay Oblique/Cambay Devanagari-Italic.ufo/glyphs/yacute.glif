@@ -3,7 +3,20 @@
   <advance width="412"/>
   <unicode hex="00FD"/>
   <outline>
+    <contour>
+      <point x="152" y="427" type="line"/>
+      <point x="325" y="550" type="line"/>
+      <point x="293" y="596" type="line"/>
+      <point x="123" y="468" type="line"/>
+    </contour>
     <component base="y"/>
-    <component base="acute" xOffset="97"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

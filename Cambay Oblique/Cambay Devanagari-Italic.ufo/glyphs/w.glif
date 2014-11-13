@@ -4,23 +4,31 @@
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="152" y="0" type="line"/>
-      <point x="224" y="0" type="line"/>
-      <point x="321" y="297" type="line"/>
-      <point x="418" y="0" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="623" y="384" type="line"/>
-      <point x="557" y="384" type="line"/>
-      <point x="457" y="77" type="line"/>
-      <point x="455" y="62" type="line"/>
-      <point x="452" y="77" type="line"/>
-      <point x="356" y="384" type="line"/>
-      <point x="293" y="384" type="line"/>
-      <point x="192" y="77" type="line"/>
-      <point x="190" y="62" type="line"/>
-      <point x="189" y="77" type="line"/>
-      <point x="88" y="384" type="line"/>
-      <point x="22" y="384" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="273" y="297" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="592" y="384" type="line"/>
+      <point x="524" y="384" type="line"/>
+      <point x="364" y="77" type="line"/>
+      <point x="359" y="62" type="line"/>
+      <point x="359" y="77" type="line"/>
+      <point x="320" y="384" type="line"/>
+      <point x="256" y="384" type="line"/>
+      <point x="99" y="77" type="line"/>
+      <point x="95" y="62" type="line"/>
+      <point x="96" y="77" type="line"/>
+      <point x="55" y="384" type="line"/>
+      <point x="-7" y="384" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

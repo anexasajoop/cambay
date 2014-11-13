@@ -19,7 +19,7 @@
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/11/12 11:19:22</string>
+	<string>2014/11/13 17:19:38</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pooja Saxena</string>
 	<key>openTypeNameDesignerURL</key>
@@ -59,7 +59,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>xHeight</key>
 	<integer>384</integer>
 </dict>
