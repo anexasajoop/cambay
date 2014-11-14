@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="400"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="354" y="58" type="line"/>
+      <point x="109" y="58" type="line"/>
+      <point x="203" y="550" type="line"/>
+      <point x="137" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="435" type="line"/>
+      <point x="293" y="435" type="line"/>
+      <point x="370" y="586" type="line"/>
+      <point x="302" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

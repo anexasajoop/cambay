@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemetright" format="1">
-  <advance width="363"/>
+  <advance width="358"/>
   <unicode hex="00BB"/>
   <outline>
-    <component base="guilsinglright"/>
-    <component base="guilsinglright" xOffset="143"/>
+    <component base="guilsinglright" xOffset="66"/>
+    <component base="guilsinglright" xOffset="209"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>
