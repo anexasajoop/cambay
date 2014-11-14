@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="574"/>
+  <advance width="585"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="145" y="550" type="line"/>
-      <point x="345" y="89" type="line"/>
-      <point x="446" y="550" type="line"/>
-      <point x="514" y="550" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="312" y="0" type="line"/>
-      <point x="111" y="463" type="line"/>
-      <point x="22" y="0" type="line"/>
-      <point x="-44" y="0" type="line"/>
-      <point x="63" y="550" type="line"/>
+      <point x="219" y="550" type="line"/>
+      <point x="419" y="89" type="line"/>
+      <point x="520" y="550" type="line"/>
+      <point x="588" y="550" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="185" y="463" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="137" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="296" y="550" type="move" name="top.cap"/>
+      <point x="370" y="550" type="move" name="top.cap"/>
     </contour>
     <contour>
-      <point x="171" y="0" type="move" name="bottom"/>
+      <point x="245" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>5</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

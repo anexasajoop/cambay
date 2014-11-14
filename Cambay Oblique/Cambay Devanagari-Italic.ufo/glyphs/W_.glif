@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="777"/>
+  <advance width="739"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="82" y="550" type="line"/>
-      <point x="100" y="88" type="line"/>
-      <point x="339" y="550" type="line"/>
-      <point x="402" y="550" type="line"/>
-      <point x="442" y="88" type="line"/>
-      <point x="652" y="550" type="line"/>
-      <point x="729" y="550" type="line"/>
-      <point x="473" y="0" type="line"/>
-      <point x="385" y="0" type="line"/>
-      <point x="348" y="422" type="line"/>
-      <point x="121" y="0" type="line"/>
-      <point x="41" y="0" type="line"/>
-      <point x="8" y="550" type="line"/>
+      <point x="153" y="550" type="line"/>
+      <point x="171" y="88" type="line"/>
+      <point x="410" y="550" type="line"/>
+      <point x="473" y="550" type="line"/>
+      <point x="513" y="88" type="line"/>
+      <point x="723" y="550" type="line"/>
+      <point x="800" y="550" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="419" y="422" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="79" y="550" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>5</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>
