@@ -850,6 +850,8 @@ sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva t
 sub [lla-deva llla-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 
 sub [k_na-deva g_na-deva ghh_ra-deva gh_na-deva ng_ra-deva tth_ra-deva ddh_ra-deva f_ra-deva b_na-deva q_ra-deva yy_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
+
+sub [s_na-deva t_s_na-deva m_na-deva p_na-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];
 } blwf;
 
 feature half {

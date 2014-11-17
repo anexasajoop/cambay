@@ -200,7 +200,7 @@ code = "sub ka-deva halant-deva ra-deva by k_ra-deva;\012sub kha-deva halant-dev
 name = rkrf;
 },
 {
-code = "sub halant-deva ra-deva by rashtra-deva;\012\012sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva ra-deva rra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [lla-deva llla-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [k_na-deva g_na-deva ghh_ra-deva gh_na-deva ng_ra-deva tth_ra-deva ddh_ra-deva f_ra-deva b_na-deva q_ra-deva yy_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];";
+code = "sub halant-deva ra-deva by rashtra-deva;\012\012sub [cha-deva k_cha-deva tta-deva tt_ra-deva tt_tta-deva ss_tta-deva ttha-deva tt_ttha-deva tth_ttha-deva ss_ttha-deva dda-deva dd_ra-deva dd_dda-deva n_dda-deva l_dda-deva s_dda-deva ddha-deva dd_ddha-deva ddh_ddha-deva dddha-deva rha-deva ra-deva rra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [lla-deva llla-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [k_na-deva g_na-deva ghh_ra-deva gh_na-deva ng_ra-deva tth_ra-deva ddh_ra-deva f_ra-deva b_na-deva q_ra-deva yy_ra-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];\012\012sub [s_na-deva t_s_na-deva m_na-deva p_na-deva] [rVocalicMatra-deva rrVocalicMatra-deva]' by [rVocalicMatra-deva.alt rrVocalicMatra-deva.alt];";
 name = blwf;
 },
 {
@@ -11204,13 +11204,13 @@ unicode = 03C0;
 {
 color = 4;
 glyphname = "ka-deva";
-lastChange = "2014-11-09 12:29:44 +0000";
+lastChange = "2014-11-17 10:49:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{248, 5}";
+position = "{247, 5}";
 },
 {
 name = top;
@@ -11293,13 +11293,13 @@ unicode = 0915;
 {
 color = 4;
 glyphname = "kha-deva";
-lastChange = "2014-11-09 12:29:44 +0000";
+lastChange = "2014-11-17 10:49:29 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{444, 5}";
+position = "{443, 5}";
 },
 {
 name = top;
@@ -16430,13 +16430,13 @@ unicode = 095B;
 {
 color = 4;
 glyphname = "dddha-deva";
-lastChange = "2014-11-09 12:29:44 +0000";
+lastChange = "2014-11-17 12:44:30 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{187, -25}";
+position = "{150, -147}";
 },
 {
 name = top;
@@ -16522,13 +16522,13 @@ unicode = 095C;
 {
 color = 4;
 glyphname = "rha-deva";
-lastChange = "2014-11-09 12:29:44 +0000";
+lastChange = "2014-11-17 12:44:39 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{173, -25}";
+position = "{140, -154}";
 },
 {
 name = top;
@@ -25250,13 +25250,13 @@ width = 796;
 {
 color = 4;
 glyphname = "tt_ra-deva";
-lastChange = "2014-11-09 12:29:53 +0000";
+lastChange = "2014-11-17 12:26:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{216, -145}";
+position = "{155, -145}";
 },
 {
 name = top;
@@ -25669,13 +25669,13 @@ width = 838;
 {
 color = 4;
 glyphname = "tth_ra-deva";
-lastChange = "2014-11-09 12:29:53 +0000";
+lastChange = "2014-11-17 12:25:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{216, -145}";
+position = "{165, -145}";
 },
 {
 name = top;
@@ -26765,13 +26765,13 @@ width = 801;
 {
 color = 4;
 glyphname = "ddh_ra-deva";
-lastChange = "2014-11-09 12:29:53 +0000";
+lastChange = "2014-11-17 12:26:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{81, -145}";
+position = "{166, -145}";
 },
 {
 name = top;
@@ -27679,9 +27679,19 @@ width = 689;
 {
 color = 4;
 glyphname = "t_ma-deva";
-lastChange = "2014-11-11 10:59:32 +0000";
+lastChange = "2014-11-17 12:27:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{561, 5}";
+},
+{
+name = top;
+position = "{647, 447}";
+}
+);
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
 name = "Regular Italic";
 paths = (
@@ -27777,9 +27787,19 @@ width = 700;
 {
 color = 4;
 glyphname = "t_m_ya-deva";
-lastChange = "2014-11-11 11:03:22 +0000";
+lastChange = "2014-11-17 12:27:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{793, 5}";
+},
+{
+name = top;
+position = "{879, 447}";
+}
+);
 layerId = "CFA4B904-E3F1-48B6-A7F6-47DC1FF2A3E1";
 name = "Regular Italic";
 paths = (
@@ -28803,13 +28823,13 @@ width = 1010;
 {
 color = 4;
 glyphname = "t_s_na-deva";
-lastChange = "2014-11-09 12:36:27 +0000";
+lastChange = "2014-11-17 12:35:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{651, 5}";
+position = "{635, -54}";
 },
 {
 name = top;
@@ -33587,13 +33607,13 @@ leftMetricsKey = "n-deva";
 {
 color = 4;
 glyphname = "p_na-deva";
-lastChange = "2014-11-09 12:50:47 +0000";
+lastChange = "2014-11-17 12:34:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{299, 5}";
+position = "{288, -41}";
 },
 {
 name = top;
@@ -34886,13 +34906,13 @@ width = 721;
 {
 color = 4;
 glyphname = "m_na-deva";
-lastChange = "2014-11-09 12:50:47 +0000";
+lastChange = "2014-11-17 12:34:48 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{330, 5}";
+position = "{321, -42}";
 },
 {
 name = top;
@@ -42817,13 +42837,13 @@ width = 1019;
 {
 color = 4;
 glyphname = "s_na-deva";
-lastChange = "2014-11-11 06:07:32 +0000";
+lastChange = "2014-11-17 12:35:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{407, 5}";
+position = "{392, -53}";
 },
 {
 name = top;
@@ -87939,5 +87959,5 @@ manufacturer = "Pooja Saxena";
 manufacturerURL = "http://www.poojasaxena.in/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 17;
+versionMinor = 18;
 }
