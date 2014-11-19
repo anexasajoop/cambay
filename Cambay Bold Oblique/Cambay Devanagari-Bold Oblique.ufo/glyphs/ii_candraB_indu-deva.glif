@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii_candraBindu-deva" format="1">
+  <advance width="376"/>
+  <outline>
+    <component base="i-deva"/>
+    <component base="reph_candraBindu-deva" xOffset="160"/>
+  </outline>
+</glyph>

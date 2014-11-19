@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bh-deva" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="179" y="125" type="line"/>
+      <point x="214" y="307" type="line" smooth="yes"/>
+      <point x="236" y="419"/>
+      <point x="208" y="479"/>
+      <point x="122" y="479" type="curve" smooth="yes"/>
+      <point x="55" y="479"/>
+      <point x="4" y="437"/>
+      <point x="-7" y="376" type="curve" smooth="yes"/>
+      <point x="-18" y="320"/>
+      <point x="10" y="279"/>
+      <point x="54" y="253" type="curve"/>
+      <point x="100" y="309" type="line"/>
+      <point x="77" y="323"/>
+      <point x="59" y="338"/>
+      <point x="64" y="362" type="curve" smooth="yes"/>
+      <point x="69" y="386"/>
+      <point x="89" y="403"/>
+      <point x="110" y="403" type="curve" smooth="yes"/>
+      <point x="154" y="403"/>
+      <point x="132" y="332"/>
+      <point x="128" y="313" type="curve" smooth="yes"/>
+      <point x="92" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="206" type="line"/>
+      <point x="146" y="131" type="line"/>
+      <point x="372" y="131" type="line"/>
+      <point x="387" y="206" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="206" type="line"/>
+      <point x="34" y="164" type="line"/>
+      <point x="106" y="41" type="line"/>
+      <point x="105" y="41"/>
+      <point x="163" y="44"/>
+      <point x="163" y="44" type="curve"/>
+      <point x="195" y="206" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

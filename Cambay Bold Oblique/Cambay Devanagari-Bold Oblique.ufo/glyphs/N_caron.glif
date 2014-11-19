@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="1">
+  <advance width="706"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="328" y="767" type="line"/>
+      <point x="419" y="684" type="line"/>
+      <point x="548" y="766" type="line"/>
+      <point x="586" y="709" type="line"/>
+      <point x="410" y="595" type="line"/>
+      <point x="275" y="719" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

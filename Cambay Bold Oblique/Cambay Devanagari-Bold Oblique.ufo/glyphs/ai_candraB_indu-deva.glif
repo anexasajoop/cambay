@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ai_candraBindu-deva" format="1">
+  <advance width="439"/>
+  <outline>
+    <contour>
+      <point x="437" y="629"/>
+      <point x="451" y="642"/>
+      <point x="451" y="662" type="curve" smooth="yes"/>
+      <point x="451" y="682"/>
+      <point x="437" y="696"/>
+      <point x="417" y="696" type="curve" smooth="yes"/>
+      <point x="397" y="696"/>
+      <point x="384" y="682"/>
+      <point x="384" y="662" type="curve" smooth="yes"/>
+      <point x="384" y="642"/>
+      <point x="397" y="629"/>
+      <point x="417" y="629" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="482" y="545"/>
+      <point x="521" y="582"/>
+      <point x="534" y="628" type="curve"/>
+      <point x="485" y="650" type="line"/>
+      <point x="471" y="614"/>
+      <point x="450" y="597"/>
+      <point x="418" y="597" type="curve" smooth="yes"/>
+      <point x="386" y="597"/>
+      <point x="365" y="614"/>
+      <point x="350" y="650" type="curve"/>
+      <point x="302" y="628" type="line"/>
+      <point x="314" y="582"/>
+      <point x="354" y="545"/>
+      <point x="418" y="545" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ai-deva"/>
+  </outline>
+</glyph>

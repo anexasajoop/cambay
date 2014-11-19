@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedCandraBindu-deva" format="1">
+  <advance width="306"/>
+  <unicode hex="0900"/>
+  <outline>
+    <component base="candraBindu-deva" xOffset="52" yOffset="1230" xScale="-1" yScale="-1"/>
+  </outline>
+</glyph>

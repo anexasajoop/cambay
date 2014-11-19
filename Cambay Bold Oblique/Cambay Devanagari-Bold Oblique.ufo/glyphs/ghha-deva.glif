@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghha-deva" format="1">
+  <advance width="472"/>
+  <unicode hex="095A"/>
+  <outline>
+    <contour>
+      <point x="-10" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="482" y="396" type="line"/>
+      <point x="496" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="407" y="466" type="line"/>
+      <point x="322" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="276" type="line"/>
+      <point x="-2" y="234" type="line"/>
+      <point x="61" y="111" type="line"/>
+      <point x="60" y="111"/>
+      <point x="120" y="114"/>
+      <point x="120" y="114" type="curve"/>
+      <point x="152" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="216" type="line"/>
+      <point x="140" y="216" type="line"/>
+      <point x="189" y="466" type="line"/>
+      <point x="104" y="466" type="line"/>
+    </contour>
+    <component base="nukta-deva" xOffset="248" yOffset="94"/>
+    <contour>
+      <point x="360" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="266" y="-35" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

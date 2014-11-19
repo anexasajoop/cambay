@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tth_ra-deva" format="1">
+  <advance width="472"/>
+  <outline>
+    <component base="ttha-deva"/>
+    <component base="rashtra-deva" xOffset="-6" yOffset="-10"/>
+    <contour>
+      <point x="293" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="238" y="-193" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h_r-deva" format="1">
+  <advance width="461"/>
+  <outline>
+    <component base="h_ra-deva"/>
+    <component base="halant-deva" xOffset="82" yOffset="-43"/>
+  </outline>
+</glyph>

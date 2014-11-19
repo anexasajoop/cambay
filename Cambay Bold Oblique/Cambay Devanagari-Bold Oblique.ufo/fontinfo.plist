@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>720</integer>
+	<key>capHeight</key>
+	<integer>550</integer>
+	<key>copyright</key>
+	<string>(c) Copyright Pooja Saxena, 2014.</string>
+	<key>descender</key>
+	<integer>-300</integer>
+	<key>familyName</key>
+	<string>Cambay Devanagari</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/11/18 18:43:32</string>
+	<key>openTypeNameDesigner</key>
+	<string>Pooja Saxena</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.poojasaxena.in/</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Pooja Saxena</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.poojasaxena.in/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Cambay Devanagari</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold Oblique</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>70</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>85</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>bold italic</string>
+	<key>styleName</key>
+	<string>Bold Italic</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>384</integer>
+</dict>
+</plist>

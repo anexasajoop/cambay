@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n_na-deva" format="1">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="380" y="466" type="line"/>
+      <point x="295" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="455" y="396" type="line"/>
+      <point x="469" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="-7" y="93" type="line"/>
+      <point x="2" y="49" type="line"/>
+      <point x="100" y="-5" type="line"/>
+      <point x="142" y="19" type="line"/>
+      <point x="75" y="143" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="337" type="line"/>
+      <point x="32" y="274" type="line"/>
+      <point x="261" y="192" type="line"/>
+      <point x="305" y="254" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="45" type="line"/>
+      <point x="280" y="192" type="line"/>
+      <point x="252" y="251" type="line"/>
+      <point x="-1" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="345" type="line"/>
+      <point x="9" y="306" type="line"/>
+      <point x="6" y="184" type="line"/>
+      <point x="45" y="169" type="line"/>
+      <point x="122" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="248" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

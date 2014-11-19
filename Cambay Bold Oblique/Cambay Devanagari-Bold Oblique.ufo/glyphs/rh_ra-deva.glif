@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rh_ra-deva" format="1">
+  <advance width="418"/>
+  <outline>
+    <contour>
+      <point x="69" y="-241" type="line"/>
+      <point x="115" y="-294" type="line"/>
+      <point x="206" y="-226" type="line"/>
+      <point x="298" y="-294" type="line"/>
+      <point x="343" y="-241" type="line"/>
+      <point x="223" y="-151" type="line"/>
+      <point x="189" y="-151" type="line"/>
+    </contour>
+    <component base="rha-deva"/>
+  </outline>
+</glyph>

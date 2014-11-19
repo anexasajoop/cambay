@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_tha-deva" format="1">
+  <advance width="967"/>
+  <outline>
+    <contour>
+      <point x="771" y="466" type="line"/>
+      <point x="757" y="396" type="line"/>
+      <point x="977" y="396" type="line"/>
+      <point x="991" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="726" y="0" type="line"/>
+      <point x="811" y="0" type="line"/>
+      <point x="902" y="466" type="line"/>
+      <point x="817" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="218"/>
+      <point x="253" y="169"/>
+      <point x="167" y="169" type="curve" smooth="yes"/>
+      <point x="115" y="169"/>
+      <point x="107" y="201"/>
+      <point x="118" y="257" type="curve" smooth="yes"/>
+      <point x="157" y="456" type="line"/>
+      <point x="72" y="456" type="line"/>
+      <point x="29" y="237" type="line" smooth="yes"/>
+      <point x="14" y="157"/>
+      <point x="62" y="93"/>
+      <point x="164" y="93" type="curve" smooth="yes"/>
+      <point x="235" y="93"/>
+      <point x="304" y="136"/>
+      <point x="304" y="136" type="curve"/>
+      <point x="317" y="218" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="486" y="396" type="line"/>
+      <point x="500" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="395" y="466" type="line"/>
+      <point x="313" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="228" type="line"/>
+      <point x="499" y="286"/>
+      <point x="463" y="319"/>
+      <point x="396" y="319" type="curve" smooth="yes"/>
+      <point x="375" y="319"/>
+      <point x="354" y="314"/>
+      <point x="327" y="306" type="curve"/>
+      <point x="331" y="233" type="line"/>
+      <point x="354" y="240"/>
+      <point x="369" y="248"/>
+      <point x="389" y="248" type="curve" smooth="yes"/>
+      <point x="436" y="248"/>
+      <point x="452" y="227"/>
+      <point x="476" y="185" type="curve"/>
+    </contour>
+    <contour>
+      <point x="648" y="405"/>
+      <point x="653" y="380"/>
+      <point x="648" y="357" type="curve" smooth="yes"/>
+      <point x="634" y="283"/>
+      <point x="553" y="249"/>
+      <point x="492" y="219" type="curve"/>
+      <point x="475" y="185" type="line"/>
+      <point x="493" y="139"/>
+      <point x="557" y="74"/>
+      <point x="650" y="74" type="curve" smooth="yes"/>
+      <point x="720" y="74"/>
+      <point x="779" y="119"/>
+      <point x="779" y="119" type="curve"/>
+      <point x="799" y="227" type="line"/>
+      <point x="764" y="182"/>
+      <point x="704" y="156"/>
+      <point x="651" y="156" type="curve" smooth="yes"/>
+      <point x="621" y="156"/>
+      <point x="598" y="165"/>
+      <point x="583" y="177" type="curve"/>
+      <point x="657" y="226"/>
+      <point x="711" y="266"/>
+      <point x="725" y="339" type="curve" smooth="yes"/>
+      <point x="738" y="407"/>
+      <point x="709" y="478"/>
+      <point x="628" y="478" type="curve"/>
+      <point x="563" y="478"/>
+      <point x="517" y="437"/>
+      <point x="507" y="386" type="curve"/>
+      <point x="496" y="330"/>
+      <point x="526" y="303"/>
+      <point x="554" y="286" type="curve"/>
+      <point x="601" y="339" type="line"/>
+      <point x="589" y="348"/>
+      <point x="578" y="358"/>
+      <point x="580" y="372" type="curve"/>
+      <point x="584" y="389"/>
+      <point x="597" y="405"/>
+      <point x="622" y="405" type="curve"/>
+    </contour>
+    <component base="nukta-deva" xOffset="233" yOffset="89"/>
+    <contour>
+      <point x="856" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="770" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
