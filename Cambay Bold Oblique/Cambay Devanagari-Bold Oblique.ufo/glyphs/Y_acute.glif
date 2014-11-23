@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute" format="1">
-  <advance width="509"/>
+  <advance width="518"/>
   <unicode hex="00DD"/>
   <outline>
     <contour>
-      <point x="167" y="580" type="line"/>
-      <point x="396" y="663" type="line"/>
-      <point x="362" y="746" type="line"/>
-      <point x="137" y="641" type="line"/>
+      <point x="207" y="580" type="line"/>
+      <point x="436" y="663" type="line"/>
+      <point x="402" y="746" type="line"/>
+      <point x="177" y="641" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>

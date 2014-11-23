@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent" format="1">
-  <advance width="455"/>
+  <advance width="492"/>
   <unicode hex="0123"/>
   <outline>
     <contour>
-      <point x="238" y="450" type="line"/>
-      <point x="168" y="450" type="line"/>
-      <point x="228" y="626" type="line"/>
-      <point x="319" y="626" type="line"/>
+      <point x="345" y="450" type="line"/>
+      <point x="275" y="450" type="line"/>
+      <point x="335" y="626" type="line"/>
+      <point x="426" y="626" type="line"/>
     </contour>
-    <component base="g" xOffset="-107"/>
+    <component base="g"/>
   </outline>
   <lib>
     <dict>

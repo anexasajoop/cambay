@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="1">
-  <advance width="331"/>
+  <advance width="265"/>
   <unicode hex="012C"/>
   <outline>
     <component base="I"/>
-    <component base="breve.cap" xOffset="81"/>
+    <component base="breve.cap" xOffset="48"/>
   </outline>
   <lib>
     <dict>
