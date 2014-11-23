@@ -2,7 +2,24 @@
 <glyph name="h_r-deva" format="1">
   <advance width="461"/>
   <outline>
+    <contour>
+      <point x="206" y="-112"/>
+      <point x="260" y="-179"/>
+      <point x="289" y="-227" type="curve"/>
+      <point x="228" y="-275" type="line"/>
+      <point x="179" y="-202"/>
+      <point x="125" y="-183"/>
+      <point x="46" y="-183" type="curve"/>
+      <point x="66" y="-112" type="line"/>
+    </contour>
     <component base="h_ra-deva"/>
-    <component base="halant-deva" xOffset="82" yOffset="-43"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="auMatra_candraBindu-deva" format="1">
-  <advance width="213"/>
+  <advance width="227"/>
   <outline>
     <component base="aaMatra-deva"/>
-    <component base="aiMatra_candraBindu-deva" xOffset="210"/>
+    <component base="aiMatra_candraBindu-deva" xOffset="220"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

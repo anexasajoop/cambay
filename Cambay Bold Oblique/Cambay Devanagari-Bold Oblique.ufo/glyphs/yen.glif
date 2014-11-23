@@ -1,32 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="469"/>
+  <advance width="491"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="234" y="297" type="line"/>
-      <point x="332" y="466" type="line"/>
-      <point x="429" y="466" type="line"/>
-      <point x="291" y="253" type="line"/>
-      <point x="390" y="253" type="line"/>
-      <point x="390" y="183" type="line"/>
-      <point x="272" y="183" type="line"/>
-      <point x="272" y="142" type="line"/>
-      <point x="390" y="142" type="line"/>
-      <point x="390" y="72" type="line"/>
-      <point x="272" y="72" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="72" type="line"/>
-      <point x="79" y="72" type="line"/>
-      <point x="79" y="142" type="line"/>
-      <point x="190" y="142" type="line"/>
-      <point x="190" y="183" type="line"/>
-      <point x="79" y="183" type="line"/>
-      <point x="79" y="253" type="line"/>
-      <point x="174" y="253" type="line"/>
-      <point x="40" y="466" type="line"/>
-      <point x="139" y="466" type="line"/>
+      <point x="228" y="297" type="line"/>
+      <point x="358" y="466" type="line"/>
+      <point x="451" y="466" type="line"/>
+      <point x="281" y="253" type="line"/>
+      <point x="376" y="253" type="line"/>
+      <point x="363" y="183" type="line"/>
+      <point x="250" y="183" type="line"/>
+      <point x="242" y="142" type="line"/>
+      <point x="355" y="142" type="line"/>
+      <point x="341" y="72" type="line"/>
+      <point x="228" y="72" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="148" y="72" type="line"/>
+      <point x="40" y="72" type="line"/>
+      <point x="54" y="142" type="line"/>
+      <point x="160" y="142" type="line"/>
+      <point x="168" y="183" type="line"/>
+      <point x="62" y="183" type="line"/>
+      <point x="75" y="253" type="line"/>
+      <point x="164" y="253" type="line"/>
+      <point x="77" y="466" type="line"/>
+      <point x="165" y="466" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

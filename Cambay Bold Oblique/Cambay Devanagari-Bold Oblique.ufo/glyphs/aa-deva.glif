@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aa-deva" format="1">
-  <advance width="813"/>
+  <advance width="843"/>
   <unicode hex="0906"/>
   <outline>
     <component base="a-deva"/>
-    <component base="aaMatra-deva" xOffset="600"/>
+    <component base="aaMatra-deva" xOffset="616"/>
     <contour>
-      <point x="706" y="447" type="move" name="top"/>
+      <point x="752" y="447" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

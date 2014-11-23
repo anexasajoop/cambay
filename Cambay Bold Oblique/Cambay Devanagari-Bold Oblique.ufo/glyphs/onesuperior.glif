@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="193"/>
+  <advance width="200"/>
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="168" y="275" type="line"/>
-      <point x="96" y="275" type="line"/>
-      <point x="96" y="513" type="line"/>
-      <point x="40" y="497" type="line"/>
+      <point x="115" y="275" type="line"/>
+      <point x="45" y="275" type="line"/>
+      <point x="89" y="513" type="line"/>
+      <point x="29" y="497" type="line"/>
       <point x="15" y="553" type="line"/>
-      <point x="116" y="586" type="line"/>
-      <point x="168" y="586" type="line"/>
+      <point x="123" y="586" type="line"/>
+      <point x="175" y="586" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
