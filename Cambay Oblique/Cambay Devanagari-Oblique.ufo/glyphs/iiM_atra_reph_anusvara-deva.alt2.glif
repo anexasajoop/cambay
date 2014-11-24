@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph_anusvara-deva.alt2" format="1">
+  <advance width="209"/>
+  <outline>
+    <contour>
+      <point x="258" y="499"/>
+      <point x="270" y="511"/>
+      <point x="273" y="525" type="curve" smooth="yes"/>
+      <point x="277" y="545"/>
+      <point x="266" y="560"/>
+      <point x="245" y="560" type="curve" smooth="yes"/>
+      <point x="229" y="560"/>
+      <point x="216" y="548"/>
+      <point x="214" y="534" type="curve" smooth="yes"/>
+      <point x="211" y="515"/>
+      <point x="221" y="499"/>
+      <point x="240" y="499" type="curve" smooth="yes"/>
+    </contour>
+    <component base="iiMatra_reph-deva.alt2"/>
+  </outline>
+</glyph>

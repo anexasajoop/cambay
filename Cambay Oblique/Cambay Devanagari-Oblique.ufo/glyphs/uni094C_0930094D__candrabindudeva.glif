@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094C0930094D_candrabindudeva" format="1">
+  <advance width="214"/>
+  <outline>
+    <component base="uni093E"/>
+    <component base="aivowelsigndeva_uni0930094D_can" xOffset="281"/>
+  </outline>
+</glyph>

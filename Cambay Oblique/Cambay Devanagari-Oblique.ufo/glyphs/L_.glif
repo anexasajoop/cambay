@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="400"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="203" y="550" type="line"/>
+      <point x="110" y="58" type="line"/>
+      <point x="354" y="58" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="137" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="550" type="move" name="top.cap"/>
+    </contour>
+    <contour>
+      <point x="186" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

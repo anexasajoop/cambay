@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0939094D0930094D" format="1">
+  <advance width="396"/>
+  <outline>
+    <contour>
+      <point x="226" y="-101"/>
+      <point x="269" y="-163"/>
+      <point x="298" y="-211" type="curve"/>
+      <point x="254" y="-246" type="line"/>
+      <point x="209" y="-167"/>
+      <point x="165" y="-153"/>
+      <point x="86" y="-153" type="curve"/>
+      <point x="99" y="-101" type="line"/>
+    </contour>
+    <component base="uni0939094D_radeva"/>
+  </outline>
+</glyph>
