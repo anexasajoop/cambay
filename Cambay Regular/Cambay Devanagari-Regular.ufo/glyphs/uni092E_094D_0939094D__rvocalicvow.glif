@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D0939094D_rvocalicvow" format="1">
+  <advance width="659"/>
+  <outline>
+    <contour>
+      <point x="96" y="155" type="line"/>
+      <point x="151" y="155" type="line"/>
+      <point x="151" y="456" type="line"/>
+      <point x="96" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="293" y="408" type="line"/>
+      <point x="293" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="219" type="line"/>
+      <point x="34" y="186" type="line"/>
+      <point x="113" y="91" type="line"/>
+      <point x="113" y="91"/>
+      <point x="151" y="91"/>
+      <point x="151" y="91" type="curve"/>
+      <point x="151" y="219" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="219" type="line"/>
+      <point x="119" y="171" type="line"/>
+      <point x="379" y="171" type="line"/>
+      <point x="379" y="219" type="line"/>
+    </contour>
+    <component base="uni0939094D_rvocalicvowelsignde" xOffset="265"/>
+    <contour>
+      <point x="544" y="447" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

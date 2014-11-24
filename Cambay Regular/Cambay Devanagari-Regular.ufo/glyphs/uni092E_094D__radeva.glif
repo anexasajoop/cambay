@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D_radeva" format="1">
+  <advance width="467"/>
+  <outline>
+    <contour>
+      <point x="338" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="456" type="line"/>
+      <point x="338" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="150" type="line"/>
+      <point x="151" y="150" type="line"/>
+      <point x="151" y="456" type="line"/>
+      <point x="96" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="491" y="408" type="line"/>
+      <point x="491" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="214" type="line"/>
+      <point x="34" y="181" type="line"/>
+      <point x="113" y="91" type="line"/>
+      <point x="113" y="91"/>
+      <point x="151" y="91"/>
+      <point x="151" y="91" type="curve"/>
+      <point x="151" y="214" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="214" type="line"/>
+      <point x="119" y="166" type="line"/>
+      <point x="379" y="166" type="line"/>
+      <point x="379" y="214" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="-28" type="line"/>
+      <point x="130" y="-28"/>
+      <point x="366" y="159"/>
+      <point x="366" y="159" type="curve"/>
+      <point x="341" y="192" type="line"/>
+      <point x="98" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="366" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

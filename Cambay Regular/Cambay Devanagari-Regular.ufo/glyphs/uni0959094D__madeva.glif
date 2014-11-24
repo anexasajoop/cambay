@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0959094D_madeva" format="1">
+  <advance width="956"/>
+  <outline>
+    <component base="uni0916094D_madeva"/>
+    <component base="nuktadeva" xOffset="77" yOffset="101"/>
+    <contour>
+      <point x="854" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="854" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

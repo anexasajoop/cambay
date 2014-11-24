@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0937094D_tthadeva" format="1">
+  <advance width="669"/>
+  <outline>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="265" y="408" type="line"/>
+      <point x="265" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="185" type="line"/>
+      <point x="299" y="174"/>
+      <point x="258" y="153"/>
+      <point x="205" y="153" type="curve" smooth="yes"/>
+      <point x="151" y="153"/>
+      <point x="114" y="188"/>
+      <point x="114" y="244" type="curve" smooth="yes"/>
+      <point x="114" y="456" type="line"/>
+      <point x="58" y="456" type="line"/>
+      <point x="58" y="244" type="line" smooth="yes"/>
+      <point x="58" y="164"/>
+      <point x="107" y="103"/>
+      <point x="207" y="103" type="curve" smooth="yes"/>
+      <point x="252" y="103"/>
+      <point x="302" y="120"/>
+      <point x="327" y="130" type="curve"/>
+    </contour>
+    <contour>
+      <point x="297" y="146" type="line"/>
+      <point x="323" y="185" type="line"/>
+      <point x="122" y="430" type="line"/>
+      <point x="84" y="402" type="line"/>
+    </contour>
+    <component base="tthadeva" xOffset="241"/>
+  </outline>
+</glyph>

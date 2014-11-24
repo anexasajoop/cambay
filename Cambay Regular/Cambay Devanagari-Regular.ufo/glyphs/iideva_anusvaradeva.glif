@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iideva_anusvaradeva" format="1">
+  <advance width="376"/>
+  <outline>
+    <component base="ideva"/>
+    <component base="uni0930094D_anusvaradeva" xOffset="158"/>
+  </outline>
+</glyph>

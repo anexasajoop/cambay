@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928094D_sadeva" format="1">
+  <advance width="754"/>
+  <outline>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="264" y="408" type="line"/>
+      <point x="264" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="244" type="line"/>
+      <point x="34" y="207" type="line"/>
+      <point x="98" y="105" type="line"/>
+      <point x="138" y="105" type="line"/>
+      <point x="138" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="244" type="line"/>
+      <point x="91" y="196" type="line"/>
+      <point x="294" y="196" type="line"/>
+      <point x="294" y="244" type="line"/>
+    </contour>
+    <component base="sadeva" xOffset="239"/>
+    <contour>
+      <point x="651" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="652" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

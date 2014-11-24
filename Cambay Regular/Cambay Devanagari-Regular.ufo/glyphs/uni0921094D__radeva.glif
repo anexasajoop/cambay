@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0921094D_radeva" format="1">
+  <advance width="405"/>
+  <outline>
+    <contour>
+      <point x="85" y="-100" type="line"/>
+      <point x="117" y="-137" type="line"/>
+      <point x="207" y="-71" type="line"/>
+      <point x="297" y="-137" type="line"/>
+      <point x="329" y="-100" type="line"/>
+      <point x="221" y="-21" type="line"/>
+      <point x="193" y="-21" type="line"/>
+    </contour>
+    <component base="ddadeva"/>
+    <contour>
+      <point x="302" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="215" y="-145" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

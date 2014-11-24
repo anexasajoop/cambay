@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928094D_shadeva" format="1">
+  <advance width="777"/>
+  <outline>
+    <contour>
+      <point x="-24" y="456" type="line"/>
+      <point x="-24" y="408" type="line"/>
+      <point x="253" y="408" type="line"/>
+      <point x="253" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="239" type="line"/>
+      <point x="34" y="202" type="line"/>
+      <point x="98" y="100" type="line"/>
+      <point x="138" y="100" type="line"/>
+      <point x="138" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="239" type="line"/>
+      <point x="91" y="191" type="line"/>
+      <point x="316" y="191" type="line"/>
+      <point x="316" y="239" type="line"/>
+    </contour>
+    <component base="shadeva" xOffset="234"/>
+    <contour>
+      <point x="674" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="675" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

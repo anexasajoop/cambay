@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedeva" format="1">
+  <advance width="193"/>
+  <unicode hex="0954"/>
+  <outline>
+    <component base="acute" yOffset="60"/>
+  </outline>
+</glyph>
