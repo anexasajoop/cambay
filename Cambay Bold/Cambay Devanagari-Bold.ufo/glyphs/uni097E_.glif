@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097E" format="1">
+  <advance width="433"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="66" y="-109" type="line"/>
+      <point x="364" y="-109" type="line"/>
+      <point x="364" y="-40" type="line"/>
+      <point x="66" y="-40" type="line"/>
+    </contour>
+    <component base="ddadeva"/>
+  </outline>
+</glyph>

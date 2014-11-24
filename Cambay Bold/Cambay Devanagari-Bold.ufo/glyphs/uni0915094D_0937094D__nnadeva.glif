@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0915094D0937094D_nnadeva" format="1">
+  <advance width="914"/>
+  <outline>
+    <contour>
+      <point x="764" y="0" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="849" y="466" type="line"/>
+      <point x="764" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="466" type="line"/>
+      <point x="344" y="396" type="line"/>
+      <point x="938" y="396" type="line"/>
+      <point x="938" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="626" y="78"/>
+      <point x="678" y="131"/>
+      <point x="678" y="227" type="curve" smooth="yes"/>
+      <point x="678" y="436" type="line"/>
+      <point x="589" y="436" type="line"/>
+      <point x="589" y="260" type="line" smooth="yes"/>
+      <point x="589" y="196"/>
+      <point x="587" y="161"/>
+      <point x="538" y="161" type="curve" smooth="yes"/>
+      <point x="489" y="161"/>
+      <point x="487" y="196"/>
+      <point x="487" y="260" type="curve" smooth="yes"/>
+      <point x="487" y="436" type="line"/>
+      <point x="398" y="436" type="line"/>
+      <point x="398" y="227" type="line" smooth="yes"/>
+      <point x="398" y="130"/>
+      <point x="446" y="78"/>
+      <point x="539" y="78" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni0915094D0937094D"/>
+    <contour>
+      <point x="806" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="806" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

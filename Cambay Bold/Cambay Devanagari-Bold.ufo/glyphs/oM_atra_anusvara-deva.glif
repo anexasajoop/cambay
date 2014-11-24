@@ -16,15 +16,7 @@
       <point x="110" y="560"/>
       <point x="137" y="560" type="curve" smooth="yes"/>
     </contour>
-    <component base="aaMatra-deva"/>
-    <component base="eMatra-deva" xOffset="200"/>
+    <component base="uni093E"/>
+    <component base="evowelsigndeva" xOffset="200"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>

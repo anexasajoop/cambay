@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnnadeva" format="1">
+  <advance width="431"/>
+  <unicode hex="0929"/>
+  <outline>
+    <contour>
+      <point x="281" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="366" y="466" type="line"/>
+      <point x="281" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="455" y="396" type="line"/>
+      <point x="455" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="280" type="line"/>
+      <point x="34" y="238" type="line"/>
+      <point x="95" y="105" type="line"/>
+      <point x="95" y="105"/>
+      <point x="152" y="105"/>
+      <point x="152" y="105" type="curve"/>
+      <point x="152" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="280" type="line"/>
+      <point x="91" y="202" type="line"/>
+      <point x="316" y="202" type="line"/>
+      <point x="316" y="280" type="line"/>
+    </contour>
+    <component base="nuktadeva" xOffset="207" yOffset="84"/>
+    <contour>
+      <point x="324" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="324" y="-45" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

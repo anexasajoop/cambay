@@ -12,8 +12,12 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Cambay Devanagari</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/11/09 15:09:44</string>
+	<string>2014/11/24 13:35:30</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pooja Saxena</string>
 	<key>openTypeNameDesignerURL</key>
@@ -45,7 +49,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>94</integer>
+	<integer>95</integer>
 	<key>xHeight</key>
 	<integer>384</integer>
 </dict>
