@@ -2,8 +2,8 @@
 <glyph name="oMatra_reph-deva" format="1">
   <advance width="227"/>
   <outline>
-    <component base="aaMatra-deva"/>
-    <component base="eMatra_reph-deva" xOffset="231"/>
+    <component base="uni093E"/>
+    <component base="evowelsigndeva_uni0930094D" xOffset="231"/>
   </outline>
   <lib>
     <dict>

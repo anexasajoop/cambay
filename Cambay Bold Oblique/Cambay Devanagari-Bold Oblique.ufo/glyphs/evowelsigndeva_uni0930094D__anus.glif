@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="evowelsigndeva_uni0930094D_anus" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-17" y="501"/>
+      <point x="-3" y="512"/>
+      <point x="0" y="528" type="curve" smooth="yes"/>
+      <point x="4" y="550"/>
+      <point x="-8" y="565"/>
+      <point x="-29" y="565" type="curve" smooth="yes"/>
+      <point x="-46" y="565"/>
+      <point x="-59" y="554"/>
+      <point x="-62" y="537" type="curve" smooth="yes"/>
+      <point x="-66" y="516"/>
+      <point x="-54" y="501"/>
+      <point x="-34" y="501" type="curve" smooth="yes"/>
+    </contour>
+    <component base="evowelsigndeva_uni0930094D"/>
+    <contour>
+      <point x="-94" y="447" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

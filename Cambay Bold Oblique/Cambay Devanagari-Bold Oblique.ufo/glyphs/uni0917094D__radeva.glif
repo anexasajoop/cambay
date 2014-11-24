@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0917094D_radeva" format="1">
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="-10" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="482" y="396" type="line"/>
+      <point x="496" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="407" y="466" type="line"/>
+      <point x="322" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="285" type="line"/>
+      <point x="-1" y="243" type="line"/>
+      <point x="64" y="130" type="line"/>
+      <point x="63" y="130"/>
+      <point x="124" y="133"/>
+      <point x="124" y="133" type="curve"/>
+      <point x="153" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="225" type="line"/>
+      <point x="142" y="225" type="line"/>
+      <point x="189" y="466" type="line"/>
+      <point x="104" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="-18" type="line"/>
+      <point x="272" y="104" type="line"/>
+      <point x="286" y="184" type="line"/>
+      <point x="7" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="276" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

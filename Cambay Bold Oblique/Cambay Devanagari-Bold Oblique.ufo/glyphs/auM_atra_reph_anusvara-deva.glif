@@ -2,8 +2,8 @@
 <glyph name="auMatra_reph_anusvara-deva" format="1">
   <advance width="227"/>
   <outline>
-    <component base="aaMatra-deva"/>
-    <component base="aiMatra_reph_anusvara-deva" xOffset="240"/>
+    <component base="uni093E"/>
+    <component base="aivowelsigndeva_uni0930094D_anu" xOffset="240"/>
   </outline>
   <lib>
     <dict>

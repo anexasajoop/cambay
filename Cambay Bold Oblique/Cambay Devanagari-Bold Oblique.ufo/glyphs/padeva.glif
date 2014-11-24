@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="padeva" format="1">
+  <advance width="464"/>
+  <unicode hex="092A"/>
+  <outline>
+    <contour>
+      <point x="319" y="224"/>
+      <point x="263" y="169"/>
+      <point x="167" y="169" type="curve" smooth="yes"/>
+      <point x="115" y="169"/>
+      <point x="107" y="199"/>
+      <point x="118" y="257" type="curve" smooth="yes"/>
+      <point x="157" y="456" type="line"/>
+      <point x="72" y="456" type="line"/>
+      <point x="30" y="241" type="line" smooth="yes"/>
+      <point x="14" y="160"/>
+      <point x="62" y="91"/>
+      <point x="164" y="91" type="curve" smooth="yes"/>
+      <point x="235" y="91"/>
+      <point x="303" y="134"/>
+      <point x="303" y="134" type="curve"/>
+      <point x="319" y="224" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="398" y="466" type="line"/>
+      <point x="313" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="474" y="396" type="line"/>
+      <point x="488" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="265" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

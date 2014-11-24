@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="viramadeva" format="1">
+  <advance width="271"/>
+  <unicode hex="094D"/>
+  <outline>
+    <contour>
+      <point x="168" y="-69"/>
+      <point x="215" y="-139"/>
+      <point x="244" y="-187" type="curve"/>
+      <point x="185" y="-232" type="line"/>
+      <point x="136" y="-159"/>
+      <point x="82" y="-140"/>
+      <point x="3" y="-140" type="curve"/>
+      <point x="23" y="-69" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="-22" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

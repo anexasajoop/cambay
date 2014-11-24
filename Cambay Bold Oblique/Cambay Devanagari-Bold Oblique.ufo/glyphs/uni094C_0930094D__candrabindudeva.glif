@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094C0930094D_candrabindudeva" format="1">
+  <advance width="213"/>
+  <outline>
+    <component base="aivowelsigndeva_uni0930094D_can" xOffset="245"/>
+    <component base="uni093E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

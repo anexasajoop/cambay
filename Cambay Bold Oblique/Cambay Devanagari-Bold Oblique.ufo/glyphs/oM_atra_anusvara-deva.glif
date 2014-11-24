@@ -16,8 +16,8 @@
       <point x="147" y="560"/>
       <point x="176" y="560" type="curve" smooth="yes"/>
     </contour>
-    <component base="aaMatra-deva"/>
-    <component base="eMatra-deva" xOffset="231"/>
+    <component base="uni093E"/>
+    <component base="evowelsigndeva" xOffset="231"/>
   </outline>
   <lib>
     <dict>

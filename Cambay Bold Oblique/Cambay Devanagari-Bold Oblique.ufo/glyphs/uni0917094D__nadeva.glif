@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0917094D_nadeva" format="1">
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="-10" y="466" type="line"/>
+      <point x="-24" y="396" type="line"/>
+      <point x="482" y="396" type="line"/>
+      <point x="496" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="407" y="466" type="line"/>
+      <point x="322" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="289" type="line"/>
+      <point x="0" y="247" type="line"/>
+      <point x="65" y="134" type="line"/>
+      <point x="64" y="134"/>
+      <point x="125" y="137"/>
+      <point x="125" y="137" type="curve"/>
+      <point x="154" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="229" type="line"/>
+      <point x="143" y="229" type="line"/>
+      <point x="189" y="466" type="line"/>
+      <point x="104" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="10" type="line"/>
+      <point x="274" y="114" type="line"/>
+      <point x="288" y="194" type="line"/>
+      <point x="6" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="50" type="line"/>
+      <point x="7" y="17" type="line"/>
+      <point x="101" y="-65" type="line"/>
+      <point x="147" y="-39" type="line"/>
+      <point x="101" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="261" y="-75" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

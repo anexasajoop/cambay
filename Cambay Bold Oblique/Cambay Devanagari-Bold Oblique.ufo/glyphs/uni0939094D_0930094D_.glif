@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0939094D0930094D" format="1">
+  <advance width="461"/>
+  <outline>
+    <contour>
+      <point x="206" y="-112"/>
+      <point x="260" y="-179"/>
+      <point x="289" y="-227" type="curve"/>
+      <point x="228" y="-275" type="line"/>
+      <point x="179" y="-202"/>
+      <point x="125" y="-183"/>
+      <point x="46" y="-183" type="curve"/>
+      <point x="66" y="-112" type="line"/>
+    </contour>
+    <component base="uni0939094D_radeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

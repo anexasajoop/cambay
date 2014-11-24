@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aideva" format="1">
+  <advance width="461"/>
+  <unicode hex="0910"/>
+  <outline>
+    <contour>
+      <point x="307" y="586" type="line"/>
+      <point x="275" y="636"/>
+      <point x="246" y="659"/>
+      <point x="196" y="659" type="curve"/>
+      <point x="171" y="659"/>
+      <point x="152" y="653"/>
+      <point x="127" y="645" type="curve"/>
+      <point x="151" y="579" type="line"/>
+      <point x="167" y="584"/>
+      <point x="182" y="586"/>
+      <point x="198" y="586" type="curve"/>
+      <point x="217" y="586"/>
+      <point x="226" y="576"/>
+      <point x="243" y="550" type="curve"/>
+      <point x="310" y="437" type="line"/>
+      <point x="398" y="437" type="line"/>
+    </contour>
+    <component base="edeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
